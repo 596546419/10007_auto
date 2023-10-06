@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-10-06 09:04:14
+! Last modified: 2023-10-06 11:54:39
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-10-06 09:04:14 ^
+!更新时间: 2023-10-06 11:54:38 ^
 
-!规则数量:30650^
+!规则数量:30646^
 !#################^
 
 ||-partner.net.daraz.com^
@@ -10940,8 +10940,6 @@
 ||crcdn01.adnxs.com^
 ||crcdn09.adnxs.com^
 ||cre-ads.com^
-||cre-dp.sina.cn^
-||cre.dp.sina.cn^
 ||cre.mix.sina.com.cn^
 ||creative-accelerate.ad.mobiuspace.net^
 ||creative-analytics.crossinstall.io^
@@ -13828,7 +13826,6 @@
 ||gjtrack.ucweb.com^
 ||gk.eutrty.top^
 ||gk.newsteps.top^
-||gk.sina.cn^
 ||gk1.lifepeoplexf.top^
 ||gk2.lifepeoplexf.top^
 ||gklqrdk.top^
@@ -17345,7 +17342,6 @@
 ||miui.hftaili.com^
 ||mivideo.g.mi.com^
 ||mix.adsame.com^
-||mix.sina.com.cn^
 ||mixadvert.com^
 ||mixer.sina.cn^
 ||mixern.sina.cn^
@@ -30933,6 +30929,11 @@
 @@||dragate-cn.dc.heytapmobi.com^$important,document
 ! 网易云音乐 音效下载
 @@||d*.music.126.net^$document
+! 新浪网页误杀
+@@||gk.sina.cn^
+@@||cre.dp.sina.cn^
+@@||mix.sina.com.cn^
+
 
 ! 添加一些规则
 ||s.360.cn^$important
