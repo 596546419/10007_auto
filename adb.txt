@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-10-09 22:15:03
+! Last modified: 2023-10-10 09:03:55
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-10-09 22:15:02 ^
+!更新时间: 2023-10-10 09:03:55 ^
 
-!规则数量:30665^
+!规则数量:30668^
 !#################^
 
 ||-partner.net.daraz.com^
@@ -13890,6 +13890,7 @@
 ||gmailhack.top^
 ||gmaster-pro.com^
 ||gmgbtg1b9srow19f.partner.net.daraz.com^
+||gmx23.top^
 ||gmx27.top^
 ||gmx28.top^
 ||gmx29.top^
@@ -14824,6 +14825,7 @@
 ||imgstat.baidu.com^
 ||imgx.mediav.com^
 ||immaculaterepair.pro^
+||immediatebedroom.pro^
 ||immediateedgeadv.com^
 ||immediatesignal.pro^
 ||imnpost.top^
@@ -28173,6 +28175,7 @@
 ||www.imads.ero-advertising.com^
 ||www.imageadvantage.net^
 ||www.imeds.ero-advertising.com^
+||www.immediatebedroom.pro^
 ||www.immediateedgeadv.com^
 ||www.impartial-steal.pro^
 ||www.impossiblemountain.pro^
