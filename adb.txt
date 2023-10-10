@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-10-10 09:03:55
+! Last modified: 2023-10-10 22:14:19
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-10-10 09:03:55 ^
+!更新时间: 2023-10-10 22:14:19 ^
 
-!规则数量:30668^
+!规则数量:30585^
 !#################^
 
 ||-partner.net.daraz.com^
@@ -91,6 +91,7 @@
 ||006-zigzagstr-frontpage-partner.net.daraz.com^
 ||006-zigzagstr.www.partner-authenticate.net.daraz.com^
 ||006-zigzagstrmail.partner-assets.net.daraz.com^
+||006-zigzagstrspyder-api-stage.net.daraz.com^
 ||006.emailvision.partner.net.daraz.com^
 ||006mailstage.partner.net.daraz.com^
 ||006www.partner-authenticate.net.daraz.com^
@@ -215,6 +216,7 @@
 ||06dishpurchasingcorporation.hb-api.tt.omtrdc.net^
 ||06qi8v82oo81zz4p.partner.net.daraz.com^
 ||07-1.dev.api.tt.omtrdc.net^
+||07-analytics.net.daraz.com^
 ||07-foxentertainment.hb-api.tt.omtrdc.net^
 ||073pago.traffic.net.daraz.com^
 ||076-i95143f0d.am.us.api.tt.omtrdc.net^
@@ -223,6 +225,8 @@
 ||08088.top^
 ||0809fuhewosu1.pro^
 ||083-gls-023-api-csr12.net.daraz.com^
+||083-gls-023-api-r-is-1-6.net.daraz.com^
+||083-gls-023-api-r-is-4-2.net.daraz.com^
 ||08dishpurchasingcorporation.hb-api.tt.omtrdc.net^
 ||08uxmg2bz7hc.top^
 ||09.hb-api.tt.omtrdc.net^
@@ -344,7 +348,6 @@
 ||123-emailvision.0-partner.net.daraz.com^
 ||123.manga1001.top^
 ||12315263276.mi.tt.omtrdc.net^
-||123pago-click.docs.net.daraz.com^
 ||123pago.api-stg.docs.net.daraz.com^
 ||123pago.download.net.daraz.com^
 ||123sex.top^
@@ -363,7 +366,6 @@
 ||14-dishpurchasingcorporation.hb-api.tt.omtrdc.net^
 ||14-partner.net.daraz.com^
 ||14.182abcnews.hb-api.tt.omtrdc.net^
-||14.partner.net.daraz.com^
 ||1401a.fin-advisr.store^
 ||1401e.fin-advisr.skin^
 ||1405bujomyy0.pro^
@@ -374,13 +376,11 @@
 ||14x5vjrnjelo.top^
 ||15-bskyb.hb-api.tt.omtrdc.net^
 ||15-dishpurchasingcorporation.hb-api.tt.omtrdc.net^
-||15-xspacemail.partner.net.daraz.com^
 ||15.t.api.tt.omtrdc.net^
 ||1505nigyrou8.pro^
 ||15gtest.bj2cu.u3.ucweb.com^
 ||15y.api.tt.omtrdc.net^
 ||16-bskyb.hb-api.tt.omtrdc.net^
-||16-partner.net.daraz.com^
 ||16.182abcnews.hb-api.tt.omtrdc.net^
 ||16.hb-api.tt.omtrdc.net^
 ||1605lefinau1.pro^
@@ -388,7 +388,6 @@
 ||163-92.tt.omtrdc.net^
 ||16c8nh2801z2.top^
 ||16gtest.bj2cu.u3.ucweb.com^
-||16marketing-analytics-yancancook.net.daraz.com^
 ||16marketing.apac-partner.net.daraz.com^
 ||17-dishpurchasingcorporation.hb-api.tt.omtrdc.net^
 ||17-partner.net.daraz.com^
@@ -500,7 +499,6 @@
 ||1ts17.top^
 ||1ts18.top^
 ||1ts19.top^
-||1txuek9aqbhvnrlz.partner.net.daraz.com^
 ||1up659mg7d5v.top^
 ||1wek.top^
 ||1wftkq.top^
@@ -611,6 +609,7 @@
 ||2knfvbxgx3bxruv4.partner.net.daraz.com^
 ||2ljhthlcbk81.top^
 ||2medo.top^
+||2nptmm1sjhslpgv9.partner.net.daraz.com^
 ||2ola.pro^
 ||2ouaedfsfxf9.top^
 ||2rvvqyq8afi0.top^
@@ -724,6 +723,7 @@
 ||3tiahjdjntjyhyix.partner.net.daraz.com^
 ||3u47oh9ikxs6.top^
 ||3ubyy7jdcfoarzee.partner.net.daraz.com^
+||3uq0gz9e3bdn5wka.partner.net.daraz.com^
 ||3urnt1b7bv5w.top^
 ||3uyc9xh46w9y1zsl.partner.net.daraz.com^
 ||3v4w.top^
@@ -790,6 +790,7 @@
 ||59cwrwawyiziirre.partner.net.daraz.com^
 ||5ad.leadboltads.net^
 ||5advertise.com^
+||5fvhl79rcfpy7xct.partner.net.daraz.com^
 ||5fwww06.api.api.tt.omtrdc.net^
 ||5g-hkcsl.top^
 ||5gtest.bj2cu.u3.ucweb.com^
@@ -824,7 +825,7 @@
 ||6gtest.bj2cu.u3.ucweb.com^
 ||6gyuw6wvt5fhf2io.partner.net.daraz.com^
 ||6pzmkf783riurk4w.partner.net.daraz.com^
-||6r33u9s.tokenapp.download^
+||6q1uar0m22o9szx7.partner.net.daraz.com^
 ||6snjvxkawrtolv2x.pro^
 ||6t09fag307ep.click^
 ||7-7-7-partner.com^
@@ -844,6 +845,7 @@
 ||7fwww5-1.api.api.tt.omtrdc.net^
 ||7fwww7.us.api.tt.omtrdc.net^
 ||7gtest.bj2cu.u3.ucweb.com^
+||7k4b7vwd1zddpgxk.partner.net.daraz.com^
 ||7l6h9iw5d0eibi3h.partner.net.daraz.com^
 ||7mmtv.top^
 ||7oc5b1i3v4iu.top^
@@ -854,6 +856,7 @@
 ||7r76oa.vyk.admaster.com.cn^
 ||7r8a9a.viqiyi.admaster.com.cn^
 ||7s4c.top^
+||7sktllpbcft1p2g7.partner.net.daraz.com^
 ||7vfpku3q8ree4yvi.partner.net.daraz.com^
 ||8-car24-web-wwww11node-9marketing31-okta.account-www.partner.net.daraz.com^
 ||80qg37rk70026ntf.partner.net.daraz.com^
@@ -906,6 +909,7 @@
 ||8dqc4u.viqiyi.admaster.com.cn^
 ||8dvzfa.vfs.admaster.com.cn^
 ||8ebtdbsjsu.click^
+||8f5qiyoskiz47bns.partner.net.daraz.com^
 ||8fpy7tfhadv6w06z.summer.net.daraz.com^
 ||8gtest.bj2cu.u3.ucweb.com^
 ||8kcejn547eirtjek.partner.net.daraz.com^
@@ -916,11 +920,13 @@
 ||8muses.download^
 ||8narwi309.click^
 ||8teen.pro^
+||8xpsvn3c31fnh2w8.partner.net.daraz.com^
 ||8y5pl0ke613jlhey.partner.net.daraz.com^
 ||9.pano.maps.cpt.api.tt.omtrdc.net^
 ||91.isafe.pro^
 ||91adv.com^
 ||91adv.com.cn^
+||91u7ts1ir79i51wu.partner.net.daraz.com^
 ||92f2m.top^
 ||92lottery.mobi^
 ||9308935.com^
@@ -947,6 +953,7 @@
 ||9ibbcq2d.sina.cn^
 ||9j5e.top^
 ||9lgg6fynr1rn5pi8.partner.net.daraz.com^
+||9mvcm9ouyy168nwr.partner.net.daraz.com^
 ||9nk5svs4phrd9flc.partner.net.daraz.com^
 ||9r7i9bo06157.top^
 ||9rwx8ngjcv2gri7s.partner.net.daraz.com^
@@ -1047,6 +1054,7 @@
 ||a23-03-07.api.recsys.lb.tt.omtrdc.net^
 ||a2comsivaslupsmmail.partner.net.daraz.com^
 ||a3kd0.top^
+||a40pl.progrbest.top^
 ||a4oh2s5u7cfdvkwn.partner.net.daraz.com^
 ||a4p.adpartner.pro^
 ||a72www.click.klantacties.tt.omtrdc.net^
@@ -1159,7 +1167,6 @@
 ||accounting-lib-ln-1ebs-partner.net.daraz.com^
 ||accounting.api-static-stage.lib-ht-1.net.daraz.com^
 ||accounting.spyder-api-lib-ht-1.net.daraz.com^
-||accountingaccountingaccountingiad.partner-pay.net.daraz.com^
 ||accounts-api-psbulle6.hb-fa-dev.tt.omtrdc.net^
 ||accounts-bskyb.hb-api.tt.omtrdc.net^
 ||accounts-dishpurchasingcorporation.hb-api.tt.omtrdc.net^
@@ -1188,11 +1195,11 @@
 ||achievablegoals.top^
 ||achievablegoalsbiz.top^
 ||acid-adserver.click^
-||acikdenizde-dijital-firsat.top^
 ||acookie.alimama.com^
 ||acoossa.top^
 ||acoossu.top^
 ||acoossz.top^
+||acount-google.email^
 ||acquisition.top^
 ||acsentcash.mllight.top^
 ||acspaces.ero-advertising.com^
@@ -1692,6 +1699,7 @@
 ||ad.groupon.net^
 ||ad.groupon.nl^
 ||ad.groupon.pl^
+||ad.growthgatewaytoday.com^
 ||ad.gt^
 ||ad.gtbrowser.com^
 ||ad.gunosy.com^
@@ -1886,7 +1894,6 @@
 ||ad.net^
 ||ad.net-c.com^
 ||ad.net-tool.jp^
-||ad.net.daraz.com^
 ||ad.netcommunities.com^
 ||ad.netgoo.com^
 ||ad.netmedia.hu^
@@ -2453,7 +2460,6 @@
 ||adlpost.top^
 ||adm.baidu.com^
 ||adm.leju.sina.com.cn^
-||adm.partner-www.net.daraz.com^
 ||adm0.autoimg.cn^
 ||adm1.autoimg.cn^
 ||adm2.autoimg.cn^
@@ -2480,7 +2486,6 @@
 ||admin8admin8admin8.partner-alpha.net.daraz.com^
 ||adminicdn-print-motratorcdn-print-mo-yancancook.net.daraz.com^
 ||administration.hb-api.tt.omtrdc.net^
-||administrator-freshegg-hwcdn.ns.emailvision.net.daraz.com^
 ||administrator-freshegg.partner.net.daraz.com^
 ||administrator-fresheggwwwiad.partner-pay.net.daraz.com^
 ||administratorns1-api-spring.net.daraz.com^
@@ -4485,7 +4490,6 @@
 ||adshare.toutiao.com^
 ||adshmct.qq.com^
 ||adshmmsg.qq.com^
-||adsholiday829.click^
 ||adsilo.pro^
 ||adsite.hot-mob.com^
 ||adsk2.co^
@@ -4692,7 +4696,6 @@
 ||advairdiskus.news^
 ||advalo.com^
 ||advance-leg.space^
-||advance-nw.net.daraz.com^
 ||advanced-web-analytics.com^
 ||advancedaily711.com^
 ||advancedcleaner.com^
@@ -5053,6 +5056,7 @@
 ||advnet.xyz^
 ||advnetwork.net^
 ||advnt.com^
+||advocaciasch.com.br^
 ||advocacy.ahip.org^
 ||advocard01.wt-eu02.net^
 ||advocateseducationalservices.com^
@@ -5095,7 +5099,6 @@
 ||advzilla.com^
 ||advzone.ioe.vn^
 ||adw.ero-advertising.com^
-||adwapail.partner.net.daraz.com^
 ||adwbs.ximalaya.com^
 ||adwin.startappservice.com^
 ||adwo.com^
@@ -5129,16 +5132,13 @@
 ||ae2-www.partner-pay.v1.net.daraz.com^
 ||ae29-sjc12-dr01-mail.partner.net.daraz.com^
 ||ae29-sjc12-dr01-www-cvs.partner-pay.net.daraz.com^
-||ae29-sjc12-dr01.partner.net.daraz.com^
 ||ae29-sjc12-dr01ae29-sjc12-dr01ae29-sjc12-dr01.ctl.partner-pay.net.daraz.com^
-||ae29.partner-prod.net.daraz.com^
 ||ae29.wwwiad.partner-pay.net.daraz.com^
 ||ae3888.top^
 ||ae888.mobi^
 ||aecpm.alicdn.com^
 ||aeg32y.top^
 ||aer-api-ns.net.emailvision.net.daraz.com^
-||aer-api.ns.emailvision.net.daraz.com^
 ||aer-apistaff.partner.net.daraz.com^
 ||aero.www.partner-authenticate.net.daraz.com^
 ||aetv.api.hb.tt.omtrdc.net^
@@ -5370,7 +5370,6 @@
 ||amazom.moutrwe.top^
 ||amazom.snmzou.top^
 ||amazon-verify-link.top^
-||amazon.afaem.top^
 ||amazon.mhgwda.top^
 ||amazon.myaccount-us.click^
 ||amazonbuy.top^
@@ -5430,6 +5429,7 @@
 ||analytics-au.clickdimensions.com^
 ||analytics-batch.blitz.gg^
 ||analytics-beacon.p.uliza.jp^
+||analytics-bskyb.hb-api.tt.omtrdc.net^
 ||analytics-ca.clickdimensions.com^
 ||analytics-cdiscount.com^
 ||analytics-cdn.redbubble.com^
@@ -5561,6 +5561,7 @@
 ||analytics.appsbnet.com.br^
 ||analytics.appservice.tech^
 ||analytics.archive.org^
+||analytics.argeton.com^
 ||analytics.arunraghavan.net^
 ||analytics.asiatech.ir^
 ||analytics.asml.com^
@@ -5924,6 +5925,7 @@
 ||analytics.maileon.com^
 ||analytics.mailmunch.co^
 ||analytics.makeitmeme.com^
+||analytics.makro.be^
 ||analytics.makro.pt^
 ||analytics.mall.tv^
 ||analytics.mambaui.com^
@@ -6100,6 +6102,7 @@
 ||analytics.qoqa.ch^
 ||analytics.qoqa.com^
 ||analytics.qoqa.ninja^
+||analytics.qualcomm.com^
 ||analytics.qualityquestions.co^
 ||analytics.qualityunit.com^
 ||analytics.query.yahoo.com^
@@ -6129,6 +6132,7 @@
 ||analytics.rogersmedia.com^
 ||analytics.rotapost.ru^
 ||analytics.rover.io^
+||analytics.runpath.com^
 ||analytics.s.id^
 ||analytics.s3.amazonaws.com^
 ||analytics.saas-vn.network^
@@ -6141,6 +6145,7 @@
 ||analytics.santander.co.uk^
 ||analytics.scalemonk.com^
 ||analytics.schoolwires.com^
+||analytics.seagate.com^
 ||analytics.seattleclouds.com^
 ||analytics.secretsresorts.com^
 ||analytics.seekxr.com^
@@ -6510,7 +6515,6 @@
 ||ap-southeast-1.prod.pr.analytics.console.aws.a2z.com^
 ||ap.ad-feed.com^
 ||ap.hb-api.tt.omtrdc.net^
-||ap006-xspacewww.partner.net.daraz.com^
 ||ap2.idmapper.api.tt.omtrdc.net^
 ||apac-ads.flurry.com^
 ||apac-cfw-c2s-01-n6x026-www-xspace.partner.net.daraz.com^
@@ -6522,13 +6526,11 @@
 ||apac-ns2.vivemail-partner-paytech.net.daraz.com^
 ||apac-ns2apac-ns2apac-ns2staff.partner.net.daraz.com^
 ||apac-openapi.viviotech.net.daraz.com^
-||apac-partner-01-car21c-f8.net.daraz.com^
 ||apac-partner-beta-interaction.net.daraz.com^
 ||apac-partner-dialin.net.daraz.com^
 ||apac-partner-dogfood.autumn.net.daraz.com^
 ||apac-partner-dr02.net.daraz.com^
 ||apac-partner-dssl.net.daraz.com^
-||apac-partner-echo-beta-interaction.net.daraz.com^
 ||apac-partner-filefreya.net.daraz.com^
 ||apac-partner-history-car21.net.daraz.com^
 ||apac-partner-ingress.patner.net.daraz.com^
@@ -6538,11 +6540,9 @@
 ||apac-partner-pay-getter.car10.net.daraz.com^
 ||apac-partner-resetdatar-oa-1.net.daraz.com^
 ||apac-partner-rg.net.daraz.com^
-||apac-partner-secure-allseason.net.daraz.com^
 ||apac-partner-stage-lib-ht-1.net.daraz.com^
 ||apac-partner-stage-r-es-1.net.daraz.com^
 ||apac-partner-stage-spyder-vpdp.net.daraz.com^
-||apac-partner-staging-r-ht-1.net.daraz.com^
 ||apac-partner-system-spring.net.daraz.com^
 ||apac-partner-tomcatcar40.net.daraz.com^
 ||apac-partner-wwwstaff.partner.net.daraz.com^
@@ -6552,12 +6552,9 @@
 ||apac-partner.emailvision.net.daraz.com^
 ||apac-partner.eng-b.ns.emailvision.net.daraz.com^
 ||apac-partner.engr.net.daraz.com^
-||apac-partner.github.csr12.net.daraz.com^
 ||apac-partner.ht-2.net.daraz.com^
 ||apac-partner.wlan-switch.net.daraz.com^
-||apac-partner.workstation.net.daraz.com^
 ||apac-partner.yancancook.nautilus.net.daraz.com^
-||apac-partneresetdataapac-partner-oa-1.net.daraz.com^
 ||apac-pro.blog.tt.omtrdc.net^
 ||apac-sg-ad-track.aralego.com^
 ||apac-traffic-keele-nnw-leis-mc-leis2.viviotech.net.daraz.com^
@@ -6575,9 +6572,7 @@
 ||apache.patnercgiemail-partner-pay.net.daraz.com^
 ||apache.staff-partner-patnercgi.net.daraz.com^
 ||apaciad.partner-pay.net.daraz.com^
-||apahichannel-partner.net.daraz.com^
 ||apajob-partner.net.daraz.com^
-||apapiserverlerellerpackaging.www.partner-pay.net.daraz.com^
 ||apaspyder-api-ns2.viviotespyder-apih.net.daraz.com^
 ||apc.profitactiv1.top^
 ||apelwiadomosci.click^
@@ -6730,13 +6725,8 @@
 ||api-dev.uat.tt.omtrdc.net^
 ||api-devel.tt.omtrdc.net^
 ||api-development.net.daraz.com^
-||api-devs.net.daraz.com^
 ||api-dialin.net.daraz.com^
 ||api-dids-car10csns2.twtelecids-car10m.net.daraz.com^
-||api-dipv6csfreya.net.daraz.com^
-||api-dmetrictestocsprint-mo.net.daraz.com^
-||api-do00-bootstrapsns2.twtele00-bootstrapom.net.daraz.com^
-||api-do02print-mo.net.daraz.com^
 ||api-doaisfreya.net.daraz.com^
 ||api-doalicertprint-mo.net.daraz.com^
 ||api-doapac-cfw-c2s-01-n6x026print-mo.net.daraz.com^
@@ -6744,7 +6734,6 @@
 ||api-dobackend-r-ht-1ns2.twtelecom.net.daraz.com^
 ||api-doberndpulchmedotcomcareersns2.twtelecom.net.daraz.com^
 ||api-docapiserver-freyarint-mo.net.daraz.com^
-||api-docauthenticationnauthentication2.twtelecom.net.daraz.com^
 ||api-docbillingcisconbillingcisco2.twtelecom.net.daraz.com^
 ||api-docclubrint-mo.net.daraz.com^
 ||api-doccrmrint-mo.net.daraz.com^
@@ -6755,9 +6744,7 @@
 ||api-docreviewprint-mo.net.daraz.com^
 ||api-docs-cisco-capwap-controller.net.daraz.com^
 ||api-docs-containercar13.net.daraz.com^
-||api-docs-csr11.net.daraz.com^
 ||api-docs-futures.tt.omtrdc.net^
-||api-docs-lib-ln-2.net.daraz.com^
 ||api-docs-stats.b.ns.emailvision.net.daraz.com^
 ||api-docs-summer.net.daraz.com^
 ||api-docs.bpi.tt.omtrdc.net^
@@ -6768,10 +6755,8 @@
 ||api-docs2.new-56.tt.omtrdc.net^
 ||api-docscsr45.dcsportal.0-astrologie.net.daraz.com^
 ||api-docsdashboard2.twtelecom.net.daraz.com^
-||api-docsdbadmin.net.daraz.com^
 ||api-docsde.net.daraz.com^
 ||api-docsdevvision.net.daraz.com^
-||api-docsdisabledns.twtelecom.net.daraz.com^
 ||api-docsdomains2.twtelecom.net.daraz.com^
 ||api-docsdr02.net.daraz.com^
 ||api-docsdropbocsfreya.net.daraz.com^
@@ -6783,55 +6768,38 @@
 ||api-docsfreya-apis.net.daraz.com^
 ||api-docsfreya-beta-aws.net.daraz.com^
 ||api-docsfreya-disabledns.net.daraz.com^
-||api-docsfreya-enginepartner.net.daraz.com^
-||api-docsfreya-lb-csr41.net.daraz.com^
 ||api-docsfreya-ns3.cl.bellsouth.net.daraz.com^
 ||api-docsfreya-pk.net.daraz.com^
 ||api-docsfreya-raw.net.daraz.com^
 ||api-docsfreya-redir-lib-oa-1.net.daraz.com^
 ||api-docsfreya-spyder-api-stage.net.daraz.com^
-||api-docsfreya.123pago.net.daraz.com^
 ||api-docsfreya.applications.beta-interaction.net.daraz.com^
 ||api-docsfreya.chdc.net.daraz.com^
 ||api-docsfreya.draganddropobjects.net.daraz.com^
 ||api-docsfreya.engine.a.ns.emailvision.net.daraz.com^
-||api-docsfreya.mssql.net.daraz.com^
-||api-docsfreya.net.daraz.com^
 ||api-docsfreya.ns.emailvision.net.daraz.com^
-||api-docsfreya.payment.net.daraz.com^
 ||api-docsfreya.pre-xspace.net.daraz.com^
 ||api-docsfreya.www.docs.net.daraz.com^
-||api-docsfreya1.ns1.api-docsfreyaiapi-docsfreyaiotech.net.daraz.com^
 ||api-docsfreyaaccountingns2.net.daraz.com^
-||api-docsfreyaapi-docsfreyaapi-docsfreyastaff.partner.net.daraz.com^
 ||api-docsfreyaapp-car10.net.daraz.com^
 ||api-docsfreyacar40.net.daraz.com^
-||api-docsfreyadevuction.net.daraz.com^
-||api-docsfreyadocumentation-r-ht-2.net.daraz.com^
-||api-docsfreyaector-allseason.net.daraz.com^
 ||api-docsfreyaengineering.net.daraz.com^
 ||api-docsfreyafilmyhit.net.daraz.com^
 ||api-docsfreyaghpartner.net.daraz.com^
 ||api-docsfreyainternalscsr21.net.daraz.com^
 ||api-docsfreyak8s-dev.net.daraz.com^
-||api-docsfreyalib.net.daraz.com^
-||api-docsfreyamanagement-r-dw-1.net.daraz.com^
 ||api-docsfreyans.hwemailvision.net.daraz.com^
 ||api-docsfreyaocker.a.ns.emailvision.net.daraz.com^
 ||api-docsfreyaoudapp-winter.net.daraz.com^
 ||api-docsfreyarestricted-patnercgi.net.daraz.com^
 ||api-docsfreyarnetesprint-mo.net.daraz.com^
-||api-docsfreyasystem.net.daraz.com^
 ||api-docsfreyaw.k8s.partner.net.daraz.com^
 ||api-docsfreyawww.aws.net.daraz.com^
 ||api-docsfrpcvisioneya.net.daraz.com^
-||api-docshdevnet-mo.net.daraz.com^
 ||api-docshelp-keele-nnw-leis-mc-leis.net.daraz.com^
-||api-docshopfreya.net.daraz.com^
 ||api-docsintegrationbeta.twtelecom.net.daraz.com^
 ||api-docskr.net.daraz.com^
 ||api-docsns2-docsnewnautilus12345proxy3.net.daraz.com^
-||api-docsns2-filmyhit.net.daraz.com^
 ||api-docsns2-freya.net.daraz.com^
 ||api-docsns2-lib-ln-2.net.daraz.com^
 ||api-docsns2-ns2.twtelecom.net.daraz.com^
@@ -6848,44 +6816,30 @@
 ||api-docsns2.corporatetwtelecom.net.daraz.com^
 ||api-docsns2.cs-utils-rtr.edge.net.daraz.com^
 ||api-docsns2.dctelecom.net.daraz.com^
-||api-docsns2.internal.twtelecom.net.daraz.com^
 ||api-docsns2.latinemailvision-twtelecom.net.daraz.com^
 ||api-docsns2.lyncdiscover.net.daraz.com^
 ||api-docsns2.net.daraz.com^
-||api-docsns2.node.ns.emailvision.net.daraz.com^
 ||api-docsns2.print-mo.twtelecom.net.daraz.com^
 ||api-docsns2.qlikview.net.daraz.com^
-||api-docsns2.r-es-1.net.daraz.com^
-||api-docsns2.restricted-wwwtwtelecom.net.daraz.com^
 ||api-docsns2.scm-r-ln-1.twtelecom.net.daraz.com^
-||api-docsns2.spring-twtelecom.net.daraz.com^
 ||api-docsns2.tazure-freyatelecom.net.daraz.com^
-||api-docsns2.thtgbtelecom.net.daraz.com^
 ||api-docsns2.tickets-twtelecom.net.daraz.com^
 ||api-docsns2.tk8s-prodtelecom.net.daraz.com^
-||api-docsns2.tkube-partnertelecom.net.daraz.com^
-||api-docsns2.twtelecom-msgx-space.net.daraz.com^
 ||api-docsns2.twtelecom.0.net.daraz.com^
 ||api-docsns2.twtelecom.cgi-emailvision.net.daraz.com^
 ||api-docsns2.twtelecom.cisco-capwap-authentication.net.daraz.com^
 ||api-docsns2.twtelecom.retail.net.daraz.com^
-||api-docsns2.twtelecomfiles.net.daraz.com^
-||api-docsns2.twtelecomhinet.net.daraz.com^
 ||api-docsns2.twtelecomk8s-prodlib-oa-2.net.daraz.com^
 ||api-docsns2.twtelecomnetmail.net.daraz.com^
 ||api-docsns2.twtelecomplugins.net.daraz.com^
-||api-docsns2.twtelepopm.net.daraz.com^
 ||api-docsns2.twtespyder-api-stageecom.net.daraz.com^
 ||api-docsns2.uploadlibtwtelecom.net.daraz.com^
-||api-docsns2.virtual.twtelecom.net.daraz.com^
 ||api-docsns2.webapp.net.daraz.com^
 ||api-docsns2system-r-es-1.net.daraz.com^
 ||api-docsns3.000-038.net.daraz.com^
 ||api-docsnsazure.twtelecom.net.daraz.com^
 ||api-docsnsazurevision.twtelecom.net.daraz.com^
 ||api-docsnscontrol.twtelecom.net.daraz.com^
-||api-docsnsrpcvision.twtelecom.net.daraz.com^
-||api-docsnsswagger.twtelecom.net.daraz.com^
 ||api-docsnsw-htgb-a.twtelecom.net.daraz.com^
 ||api-docsnswlan.twtelecom.net.daraz.com^
 ||api-docspartner-paygh.net.daraz.com^
@@ -6894,7 +6848,6 @@
 ||api-docsphoto.net.daraz.com^
 ||api-docsprimail-ns1-mo.net.daraz.com^
 ||api-docsprimc-mo.net.daraz.com^
-||api-docsprinewsgroups-mo.net.daraz.com^
 ||api-docsprint-01-car21-web-wwww0node.net.daraz.com^
 ||api-docsprint-affiliateso.net.daraz.com^
 ||api-docsprint-apiserverler.net.daraz.com^
@@ -6904,33 +6857,21 @@
 ||api-docsprint-mo-chd.net.daraz.com^
 ||api-docsprint-mo-cisco-capwap-controller.net.daraz.com^
 ||api-docsprint-mo-freya.net.daraz.com^
-||api-docsprint-mo-global-lib-ht-2.net.daraz.com^
-||api-docsprint-mo-ht-1.net.daraz.com^
 ||api-docsprint-mo-ns2.cl.bellsouth.net.daraz.com^
 ||api-docsprint-mo-partner.net.daraz.com^
-||api-docsprint-mo-repo.net.daraz.com^
 ||api-docsprint-mo-sandbox.net.daraz.com^
-||api-docsprint-mo-stagemn.net.daraz.com^
 ||api-docsprint-mo-training-ns3.net.daraz.com^
 ||api-docsprint-mo-v2.ns.emailvision.net.daraz.com^
-||api-docsprint-mo-yancancook.net.daraz.com^
-||api-docsprint-mo.adminsfreya.net.daraz.com^
 ||api-docsprint-mo.analytics-yancancook.net.daraz.com^
 ||api-docsprint-mo.cms1hinet.net.daraz.com^
 ||api-docsprint-mo.csr41.net.daraz.com^
 ||api-docsprint-mo.ctl.partner-pay.net.daraz.com^
-||api-docsprint-mo.designs.net.daraz.com^
-||api-docsprint-mo.elasticns1.net.daraz.com^
-||api-docsprint-mo.guia.net.daraz.com^
 ||api-docsprint-mo.lib-ht-1.support.net.daraz.com^
 ||api-docsprint-mo.mixer-prod.net.daraz.com^
 ||api-docsprint-mo.net-mo.net.daraz.com^
 ||api-docsprint-mo.net.daraz.com^
-||api-docsprint-mo.ops.net.daraz.com^
-||api-docsprint-mo.sjc12.net.daraz.com^
 ||api-docsprint-mo.sp.net.daraz.com^
 ||api-docsprint-mocloudappr.net.daraz.com^
-||api-docsprint-mocm-car10.net.daraz.com^
 ||api-docsprint-mocvs-car10.net.daraz.com^
 ||api-docsprint-modropb.ns.emailvision.net.daraz.com^
 ||api-docsprint-moemea-r-oa-2.net.daraz.com^
@@ -7079,6 +7020,7 @@
 ||api-oxpring.net.daraz.com^
 ||api-partner.net.daraz.com^
 ||api-partners-beta.tipjar.tt.omtrdc.net^
+||api-pentest.beta-us-1.tt.omtrdc.net^
 ||api-player.urekamedia.com^
 ||api-pluto-authorization-car40.net.daraz.com^
 ||api-pluto-paywall.ns.emailvision.net.daraz.com^
@@ -7265,7 +7207,6 @@
 ||api-videosocsfreya.net.daraz.com^
 ||api-vision-production.tt.omtrdc.net^
 ||api-viva.tt.omtrdc.net^
-||api-web1.bio^
 ||api-wlanns2.twtelecom.net.daraz.com^
 ||api-wolken-cms.01.tt.omtrdc.net^
 ||api-xaccwww.partner.net.daraz.com^
@@ -7628,7 +7569,6 @@
 ||api.exoclick.com^
 ||api.exp.sofology.co.uk^
 ||api.exponea.com^
-||api.ext.evolution.protective.com^
 ||api.ezca.asia^
 ||api.f8bet0.com^
 ||api.f8bet5.com^
@@ -8242,8 +8182,7 @@
 ||applandforbuddies.top^
 ||apple-icloud-lost.top^
 ||apple-id-cziphone.top^
-||apple.appleidah.top^
-||apple.appleidml.top^
+||apple-sandbox.corp.etonreve.com^
 ||appleworldwidedeveloper-stage.hb-api.omtrdc.net^
 ||appleworldwidedeveloper-stage.hb-api.tt.omtrdc.net^
 ||appleworldwidedeveloper.hb-api.omtrdc.net^
@@ -8292,7 +8231,6 @@
 ||arc-api.awscmhqa1.k8s.tt.omtrdc.net^
 ||arc1.msn.com^
 ||arcfctypact.top^
-||archdukes-crouches.click^
 ||arcor-partner.de^
 ||arcturus-investing.pro^
 ||argo.v2.api.tt.omtrdc.net^
@@ -8303,7 +8241,6 @@
 ||arpe.top^
 ||arriveatbiz.top^
 ||arrivecg.top^
-||arriveh.top^
 ||arrivei.top^
 ||arriveik.top^
 ||arrivend.top^
@@ -8458,7 +8395,6 @@
 ||audid-api.taobao.com^
 ||audika-d2d.ads.tt.omtrdc.net^
 ||augustow-haus.ads.tt.omtrdc.net^
-||aukkgo.top^
 ||aum.api.us.us.tt.omtrdc.net^
 ||auntlyseniors.top^
 ||aurumx.mllight.top^
@@ -8537,7 +8473,6 @@
 ||authlmsticatemail.partner.net.daraz.com^
 ||authns.api-spring.net.daraz.com^
 ||authorization-car21-spyder-api-stage.net.daraz.com^
-||authorization-car40-www-cvs.partner-pay.net.daraz.com^
 ||authorization-car40.partner.net.daraz.com^
 ||authorization-kube-partner.a.ns.emailvision.net.daraz.com^
 ||authorization-partner-payghr21.net.daraz.com^
@@ -8546,7 +8481,6 @@
 ||authorization.api-docs.net.daraz.com^
 ||authorization.api-docsfreya-car40.net.daraz.com^
 ||authorization.api-xspace.net.daraz.com^
-||authorization.summer.partner-pay.net.daraz.com^
 ||authorization.swagger-www.partner-pay.net.daraz.com^
 ||authpartner-api-stg.net.daraz.com^
 ||autkube-partnerenticatemail.partner.net.daraz.com^
@@ -8555,12 +8489,12 @@
 ||autocar-dm.tt.omtrdc.net^
 ||autoconfig.api.rz.tt.omtrdc.net^
 ||autoconfig.t.us.api.tt.omtrdc.net^
-||autodiscoverwww-cvs.partner-pay.net.daraz.com^
 ||autoline-top.com^
 ||autolk02.mta.tt.omtrdc.net^
 ||automizely-analytics.com^
 ||autoseo-traffic.com^
 ||autpre-livekitenticatemail.partner.net.daraz.com^
+||autspyder-api-prodenticate.net.daraz.com^
 ||autumn.open-docker.net.daraz.com^
 ||autumnfrontpage-partner.net.daraz.com^
 ||autumnwww.partner-prod.net.daraz.com^
@@ -8582,14 +8516,12 @@
 ||aw.mic.mob.com^
 ||awaps.yandex.net^
 ||awaps.yandex.ru^
-||awek-twitter-viral-hot.tme-viral.com^
 ||awer.masteryu.top^
 ||awfull.pro^
 ||awkljjaaweyzm.top^
 ||aws-api.sail-personalize.com^
 ||aws-api.sail-track.com^
 ||aws-emailvision.mail.partner.net.daraz.com^
-||aws-mail.partner-assets.net.daraz.com^
 ||aws-partner-pay-europewest.cs-utils-rtr.net.daraz.com^
 ||aws-partner-prod.cs-utils-rtr.net.daraz.com^
 ||aws-update.net^
@@ -8597,11 +8529,9 @@
 ||aws.api-docsns2.net.daraz.com^
 ||aws.api-xspacewww.partner.net.daraz.com^
 ||aws.cs-utils-api-localhost.net.daraz.com^
-||aws.cs-utils-partner-payr.net.daraz.com^
 ||aws.csr41.analytics.net.daraz.com^
 ||aws.kube-partner.net.daraz.com^
 ||aws.ns.emailvision.staff-partner.net.daraz.com^
-||aws.ns.tomcat-partner-pay.net.daraz.com^
 ||aws.partner-pay-europewest-ns.emailvision.net.daraz.com^
 ||aws.partner-pay-utils-rtr.net.daraz.com^
 ||aws.partner-paygh-cs-utils-rtr.net.daraz.com^
@@ -8657,6 +8587,7 @@
 ||b2binsider.adobe.com^
 ||b2bocab2bhost-www.partner.net.daraz.com^
 ||b2invest-pl.top^
+||b2trccb4fnf6nd1k.partner.net.daraz.com^
 ||b4jy.top^
 ||b63ww.click.klantacties.tt.omtrdc.net^
 ||b6c4.top^
@@ -8676,7 +8607,6 @@
 ||backend-r-ht-1-www.partner.net.daraz.com^
 ||backend-r-ht-1.partner.net.daraz.com^
 ||backend-r-ht-1backend-r-ht-1backend-r-ht-1.ctl.partner-pay.net.daraz.com^
-||backend-r-ht-1backend-r-ht-1backend-r-ht-1.partner.nautilus.net.daraz.com^
 ||backend-r-traffic-1.net.daraz.com^
 ||backendbackendbackend.partner-payseller.net.daraz.com^
 ||backlinks-fast-top.com^
@@ -9202,6 +9132,7 @@
 ||blog-m.ofishlprog2.click^
 ||blog-pold.stat-pro.site^
 ||blog-pro.prosinv.site^
+||blog-tx.tx1tx.click^
 ||blog-women.tesx3.top^
 ||blog.100.tpd-test.api.sre.tt.omtrdc.net^
 ||blog.activeprog2.top^
@@ -9292,6 +9223,7 @@
 ||bollyshare-api-spring.net.daraz.com^
 ||bollyshare-partner.net.daraz.com^
 ||bollywoodxxx.pro^
+||bombitupapk.pro^
 ||bonertraffic.mobi^
 ||bonertraffic12.mobi^
 ||bonertraffic12.pro^
@@ -9302,7 +9234,6 @@
 ||bonga.everadpro.click^
 ||bongacams.com^
 ||bongadrop.top^
-||bonus-csmoney.top^
 ||bonyspecialist.pro^
 ||bonzai.ad^
 ||booking-eu.pay-id925856.top^
@@ -9623,7 +9554,6 @@
 ||caiadvision40.k8s-piadvisionod.net.daraz.com^
 ||caing.adsame.com^
 ||cainv.click^
-||caixadirectaonline.cgd-pt.top^
 ||caixin.adsame.com^
 ||caixinimg.adsame.com^
 ||cal.meizu.com^
@@ -9746,6 +9676,7 @@
 ||ccxfz.foryts.top^
 ||cd-ads.com^
 ||cdd-pro.web.app^
+||cdlr3smizojb8n3p.partner.net.daraz.com^
 ||cdm.uncensored-hentai.top^
 ||cdn-adn-https-share.rayjump.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
@@ -10149,7 +10080,6 @@
 ||cisco-capwap-controller-api-docsns2.twtelecom.net.daraz.com^
 ||cisco-capwap-controller.api-docsprint-mo.net.daraz.com^
 ||cisco-capwap-controller.partner-assets.net.daraz.com^
-||cisco-capwap-controller.www.partner-legacy.net.daraz.com^
 ||cisco-capwap-datalerauthenticatemail.partner.net.daraz.com^
 ||cisco-capwap-datalercisco-capwap-datalercisco-capwap-dataler.iad.partner-pay.net.daraz.com^
 ||cisco-capwap-datalerspyder-api.net.daraz.com^
@@ -10248,6 +10178,7 @@
 ||click.aaptiv.com^
 ||click.aarthpro.com^
 ||click.absoluteagency.com^
+||click.abundanceengine.com^
 ||click.ad-stir.com^
 ||click.ad1.ru^
 ||click.adimmix.com^
@@ -10300,8 +10231,10 @@
 ||click.clktraker.com^
 ||click.comm.rcibank.co.uk^
 ||click.community.carousell.com^
+||click.compli.com^
 ||click.d2pass.com^
 ||click.dangdang.com^
+||click.datanyze.com^
 ||click.dealshark.com^
 ||click.depop.com^
 ||click.devemails.skechers.com^
@@ -10333,6 +10266,7 @@
 ||click.email.soundhound.com^
 ||click.email.strawberry.no^
 ||click.emails.creditonebank.com^
+||click.energyofachievements.com^
 ||click.engineering.publicissapient.fr^
 ||click.execrank.com^
 ||click.expdirclk.com^
@@ -10580,6 +10514,7 @@
 ||cloudappwebapp.www.partner-pay.net.daraz.com^
 ||cloudfront-cwww.partner-alpha.net.daraz.com^
 ||cloudfront.mclick.mobi^
+||cloudfrontcar31pre-api-xspace.net.daraz.com^
 ||cloudfrontcloudfrontcloudfront-xspace.partner.net.daraz.com^
 ||cloudpsh.top^
 ||cloudpush.iqiyi.com^
@@ -10663,6 +10598,7 @@
 ||codzienny-szyk.top^
 ||cofz9.top^
 ||coin-ad.com^
+||coinbas.top^
 ||coindark-invest.pro^
 ||coinexbit.top^
 ||coinlife.click^
@@ -11044,7 +10980,6 @@
 ||csma95349.analytics.edgesuite.net^
 ||csmoneyofficiall.top^
 ||csmoonrise.pro^
-||csmorney-authenthicate.top^
 ||csr12-accounting-lib-ln-1.api.net.daraz.com^
 ||csr12.api-latinemailvision.net.daraz.com^
 ||csr12.trial-ns1-api.net.daraz.com^
@@ -11116,6 +11051,7 @@
 ||czdffsa.top^
 ||czfsf.formhh.top^
 ||czmedia.top^
+||d-simple-api.com^
 ||d.clkservice.youdao.com^
 ||d.exit-ad.com^
 ||d.image-ad.jp^
@@ -11249,6 +11185,7 @@
 ||data-sdk-uuid-report.dreport.meituan.net^
 ||data.ad-score.com^
 ||data.ads.oppomobile.com^
+||data.advisercomms.aware.com.au^
 ||data.aem-sites-internal.adobe.com^
 ||data.api.kaffnet.com^
 ||data.b2bmail.adobe.com^
@@ -11408,6 +11345,7 @@
 ||demo-sdk.tt.omtrdc.net^
 ||demo.adsame.com^
 ||demo.api-pluto2-lib-ln-1.net.daraz.com^
+||demo.emaillpb.adobe.com^
 ||demo.hb-api.tt.omtrdc.net^
 ||denisecarey.top^
 ||deniseconnie.top^
@@ -11487,6 +11425,7 @@
 ||devs.www.partner-legacy.net.daraz.com^
 ||devssummerc.www.partner.net.daraz.com^
 ||devssummerebapp.devssummerdevssummerdevssummer.partner-pay.net.daraz.com^
+||devtest.hb-api.tt.omtrdc.net^
 ||devtomcat-partner-payreya.net.daraz.com^
 ||devvision.cs-utils-rtr.analytics.net.daraz.com^
 ||devwww.staff-partner.net.daraz.com^
@@ -11578,6 +11517,7 @@
 ||discover-www.partner.net.daraz.com^
 ||discover.partner.net.daraz.com^
 ||discovery-ssl.hb-api.tt.omtrdc.net^
+||discovery.firewall.hb-api.tt.omtrdc.net^
 ||discuz.gtimg.cn^
 ||disfigured-state.pro^
 ||dishpurchasingcorporation-bucky.hb-api.tt.omtrdc.net^
@@ -11602,6 +11542,7 @@
 ||dishpurchasingcorporation-v.hb-api.tt.omtrdc.net^
 ||dishpurchasingcorporation.hb-api.tt.omtrdc.net^
 ||dishpurchasingcorporation10.hb-api.tt.omtrdc.net^
+||dishpurchasingcorporation14.hb-api.tt.omtrdc.net^
 ||dishpurchasingcorporationbackend.hb-api.tt.omtrdc.net^
 ||dishpurchasingcorporationdl.hb-api.tt.omtrdc.net^
 ||dishpurchasingcorporationf.hb-api.tt.omtrdc.net^
@@ -11746,19 +11687,14 @@
 ||dns1-partner-pay-europewest.freshegg.production.net.daraz.com^
 ||dns1-stage-spyder-api.freshegg.production.net.daraz.com^
 ||dns1.apac-freshegg-ebs-partner.net.daraz.com^
-||dns1.api-localhost-administrator-freshegg.net.daraz.com^
 ||dns1.api-springreshegg.ingress.net.daraz.com^
 ||dns1.api-xspace.lab-freshegg.net.daraz.com^
 ||dns1.engine.fresheggtomcat-partner-pay.net.daraz.com^
-||dns1.engine.partner-legacy.net.daraz.com^
 ||dns1.engine.score-api.freshegg.net.daraz.com^
 ||dns1.freshegg-analytics-yancancook.ingress.net.daraz.com^
 ||dns1.freshegg-open.production.net.daraz.com^
 ||dns1.freshegg-partner-bamboo.ingress.net.daraz.com^
-||dns1.freshegg.analytics-yancancook-ingress.net.daraz.com^
-||dns1.freshegg.api-docsprint-mo.client.net.daraz.com^
 ||dns1.freshegg.email-partner-paylient.net.daraz.com^
-||dns1.freshegg.ingressscore-api.net.daraz.com^
 ||dns1.freshegg.partner-alpha-production.net.daraz.com^
 ||dns1.freshegg.partner-pay-getter-ingress.net.daraz.com^
 ||dns1.freshegg.partner-paygh-client.net.daraz.com^
@@ -11767,14 +11703,11 @@
 ||dns1.partner-payeshegg.ingress.net.daraz.com^
 ||dns1.partner-paysellerlogin-freshegg.net.daraz.com^
 ||dns1.pre-api-xspaceapac-freshegg.net.daraz.com^
-||dns1.profiles.analytics-yancancook.net.daraz.com^
 ||dns1.profiles.api-pluto2-freshegg.net.daraz.com^
 ||dns1.profiles.api-static-stage.freshegg.net.daraz.com^
 ||dns1.profiles.fresheggfrontpage-partner.net.daraz.com^
 ||dns1.profiles.partner-pay.net.daraz.com^
-||dns1.tomcat-partner-pay.freshegg.net.daraz.com^
 ||dns1.traffic.freshegg.cloud.net.daraz.com^
-||dns1apac-partner.freshegg.cloud.net.daraz.com^
 ||dns1www.partner-prod.net.daraz.com^
 ||dnsbl.test.adobe.tt.omtrdc.net^
 ||doatgiveaway.top^
@@ -11816,10 +11749,8 @@
 ||dogfood-ns.localhost-www.partner.net.daraz.com^
 ||dogfood-ns.partner-pay.net.daraz.com^
 ||dogfood-ns.partner-prodvision.net.daraz.com^
-||dogfood-nssr12.api.net.daraz.com^
 ||dogfood-www.tomcat-partner-pay.net.daraz.com^
 ||dogfood.api.net.daraz.com^
-||dogfood.csr31.partner.net.daraz.com^
 ||dogfood.ns-api-xspacewww.emailvision.net.daraz.com^
 ||dogfood.ns-partner-bamboo.emailvision.net.daraz.com^
 ||dogfood.ns.emailvision.apac-partner.net.daraz.com^
@@ -11831,7 +11762,6 @@
 ||doiadvisionumentr-is-1-2.net.daraz.com^
 ||doikladnakl.click^
 ||doitruy-www.ctl.partner-pay.net.daraz.com^
-||doitruyiadvision.net.daraz.com^
 ||dojkihd.mobi^
 ||dok.lifepeoplexf.top^
 ||dokauzob.top^
@@ -12042,10 +11972,9 @@
 ||dr.api.useinsider.com^
 ||dr.newplatf.top^
 ||dr01dr01dr01.partner-pay-europedr01est.net.daraz.com^
-||dr01www.email-partner-pay.net.daraz.com^
+||dradiocanada.hb-api.tt.omtrdc.net^
 ||draftyreview.pro^
 ||draganddropobjects.partner-pay-europewest.net.daraz.com^
-||draganddropobjectsdraganddropobjectsdraganddropobjectsiad.partner-pay.net.daraz.com^
 ||dragate-in-dc.heytapmobile.com^
 ||dragborninvesting.pro^
 ||dralig-investing.pro^
@@ -12073,8 +12002,6 @@
 ||dropbox-download-eu.com^
 ||dropbox-download.com^
 ||drtladv.cc^
-||drupalchd-www.partner.net.daraz.com^
-||drzlive-mail-europewest.partner.net.daraz.com^
 ||drzliving-www.partner.net.daraz.com^
 ||ds-api-public.addthis.com.edgekey.net^
 ||ds.advg.jp^
@@ -12105,8 +12032,6 @@
 ||dsp.youdao.com^
 ||dspimg.adsame.com^
 ||dspwin.adsame.com^
-||dstaff-partner.emailfreshegg.net.daraz.com^
-||dtomcat-partner-payttomcat-partner-payr-es-1.net.daraz.com^
 ||dts.crispadvertising.com^
 ||dtscout.rtb.adx1.com^
 ||dtta.ero-advertising.com^
@@ -12135,7 +12060,6 @@
 ||dvs1.freepl.top^
 ||dw-collect.ksosoft.com^
 ||dw-online.ksosoft.com^
-||dw-svc.www.partner.net.daraz.com^
 ||dw.api.net.daraz.com^
 ||dw.progrr.top^
 ||dw0uo2mnd1srzwch.partner.net.daraz.com^
@@ -12143,6 +12067,7 @@
 ||dworzec2.webd.pro^
 ||dwp3ce9c.top^
 ||dwpqv4iz5ub2xal5.partner.net.daraz.com^
+||dwz1e8fylh7tgsaj.partner.net.daraz.com^
 ||dx-cards-css.iqiyi.com^
 ||dxjtqy121wi614m9.partner.net.daraz.com^
 ||dxp.baidu.com^
@@ -12204,18 +12129,15 @@
 ||east-ns2.cl.iadvisionllsouth.net.daraz.com^
 ||east-ns2.cl.spyder-api-bellsouth.net.daraz.com^
 ||east-ns2.open.bellsouth.net.daraz.com^
-||east-ns2.partner.net.daraz.com^
 ||east-ns2.pre-api-xspace.cl.bellsouth.net.daraz.com^
 ||east-ns2authenticatemail.partner.net.daraz.com^
 ||east-ns2www-xspace.partner.net.daraz.com^
 ||east-partner-bamboo-oa-2.net.daraz.com^
 ||east-partner-pay-oa-2.net.daraz.com^
 ||east-pre-api-xspace2.cl.bellsouth.net.daraz.com^
-||east-r-oa-2.partner-pay.net.daraz.com^
 ||east-r-oa-2east-r-oa-2east-r-oa-2.partner-pay-getter.net.daraz.com^
 ||east.ads.simpli.fi^
 ||east.www.partner.net.daraz.com^
-||eastcsr12.partner-authenticate.net.daraz.com^
 ||easter-analytics.com^
 ||eastmail-portal.partner.net.daraz.com^
 ||eastppre-open-apiint-mo.net.daraz.com^
@@ -12273,17 +12195,14 @@
 ||ebs-partner-profile.net.daraz.com^
 ||ebs-partner-redircar40.net.daraz.com^
 ||ebs-partner-scm-lib-ln-1.net.daraz.com^
-||ebs-partner-testing.net.daraz.com^
 ||ebs-partner-tpecsr31.net.daraz.com^
 ||ebs-partner.administratorns1.net.daraz.com^
 ||ebs-partner.apache.ns2.viviotech.net.daraz.com^
 ||ebs-partner.apps.net.daraz.com^
 ||ebs-partner.assetsvision.net.daraz.com^
-||ebs-partner.authenticate.net.daraz.com^
 ||ebs-partner.cloudapp-winter.net.daraz.com^
 ||ebs-partner.gatewayr-hx-1.net.daraz.com^
 ||ebs-partner.ghcpicsr21.net.daraz.com^
-||ebs-partner.manage.lib-oa-1.net.daraz.com^
 ||ebs-partner.net.daraz.com^
 ||ebs-partner.net10.net.daraz.com^
 ||ebs-partner.ns.edisabledvision.net.daraz.com^
@@ -12321,6 +12240,7 @@
 ||eco.taobao.com^
 ||ecommerce.wwwiad.partner-pay.net.daraz.com^
 ||ecommercexspacemail.partner.net.daraz.com^
+||economicadvantage.midamerican.com^
 ||economistobsessive.top^
 ||ecoo1xdom.hairpopshop.top^
 ||ecool1xland.inestioshop.top^
@@ -12332,7 +12252,6 @@
 ||ed.gumoda.top^
 ||eda5.pltradelife.top^
 ||eda7.worldtrades.top^
-||edashboardvision-www.partner-pay.v1.net.daraz.com^
 ||edaw.worldtrades.top^
 ||edchargina.pro^
 ||edge-email-partner-pay.net.daraz.com^
@@ -12350,14 +12269,11 @@
 ||edgens1.api-docsfreya-viviotech.net.daraz.com^
 ||edgens1.corp.keele-nnw-leis-mc-leis.net.daraz.com^
 ||edgens1.partner-payghipartner-payghiotech.net.daraz.com^
-||edgens1.viviotech-partner.net.daraz.com^
-||edgens1ebapp.edgens1edgens1edgens1.partner-pay.net.daraz.com^
 ||edgens1edgens1edgens1staff.partner.net.daraz.com^
 ||edinetadv.com^
 ||edisabledvisionspacemail.partner.net.daraz.com^
 ||edland.pro^
 ||edocumentationvision-www.staff-partner.net.daraz.com^
-||edocumentationvision.www.partner.nautilus.net.daraz.com^
 ||edocumentationvisionedocumentationvisionedocumentationvisioniad.partner-pay.net.daraz.com^
 ||edocumentationvisionmailstage.partner.net.daraz.com^
 ||edocuments-car13s-partner.net.daraz.com^
@@ -12399,7 +12315,6 @@
 ||ehu.worldtrades.top^
 ||ei.cnzz.com^
 ||eicxz6jfjaw.click^
-||eidsvision.partner-pay-europewest.net.daraz.com^
 ||eidsvision.www.partner-authenticate.net.daraz.com^
 ||eifyeldw.top^
 ||eimg1s-partner.net.daraz.com^
@@ -12407,7 +12322,6 @@
 ||einternalsvision.partner-pay.net.daraz.com^
 ||einternalsvision.www.partner.nautilus.net.daraz.com^
 ||eintvision.partner-paygh.net.daraz.com^
-||eintvision.www.partner-payseller.net.daraz.com^
 ||eintvision.wwwdmetrictest.partner-pay.net.daraz.com^
 ||eitb7.top^
 ||eitri.api.useinsider.com^
@@ -12443,7 +12357,6 @@
 ||elasticbeanstalkallseason.frontpage-partner.net.daraz.com^
 ||elasticbeanstalkallseasonmail-europewest.partner.net.daraz.com^
 ||elasticbeanstalkyancancook-authenticatemail.partner.net.daraz.com^
-||elasticbeanstalkyancancook.ctl.partner-pay.net.daraz.com^
 ||elasticbeanstalkyancancookebs-partner.net.daraz.com^
 ||elasticns1.frontpage-partner.net.daraz.com^
 ||elasticns1.partner-pay-viviotech.net.daraz.com^
@@ -12496,9 +12409,7 @@
 ||email-partner-pay-lib-ht-1.support.net.daraz.com^
 ||email-partner-pay-tpecsr41.net.daraz.com^
 ||email-partner-pay.00.net.daraz.com^
-||email-partner-pay.cl.bellsouth.net.daraz.com^
 ||email-partner-pay.cs-utils-rtr.net.daraz.com^
-||email-partner-pay.keele-nnw-leis-mc-leis.net.daraz.com^
 ||email-partner-pay.lax.csr41.net.daraz.com^
 ||email-partner-pay.net.daraz.com^
 ||email-partner-pay.patner.net.daraz.com^
@@ -12531,8 +12442,6 @@
 ||emdau.pro^
 ||emdcadvertise.eastmoney.com^
 ||emea-r-oa-2.admmail.partner.net.daraz.com^
-||emea-r-oa-2ebapp.emea-r-oa-2emea-r-oa-2emea-r-oa-2.partner-pay.net.daraz.com^
-||emea-r-oa-api-localhost.net.daraz.com^
 ||emea-r-oa-staff-partner.net.daraz.com^
 ||emea.rel.msn.com^
 ||emeaemeaemea.partner-bamboo.net.daraz.com^
@@ -12586,15 +12495,11 @@
 ||energydrinkadverts.com^
 ||eng-b.iadvision.emailvision.net.daraz.com^
 ||eng-b.ns.eadvision.net.daraz.com^
-||eng-b.ns.emailvision.analytics.net.daraz.com^
-||eng-b.partner-pay-getter.net.daraz.com^
 ||eng-b.www.partner-pay-getter.net.daraz.com^
 ||eng-bwww.partner-pay.dcloud.net.daraz.com^
 ||eng.iadvision.net.daraz.com^
 ||eng.ns.iadvision.net.daraz.com^
 ||eng.twitter.com^
-||engine-allemail-partner-pay.net.daraz.com^
-||engine-allopen-api.net.daraz.com^
 ||engine-allseason-www.partner-prod.net.daraz.com^
 ||engine-apac-partner.net.daraz.com^
 ||engine-api-static-stagellseapi-static-stageson.net.daraz.com^
@@ -12604,7 +12509,6 @@
 ||engine.a.ns.037info-api.emailvision.net.daraz.com^
 ||engine.a.ns.api-pluto.net.daraz.com^
 ||engine.a.ns.api-pluto2.emailvision.net.daraz.com^
-||engine.api-pluto.a.ns.emailvision.net.daraz.com^
 ||engine.partner-payseller.a.ns.emailvision.net.daraz.com^
 ||engine.phil-flash.com^
 ||engine.traffic-keele-nnw-leis-mc-leisa.ns.emailvision.net.daraz.com^
@@ -12703,6 +12607,7 @@
 ||esaway.top^
 ||esb2.plsttrade.top^
 ||esh.goxsite.top^
+||eshard.top^
 ||esk.maxpeoplepl.top^
 ||esla.interfoxprog.click^
 ||eslbahw.top^
@@ -12712,6 +12617,7 @@
 ||essences.top^
 ||essentialpiece.pro^
 ||esset.top^
+||essp-correos.top^
 ||est-mta.b2b-mail.net^
 ||est-yancancook.api.net.daraz.com^
 ||est.corp.ns1.viviotech.net.daraz.com^
@@ -12749,7 +12655,6 @@
 ||euro-referer.click^
 ||eurolive.pro^
 ||europe-r-oa-1.www.partner-assets.net.daraz.com^
-||europe-r-open-1.net.daraz.com^
 ||europe-staff-partner.r-es-1.net.daraz.com^
 ||europe.api-docsns2.r-es-1.net.daraz.com^
 ||europe.r-corp-1.net.daraz.com^
@@ -12829,6 +12734,7 @@
 ||eventswww.partner-pay-europewest.net.daraz.com^
 ||eviclick.pro^
 ||evolutionadv.it^
+||evolve-adv.com^
 ||evolves-diplexers.click^
 ||evs.proxy.analytics.shutterstock.com^
 ||evsvja.dddplat.top^
@@ -12842,11 +12748,9 @@
 ||ewebvision-www.iad.partner-pay.net.daraz.com^
 ||ewebvision.partner.net.daraz.com^
 ||ewebvisionwww.partner-pay-europewest.net.daraz.com^
-||ewebvisionwww.partner-paygh.net.daraz.com^
 ||ewew.tentaklsistem.click^
 ||ewq.tradepeoplexf.top^
 ||eww.tradepeoplexf.top^
-||ewww.partner-pay-getter.net.daraz.com^
 ||ex-traffic.com^
 ||ex.mobmore.com^
 ||ex.puata.info^
@@ -12936,6 +12840,7 @@
 ||f77xv3.top^
 ||f8.www.partner-pay.net.daraz.com^
 ||f8bets.pro^
+||f8ch6jg71zblcmk5.partner.net.daraz.com^
 ||f8w.tomcat-partner-pay.net.daraz.com^
 ||f9moz4mxhpydcoho.partner.net.daraz.com^
 ||f9s6.top^
@@ -12990,7 +12895,6 @@
 ||fasfjaslkjfl5.top^
 ||fast-adv.it^
 ||fastlane-adv.rubiconproject.com^
-||fastly.www.iad.partner-pay.net.daraz.com^
 ||fastly.www.partner-pay.v1.net.daraz.com^
 ||fastmoney777.click^
 ||fastpsh.top^
@@ -13174,6 +13078,7 @@
 ||fixly.pro^
 ||fjaksjfa4.top^
 ||fjctlnn.top^
+||fjd7ryi2w3xm8lu6.partner.net.daraz.com^
 ||fkglkpkgkduh.top^
 ||fkkldo.everadpro.click^
 ||fl.quangbmden-vili.click^
@@ -13290,6 +13195,7 @@
 ||fourier.taobao.com^
 ||foxentertainment-jenkin.hb-api.tt.omtrdc.net^
 ||foxentertainment-merch.hb-api.tt.omtrdc.net^
+||foxentertainment-z.hb-api.tt.omtrdc.net^
 ||foxentertainmentsupport.hb-api.tt.omtrdc.net^
 ||foxentertainmentx.hb-api.tt.omtrdc.net^
 ||foxfile.pro^
@@ -13665,6 +13571,7 @@
 ||getfy-click.info^
 ||getgetget.dmetric-partner.net.daraz.com^
 ||getiad.partner-pay.net.daraz.com^
+||getprice.top^
 ||getpy-click.info^
 ||getskin.pro^
 ||getter.csr41.frontpage-partner.net.daraz.com^
@@ -13848,7 +13755,6 @@
 ||global-lib-traffic-keele-nnw-leis-mc-leist-2.net.daraz.com^
 ||global-ns2-partner.net.daraz.com^
 ||global-ns2-www.tomcat-partner-pay.net.daraz.com^
-||global-ns2.iadvision.viviotech.net.daraz.com^
 ||global-ns2.mail.partner.net.daraz.com^
 ||global-ns2.mta-viviotech.net.daraz.com^
 ||global-ns2.partner-authenticateipartner-authenticateiotech.net.daraz.com^
@@ -13891,6 +13797,7 @@
 ||gmaster-pro.com^
 ||gmgbtg1b9srow19f.partner.net.daraz.com^
 ||gmx23.top^
+||gmx24.top^
 ||gmx27.top^
 ||gmx28.top^
 ||gmx29.top^
@@ -13967,20 +13874,25 @@
 ||google-craftmod.net.daraz.com^
 ||google-deckoffice.ml^
 ||google-docs.org^
+||google-drive.zip^
 ||google-finance.pw^
 ||google-hangouts-33.tt.omtrdc.net^
 ||google-keep.en.tt.omtrdc.net^
 ||google-liar.ru^
 ||google-maps.id.tt.omtrdc.net^
+||google-okta.com^
 ||google-pagerank.net^
 ||google-pl.com^
 ||google-shopping-v2.sapoapps.vn^
 ||google-shopping.sapoapps.vn^
 ||google-yandex.info^
+||google.9d.pw^
+||google.agekempt.com^
 ||google.bv-hilden-west.de^
 ||google.com-firewall.online^
 ||google.combucky.33733.org-anissa-areariservata-serveror.cmnlistmail.ruletheearthjwxt1-csestores.tt.omtrdc.net^
 ||google.data.srf.ch^
+||google.gik-team.com^
 ||google.m.facebook.com^
 ||google.mellrichstadt-stadtkapelle.de^
 ||google.olinails.de^
@@ -14150,6 +14062,7 @@
 ||h5.analytics.126.net^
 ||h5.gdt.qq.com^
 ||h559.stamfordadvocate.com^
+||h9lacq3rwifrqjwn.partner.net.daraz.com^
 ||ha-api.pushwoosh.com^
 ||hack-4-top-eleven.com^
 ||hack-download.com^
@@ -14158,6 +14071,7 @@
 ||hacks-download.com^
 ||had.newprogram.top^
 ||haflinforms.top^
+||hahah.pages.pro.br^
 ||hairycunts.mobi^
 ||hairypornpics.pro^
 ||hairyteenpics.pro^
@@ -14275,9 +14189,7 @@
 ||help-keele-api-static-stage-leis-mc-leis.net.daraz.com^
 ||help-keele-nnw-leis-mc-leis.api-docsns2.net.daraz.com^
 ||help.cnzz.com^
-||help.login-business-en.click^
 ||hencb.top^
-||heneayeign27.top^
 ||hentai-flash-game.blogspot.com^
 ||hentai-porn.top^
 ||hentai-top-manga.blogspot.com^
@@ -14296,6 +14208,8 @@
 ||her-ber.top^
 ||herbiernohow.top^
 ||hercules.mail.partner.net.daraz.com^
+||herculesfpssl.hb-api.tt.omtrdc.net^
+||herecontent.pro^
 ||hermes.hupu.com^
 ||hermes.signed.partner.net.daraz.com^
 ||hermes.svc.www.partner.net.daraz.com^
@@ -14349,6 +14263,7 @@
 ||hit.api.useinsider.com^
 ||hits.top.lv^
 ||hittoadv.com^
+||hjh57fbyub425q5b.partner.net.daraz.com^
 ||hjid.tentaklsistem.click^
 ||hk.napi.ucweb.com^
 ||hlbgw.top^
@@ -14528,7 +14443,6 @@
 ||huihi0s.click^
 ||huihi0s1.click^
 ||huizhouzx.top^
-||hukoomis-qa.top^
 ||hulu-lr.hb-api.tt.omtrdc.net^
 ||hulu-stage.hb-api.tt.omtrdc.net^
 ||hulu.hb-api.tt.omtrdc.net^
@@ -14599,6 +14513,7 @@
 ||i-adv.biz^
 ||i-inpost.top^
 ||i-mobi.pl^
+||i-npost.top^
 ||i-post.top^
 ||i.adsame.com^
 ||i.api.ad-locus.com^
@@ -14628,6 +14543,7 @@
 ||i18q.admaster.com.cn^
 ||i4rsrcj6.top^
 ||i5cggtoo23ahkwjr.partner.net.daraz.com^
+||i60ci39p3hbrhjf0.partner.net.daraz.com^
 ||ia9it96kcxt6tbbj.partner.net.daraz.com^
 ||iad.e.360.cn^
 ||iad.g.163.com^
@@ -14656,7 +14572,6 @@
 ||iadvisionenticatemail.partner.net.daraz.com^
 ||iadvisionlib-ht-1.net.daraz.com^
 ||iadvisionloudapp-iadvisionar10.net.daraz.com^
-||iadvisionocsapispring.net.daraz.com^
 ||iadvisionr11.ingress.net.daraz.com^
 ||iadvisionuthenticiadvisionte.net.daraz.com^
 ||iadvisionw.dmetric-partner.net.daraz.com^
@@ -14708,7 +14623,6 @@
 ||idmapp.www.partner-pay.net.daraz.com^
 ||idolizeduse.pro^
 ||idpw.partner-assets.net.daraz.com^
-||ids-car10-portal.partner.net.daraz.com^
 ||ids-car10.analytics-yancancook.net.daraz.com^
 ||ids-www.ebs-partner.net.daraz.com^
 ||ids.ad.gt^
@@ -14785,6 +14699,7 @@
 ||images.sheetzadvantage.com^
 ||images.teentgp.pro^
 ||images.tweet.twitter.com^
+||images.update.aciworldwide.com^
 ||images.update.lennar.com^
 ||imagevenue.advertserve.com^
 ||imagineflap.top^
@@ -14943,7 +14858,6 @@
 ||info-google.waw.pl^
 ||info-miasto.click^
 ||info.advanced-energy.com^
-||info.advantageind.com^
 ||info.advantageman.com^
 ||info.alticoadvisors.com^
 ||info.americanadvisorsgroup.com^
@@ -14981,7 +14895,6 @@
 ||ingress.corp-spring-patner.net.daraz.com^
 ||ingressd-api-docsprint-mo.ns.emailvision.net.daraz.com^
 ||ingressd.ns.emailvision-partner.net.daraz.com^
-||ingressd.ns.emailvision.mta.net.daraz.com^
 ||ingressdmail.partner.net.daraz.com^
 ||ingressdwww.dmetric-partner.net.daraz.com^
 ||ini.sm-nat.com^
@@ -15335,7 +15248,6 @@
 ||interact-analytics.com^
 ||interaction-mail-europewest.partner.net.daraz.com^
 ||interaction-wwwiad.partner-pay.net.daraz.com^
-||interactionext.partner.net.daraz.com^
 ||interadv.net^
 ||interest.mix.sina.com.cn^
 ||interia.poczta-mailowa.top^
@@ -15345,13 +15257,10 @@
 ||internal-heart.pro^
 ||internals-apisellerpackaging.www.partner-pay.net.daraz.com^
 ||internals-cbs.hb-api.tt.omtrdc.net^
-||internals-partner-assets.csr41.net.daraz.com^
 ||internals.api-dev-csr41.net.daraz.com^
-||internals.api-docsfreyar41.net.daraz.com^
 ||internals.csr41.spyder-api-stage.net.daraz.com^
 ||internals.wwwiad.partner-pay.net.daraz.com^
 ||internalsmail.partner.net.daraz.com^
-||internalswww.analytics.net.daraz.com^
 ||internalswwwstaff.partner.net.daraz.com^
 ||internalswwwwiad.partner-pay.net.daraz.com^
 ||internet-partner.pl^
@@ -15503,7 +15412,6 @@
 ||iy8yhpmgrcpwkcvh.pro^
 ||iygsx1oadu45pubn.hb-api.tt.omtrdc.net^
 ||izdi0ik2mfc4f0x5.partner-h-adashx.net.daraz.com^
-||izdi0ik2mfc4f0x5.partner-pre.net.daraz.com^
 ||izdi0ik2mfc4f0x5.partner.net.daraz.com^
 ||j.appjiagu.com^
 ||j.exit-ad.com^
@@ -15511,6 +15419,7 @@
 ||j.mmtu.top^
 ||j.spreee.pro^
 ||j00x.top^
+||j076njf38x506umd.partner.net.daraz.com^
 ||j721s.top^
 ||j9j6l.top^
 ||jadedhide.pro^
@@ -15732,6 +15641,7 @@
 ||jtienla.top^
 ||jtjsmp.top^
 ||ju.taobao.com^
+||juaour8f803fll0c.partner.net.daraz.com^
 ||judicious-feed.pro^
 ||judicious-lay.pro^
 ||juiceadv.com^
@@ -15795,7 +15705,6 @@
 ||k8s-api-docsprint-mo-ns1.twtelecom.net.daraz.com^
 ||k8s-api-oa-2.net.daraz.com^
 ||k8s-dev.api-springr-oa-2.net.daraz.com^
-||k8s-dev.ebs-partner.r-oa-2.net.daraz.com^
 ||k8s-dev.keele-api-pluto-leis-mc-leis.net.daraz.com^
 ||k8s-dev.keele-nnw-leis-mc-leis.api-xspacewww.net.daraz.com^
 ||k8s-dev.partner-prod.net.daraz.com^
@@ -15829,6 +15738,7 @@
 ||k8snsauthenticatemail.partner.net.daraz.com^
 ||k8swww.partner-alpha.net.daraz.com^
 ||k9offh-upqs.click^
+||k9t7cp2nftfkx2q5.partner.net.daraz.com^
 ||kaamuu.top^
 ||kaayqbkwnbqja.top^
 ||kabinet-click-alfabank.ru^
@@ -15856,7 +15766,6 @@
 ||kbkewkjlqjqzr.top^
 ||kbywyjnqrjaaa.top^
 ||kcdn.xyz^
-||kcwe8trhzlycz83s.partner.net.daraz.com^
 ||kd-vipus.teprox.top^
 ||kd.api.agrantsem.com^
 ||kde.qq.com^
@@ -15978,7 +15887,6 @@
 ||kowqd9.top^
 ||kpqnj.top^
 ||kpstaticbj.wx.ckjr001.com^
-||kq2j39vjx5u64z5w.partner.net.daraz.com^
 ||kra1.neutop.click^
 ||kradli-invest.pro^
 ||krebsonsecurity.top^
@@ -16095,7 +16003,6 @@
 ||lab-localhostkube-partner.net.daraz.com^
 ||lab-localhostwww.ctl.partner-pay.net.daraz.com^
 ||labemailvision.partner.net.daraz.com^
-||labemailvision.www.controller.partner.net.daraz.com^
 ||laborq.top^
 ||laborquant.top^
 ||labourssuccess.top^
@@ -16139,7 +16046,6 @@
 ||lathilusted.top^
 ||latilirom-invest.pro^
 ||latin-dishpurchasingcorporation.hb-api.tt.omtrdc.net^
-||latin.frontpage-partner.net.daraz.com^
 ||latin.yancancook.api.net.daraz.com^
 ||latinamericadishpurchasingcorporation.hb-api.tt.omtrdc.net^
 ||latincar10-wwwdmetrictest.partner-pay.net.daraz.com^
@@ -16154,7 +16060,6 @@
 ||lax.csr41.mta.net.daraz.com^
 ||lax1-ib.adnxs.com^
 ||laxns2-api-localhost.net.daraz.com^
-||laxns2.api-spring.cl.bellsouth.net.daraz.com^
 ||laxns2.cl.bellsouth-api-pluto.net.daraz.com^
 ||laxns2.cl.bellsouth.stage-spyder-api.net.daraz.com^
 ||laxns2.cl.partner-prod.net.daraz.com^
@@ -16204,13 +16109,11 @@
 ||legacy-hinet.partner-pay-europewest.net.daraz.com^
 ||legacy.www.partner.nautilus.net.daraz.com^
 ||legacymail.partner.net.daraz.com^
-||legacystage.partner.net.daraz.com^
 ||legitimatemess.pro^
 ||legjava.pro^
 ||leiki-doubleclick-proxy.appspot.com^
 ||leis.api-localhost.net.daraz.com^
 ||lengejoberdak.pro^
-||lens-xyz.pro^
 ||leobdvvk.top^
 ||leonardoadv.it^
 ||lesbian-porn.pro^
@@ -16277,13 +16180,10 @@
 ||lh54.top^
 ||lhy7oykisvf92ypa.partner.net.daraz.com^
 ||li.online-cashhh.top^
-||liadvision-r-ln-1.net.daraz.com^
 ||lianmeng.com^
 ||lianmeng.xgxhy.com^
 ||lianmengapi.snssdk.com^
 ||liates.top^
-||lib-corp-springt-1.secure.net.daraz.com^
-||lib-ht-1-corp-spring.gateway.net.daraz.com^
 ||lib-ht-1.api-docsns2-account.net.daraz.com^
 ||lib-ht-2.api.net.daraz.com^
 ||lib-ht-2.ctltomcat-partner-pay.net.daraz.com^
@@ -16338,6 +16238,7 @@
 ||linkplat.click^
 ||links-and-traffic.com^
 ||linksex.pro^
+||linkshort.click^
 ||linkt-help.top^
 ||linkt-transport.top^
 ||linktp.top^
@@ -16500,7 +16401,6 @@
 ||login.chanthenho.click^
 ||login.homnaybuon.click^
 ||login.nguoiyeumoi.click^
-||login.supporttfb-m.click^
 ||loginfb-sba.mubaohiem.click^
 ||loginpl-nawezamanager.wwadvocaten.be^
 ||logistichygienic.top^
@@ -16574,6 +16474,7 @@
 ||lp.hol13.demoamericas275.adobe.com^
 ||lp.hol14.demoamericas275.adobe.com^
 ||lp.hol16.demoamericas275.adobe.com^
+||lp.hol18.demoamericas275.adobe.com^
 ||lp.hol19.demoamericas275.adobe.com^
 ||lp.hol2.demoamericas275.adobe.com^
 ||lp.hol20.demoamericas275.adobe.com^
@@ -16581,6 +16482,7 @@
 ||lp.hol4.demoamericas275.adobe.com^
 ||lp.hol5.demoamericas275.adobe.com^
 ||lp.hol7.demoamericas275.adobe.com^
+||lp.hol8.demoamericas275.adobe.com^
 ||lp.jkowalskisb.journeyusshared.adobe.com^
 ||lp.kkaufmansb.journeyusshared.adobe.com^
 ||lp.mp.mydas.mobi^
@@ -16590,7 +16492,6 @@
 ||lp.taiv8.top^
 ||lp.tfd-corp.co.jp^
 ||lpeolfa.top^
-||lphyc4306sqx2h3f.partner.net.daraz.com^
 ||lpkobiznes.pro^
 ||lpocne.top^
 ||lpps.inventnamb.click^
@@ -16630,6 +16531,7 @@
 ||luxupadva.com^
 ||luxvip.pro^
 ||luyongkang.top^
+||lw7rif6h0z5sa5rq.partner.net.daraz.com^
 ||lwandll.top^
 ||lwcaconzoz.api.hb.tt.omtrdc.net^
 ||lwd1.mttrade.top^
@@ -16756,7 +16658,6 @@
 ||ma156-r.analytics.edgekey.net^
 ||ma193-r.analytics.edgekey.net^
 ||ma211-r.analytics.edgesuite.net^
-||ma2aep3nygo3o5uq.partner.net.daraz.com^
 ||ma312-r.analytics.edgekey.net^
 ||ma312-r.analytics.edgesuite.net^
 ||ma479-r.analytics.edgekey.net^
@@ -16809,7 +16710,6 @@
 ||mail.marketinglatin-partner-assets.net.daraz.com^
 ||mail.ns3.partner.net.daraz.com^
 ||mail.opssigned.partner.net.daraz.com^
-||mail.partner-assets-2comsivaslups.net.daraz.com^
 ||mail.partner-assets-githubns2.net.daraz.com^
 ||mail.partner-assets-signed-car10.net.daraz.com^
 ||mail.partner-assets.admr.net.daraz.com^
@@ -16821,7 +16721,6 @@
 ||mail.partner-sg.net.daraz.com^
 ||mail.partner.net.jumia.com^
 ||mail.pre-rg-sg-partner-assets.net.daraz.com^
-||mail.r-ht-1.partner-assets.net.daraz.com^
 ||mail.signed.admr-dw-1.partner.net.daraz.com^
 ||mail.signed.cl.partner.net.daraz.com^
 ||mail.signed.corplib-ht-1.partner.net.daraz.com^
@@ -16847,7 +16746,6 @@
 ||mailstagerating.partner.net.daraz.com^
 ||mailstagerj82p.partner.net.daraz.com^
 ||mailswitch.partner.net.daraz.com^
-||mailsystem-spring.partner-assets.net.daraz.com^
 ||mailtoolbarw.signed.partner.net.daraz.com^
 ||mailwwwtoolbar.signed.partner.net.daraz.com^
 ||main.exosrv.com^
@@ -16912,6 +16810,7 @@
 ||market-backend.api.2gis.ru^
 ||market.m.qq.com^
 ||marketapart2219-o1x.marketbirthday.top^
+||marketing-api-pluto2.net.daraz.com^
 ||marketing-ssl.upsight-api.com^
 ||marketing.advancedpowertech.com^
 ||marketing.advancedtek.com^
@@ -16934,7 +16833,6 @@
 ||marketing.sourceadvisors.com^
 ||marketing.suncrestadvisors.com^
 ||marketing.technologyadvice.com^
-||marketing.tsadvertising.com^
 ||marketing.twitter.com^
 ||marketing.usequityadvantage.com^
 ||marketinglatin.partner-pay.net.daraz.com^
@@ -17080,7 +16978,6 @@
 ||mclean.uk.cloud.360safe.com^
 ||mclick.mobi^
 ||mclick.simba.taobao.com^
-||mcloudfrontl.signed.partner.net.daraz.com^
 ||mclseww.top^
 ||mco.bus.api.tt.omtrdc.net^
 ||mco.staging2.api.tt.omtrdc.net^
@@ -17209,7 +17106,6 @@
 ||meyd.7mmtv.top^
 ||meyzo.mobi^
 ||meyzo.pro^
-||mfcq788zs8yb1qkx.partner.net.daraz.com^
 ||mg.games.sina.com.cn^
 ||mgmt-api-pluto.partner.net.daraz.com^
 ||mgmt-dhcms.partner.net.daraz.com^
@@ -17229,11 +17125,9 @@
 ||mgmt.meet.partner.net.daraz.com^
 ||mgmt.partner-k8s.net.daraz.com^
 ||mgmt.partner-stage-topup.net.daraz.com^
-||mgmt.partner-www.net.daraz.com^
 ||mgmt.partner.authorization-car40.net.daraz.com^
 ||mgmt.partner.edisabledvision.net.daraz.com^
 ||mgmt.partner.net.daraz.com^
-||mgmt.partner.svcgateway.net.daraz.com^
 ||mgmt.tpeprint.partner.net.daraz.com^
 ||mgmtpop3.partner.net.daraz.com^
 ||mgzs.cdn.bcebos.com^
@@ -17565,7 +17459,6 @@
 ||montafp.top^
 ||montangop.top^
 ||montemoronovo-api.info.tt.omtrdc.net^
-||montepio.mobi^
 ||montkpl.top^
 ||montkyodo.top^
 ||montlusa.top^
@@ -17800,6 +17693,7 @@
 ||myki.liopah.top^
 ||mymail-prod.corp.tt.omtrdc.net^
 ||mymask.maskproj.click^
+||mymedi-secure-update.com^
 ||mynembercard.point.soumu.jo.mpaa.top^
 ||mypornadviser.com^
 ||mypornsnap.top^
@@ -17854,7 +17748,7 @@
 ||n4403ad.doubleclick.net^
 ||n479ad.doubleclick.net^
 ||n47n.top^
-||n59tm3oag27b7oau.partner.net.daraz.com^
+||n5fxrdwp63ljifr4.partner.net.daraz.com^
 ||n6x026mail.partner.net.daraz.com^
 ||n788n9ih5e8wu8re.partner.net.daraz.com^
 ||n7df36psvi7ryzw7.partner.net.daraz.com^
@@ -17934,7 +17828,6 @@
 ||nbone.infinitypro.top^
 ||nbsdk-baichuan.alicdn.com^
 ||nbsdk-baichuan.taobao.com^
-||nbsmartapp.mobi^
 ||nbsmarter.mobi^
 ||nc004x.corp.youdao.com^
 ||nc045x.corp.youdao.com^
@@ -17975,6 +17868,7 @@
 ||nestormandadv.xyz^
 ||net.24-ads.com^
 ||net.bill-update.info^
+||net.partner.net.daraz.com^
 ||net.update-bill.com^
 ||neteslkorru.top^
 ||netfilxbillingsupport.top^
@@ -18055,6 +17949,7 @@
 ||newsylokalne.click^
 ||newsyroku.click^
 ||newteenporn.pro^
+||newtest.wunderman-email.cjm.adobe.com^
 ||newton-api.ele.me^
 ||newvideoapp.pro^
 ||newxxx.pro^
@@ -18079,7 +17974,6 @@
 ||ngreditinaja.top^
 ||nguoilon.top^
 ||nhatvip.mobi^
-||nhbkamazon.top^
 ||nhentai.pro^
 ||nht-2.extreme-dm.com^
 ||nht-3.extreme-dm.com^
@@ -18105,6 +17999,7 @@
 ||nisawer-invest.pro^
 ||njj2.lixprog.click^
 ||nkeo.top^
+||nktos2n2a2o0i5mr.partner.net.daraz.com^
 ||nl-rcd.iqiyi.com^
 ||nl.ads.justpremium.com^
 ||nl.notice.iqiyi.com^
@@ -18132,7 +18027,6 @@
 ||noearon.click^
 ||noeyeon.click^
 ||nogff.top^
-||noi1nj07xgh4ta6w.partner.net.daraz.com^
 ||noisyassistance.pro^
 ||nonadverbial.xyz^
 ||northamerica-ebs-partner.net.daraz.com^
@@ -18145,7 +18039,6 @@
 ||notification-browser.com^
 ||notify.wps.cn^
 ||notrobot.top^
-||nov.controller.partner.net.daraz.com^
 ||novadv.com^
 ||novel.pangolin-sdk-toutiao.com^
 ||novell-api-static-stage.net.daraz.com^
@@ -18173,6 +18066,7 @@
 ||npe8ybov9vxd0ugx.partner.net.daraz.com^
 ||npgnqom4e92ybjz9.partner.net.daraz.com^
 ||nprueba.emailvipruebaion.partner.net.daraz.com^
+||nq952vx3sg2vfqbp.partner.net.daraz.com^
 ||nqedi.agriry.top^
 ||nrg-sg.emailvirg-sgion.partner.net.daraz.com^
 ||ns-00-bootstrap.iadvision.net.daraz.com^
@@ -18188,6 +18082,7 @@
 ||ns-api-pluto.chdemailvision.net.daraz.com^
 ||ns-api-pluto2.ek8s-devvision.net.daraz.com^
 ||ns-api-xspace.emailvision.panel.net.daraz.com^
+||ns-api.emailvision.us.net.daraz.com^
 ||ns-hichannel.emailvision.partner.net.daraz.com^
 ||ns-iadvision.hwcdn.emailvision.net.daraz.com^
 ||ns-kubectlvision.emailvision.partner.net.daraz.com^
@@ -18229,7 +18124,6 @@
 ||ns.api-xspacetrain.emailvision.net.daraz.com^
 ||ns.api.net.daraz.com^
 ||ns.applications-emailvision.partner.net.daraz.com^
-||ns.authenticate-corp-springvision.net.daraz.com^
 ||ns.authenticate-emailvisitomcat-partner-pay.net.daraz.com^
 ||ns.aws-emailtomcat-partner-payision.net.daraz.com^
 ||ns.azuemail-partner-payevision.net.daraz.com^
@@ -18254,7 +18148,6 @@
 ||ns.development-emailvision-frontpage-partner.net.daraz.com^
 ||ns.development-emailvision.partner-pay-getter.net.daraz.com^
 ||ns.developpatnercgi-emailvision.partner.net.daraz.com^
-||ns.eapi-plutovision.partner.net.daraz.com^
 ||ns.ecgivisionfrontpage-partner.net.daraz.com^
 ||ns.eclienttomcat-partner-payision.net.daraz.com^
 ||ns.ectllib-ln-2vision.partner.net.daraz.com^
@@ -18299,6 +18192,7 @@
 ||ns.emailvision.draganddropobjects.partner.net.daraz.com^
 ||ns.emailvision.frontpage.partner.net.daraz.com^
 ||ns.emailvision.help.email-partner-pay.net.daraz.com^
+||ns.emailvision.panel.stage-spyder-api.net.daraz.com^
 ||ns.emailvision.partner-alpha.web.net.daraz.com^
 ||ns.emailvision.partner-alphaeng.net.daraz.com^
 ||ns.emailvision.partner-api-pluto2.net.daraz.com^
@@ -18425,7 +18319,6 @@
 ||ns.partner-legacy-labemailvision.net.daraz.com^
 ||ns.partner-legacy.ek8s-devvision.net.daraz.com^
 ||ns.partner-legacyemailvision.help.net.daraz.com^
-||ns.partner-pay-development-emailvision.net.daraz.com^
 ||ns.partner-pay-europewest-ecgivision.net.daraz.com^
 ||ns.partner-pay-europewestctlvision.net.daraz.com^
 ||ns.partner-pay-europewestelopment-emailvision.net.daraz.com^
@@ -18444,7 +18337,6 @@
 ||ns.proxy-espyder-api-stagevision.net.daraz.com^
 ||ns.r-hx-1emailvision.partner.net.daraz.com^
 ||ns.repository-iadvision.net.daraz.com^
-||ns.resetdatar-oa-1-iadvision.net.daraz.com^
 ||ns.sandbox-emailvisionstage-spyder-api.net.daraz.com^
 ||ns.sandpre-api-xspaceox-emailvision.net.daraz.com^
 ||ns.saniadvisionbox-emailvision.net.daraz.com^
@@ -18453,6 +18345,7 @@
 ||ns.score-api.emailvision.jenkins.net.daraz.com^
 ||ns.searchfreyaiadvision.net.daraz.com^
 ||ns.season.partner.net.daraz.com^
+||ns.spyder-api-stage-emailvision.panel.net.daraz.com^
 ||ns.spyder-api-stage-enodevision.net.daraz.com^
 ||ns.spyder-api-stage.edashboardvision.net.daraz.com^
 ||ns.spyder-api-stagestatsemailvision.net.daraz.com^
@@ -18505,7 +18398,6 @@
 ||ntdll.top^
 ||ntozr.top^
 ||ntralpenedhy.pro^
-||ntuamazon.top^
 ||ntv.api.useinsider.com^
 ||ntvsporweb.api.useinsider.com^
 ||nuannuanqi.top^
@@ -18559,6 +18451,7 @@
 ||o3nfykt09ttnhnr5.partner.net.daraz.com^
 ||oaasapp-www.partner.net.daraz.com^
 ||oads.cracked.com^
+||oapi.partner.net.daraz.com^
 ||oas-c18.adnxs.com^
 ||oascentral.sina.com^
 ||oascentral.sina.com.hk^
@@ -18649,7 +18542,6 @@
 ||old-go.pro^
 ||oldassist.pro^
 ||oldsex.pro^
-||olfza.agriry.top^
 ||olgin-investing.pro^
 ||olgunporno.top^
 ||olineman.pro^
@@ -18926,6 +18818,7 @@
 ||onlinelivesexchat.top^
 ||onlineplus.click^
 ||onlineshoppin.click^
+||onlnbnnkglicla.click^
 ||onlyfan.click^
 ||onlyfanstake.pro^
 ||onlyporn.pro^
@@ -18976,6 +18869,7 @@
 ||open-rice-serice.top^
 ||open-roll.com^
 ||open-skins.space^
+||open-spring.net.daraz.com^
 ||open-test.wynk.in^
 ||open-up.it^
 ||open.admaster.com.cn^
@@ -19276,6 +19170,7 @@
 ||p7-ad-sign.byteimg.com^
 ||p7-orange.byteorge.com^
 ||p7.tribution.mobi^
+||p71txdc7q13ttbd6.partner.net.daraz.com^
 ||p8-ad-sign.byteimg.com^
 ||p8-orange.byteorge.com^
 ||p8.tribution.mobi^
@@ -19352,11 +19247,13 @@
 ||partner-h-adashx.net.daraz.com^
 ||partner-legacyppartner-legacyc.cpartner-legacyr10.net.daraz.com^
 ||partner-legacyr41.us.net.daraz.com^
+||partner-live.net.daraz.com^
 ||partner-mail.partnerdevops.net.daraz.com^
 ||partner-march.net.daraz.com^
 ||partner-mc.net.daraz.com^
 ||partner-more.co^
 ||partner-oa-1.net.daraz.com^
+||partner-open.006-zigzagstr.net.daraz.com^
 ||partner-pay-cs-utils-rtr.apache.net.daraz.com^
 ||partner-pay-europewest-1-2.net.daraz.com^
 ||partner-pay-europewest-authorization-car21.net.daraz.com^
@@ -19381,6 +19278,7 @@
 ||partner-qr.net.daraz.com^
 ||partner-search-car13.net.daraz.com^
 ||partner-season.tpe.net.daraz.com^
+||partner-service.net.daraz.com^
 ||partner-shop.net.daraz.com^
 ||partner-soporte.net.daraz.com^
 ||partner-stagingvision.net.daraz.com^
@@ -19400,11 +19298,13 @@
 ||partner-v1-lib-ln-2.net.daraz.com^
 ||partner-westeurope.00d1n0000017glquam.net.daraz.com^
 ||partner.009-specialpythagoreantripletactive.net.daraz.com^
+||partner.0272-gpu-ion-fix-carveout-opsactive.net.daraz.com^
 ||partner.2din.cz^
 ||partner.80xmedia.com^
 ||partner.accesstrade.vn^
 ||partner.active.00-simple.net.daraz.com^
 ||partner.active.000-m82.net.daraz.com^
+||partner.active.000-n38.net.daraz.com^
 ||partner.adamkrupa.cz^
 ||partner.ads.placeiq.com^
 ||partner.aerium.sk^
@@ -19419,6 +19319,7 @@
 ||partner.amonitsro.sk^
 ||partner.anabix.cz^
 ||partner.antihacker.cz^
+||partner.apps.net.daraz.com^
 ||partner.artmaster.com^
 ||partner.artmasteracademy.cz^
 ||partner.astaxanthincz.cz^
@@ -19782,6 +19683,7 @@
 ||paypalssl.doubleclick.net^
 ||paypartc.top^
 ||paypay-sm.jp^
+||paypay-uc.jp^
 ||payperclickadvertising.org.uk^
 ||payseller.controller.partner.net.daraz.com^
 ||payselleradmmail.partner.net.daraz.com^
@@ -20249,6 +20151,7 @@
 ||pmadmmail.partner.net.daraz.com^
 ||pmd5.freepl.top^
 ||pmgpat9ocaqf4pav.partner.net.daraz.com^
+||pmjyrfaeypf14dnu.partner.net.daraz.com^
 ||pmp-ad.cdn.bcebos.com^
 ||pms.mb.qq.com^
 ||pnn.msnewpro.top^
@@ -20473,6 +20376,7 @@
 ||post.austransport.top^
 ||post.finomy.top^
 ||post.update.fbsbx.com^
+||post.userdelivery.top^
 ||post1.voiceads.cn^
 ||posta-is.top^
 ||posta-zip.top^
@@ -20924,6 +20828,7 @@
 ||ptersudisurvey.top^
 ||ptokp.pro^
 ||ptstnews.pro^
+||ptt-sa.top^
 ||pttrn.activeprog1.top^
 ||ptywajofa.pro^
 ||pub-sdk-cfg.criteo.com^
@@ -21020,7 +20925,6 @@
 ||qa1windows-api.net.daraz.com^
 ||qaadv.com^
 ||qads.io^
-||qagpokghfsht.top^
 ||qambywkmlvyj.top^
 ||qaou.top^
 ||qapm.baidu.com^
@@ -21054,6 +20958,7 @@
 ||qlikview-localhost-www.partner.net.daraz.com^
 ||qlikview.analytics.net.daraz.com^
 ||qlikview.ebs-partner.net.daraz.com^
+||qmjwzg1uglsvdw56.partner.net.daraz.com^
 ||qmqjvreqwywbk.top^
 ||qmqjvreqwywla.top^
 ||qmrwbzwalrmry.top^
@@ -21130,7 +21035,6 @@
 ||r-oa-2.partner.net.daraz.com^
 ||r-oa-2.www.controller.partner.net.daraz.com^
 ||r-oa-2frontpage-partner.net.daraz.com^
-||r-store.top^
 ||r.ad1.ru^
 ||r.browser.miui.com^
 ||r.comparisonadviser.com^
@@ -21398,10 +21302,10 @@
 ||restricted.037info-api.cl.bellsouth.net.daraz.com^
 ||restricted.keele-nnw-email-partner-pay-mc-email-partner-pay.net.daraz.com^
 ||restricted.keele-nnw-leis-api-localhost-leis.net.daraz.com^
-||restricted.ns2.cl.bellsouth-spyder-api.net.daraz.com^
 ||restricted.ns2.cl.bellsouth.api-docsns2.net.daraz.com^
 ||restrictedcbs.hb-api.tt.omtrdc.net^
 ||restrictedwww-traffic-keele-nnw-leis-mc-leis.net.daraz.com^
+||restrictfoxentertainment.hb-api.tt.omtrdc.net^
 ||retcode.taobao.com^
 ||retiremonkey.top^
 ||retro.vertysbos.top^
@@ -21437,6 +21341,7 @@
 ||rizihao.top^
 ||rizz19-ads.online^
 ||rj.m.taobao.com^
+||rjudmz6aeun5wwzc.partner.net.daraz.com^
 ||rkl.mix-legl.top^
 ||rkp.newaistar.top^
 ||rktoon5.top^
@@ -21746,10 +21651,12 @@
 ||s48.cnzz.com^
 ||s49.cnzz.com^
 ||s4ls9.top^
+||s4r08mytak97lp48.partner.net.daraz.com^
 ||s5.cnzz.com^
 ||s5.rtnews.pro^
 ||s50.cnzz.com^
 ||s51.cnzz.com^
+||s513pyudwol2svue.partner.net.daraz.com^
 ||s52.cnzz.com^
 ||s53.cnzz.com^
 ||s54.cnzz.com^
@@ -21811,6 +21718,7 @@
 ||sa1.tuisong.baidu.com^
 ||sa3.tuisong.baidu.com^
 ||sa8.tuisong.baidu.com^
+||sa9pvnw61mdla83x.partner.net.daraz.com^
 ||sadaqat.top^
 ||sadminsfreyaagger-adminsfreyaadminsfreyaadminsfreya.partner-pay.net.daraz.com^
 ||safe-click.net^
@@ -21840,7 +21748,6 @@
 ||sanalytics.mail-corp.com^
 ||sanalytics.tbs.com^
 ||sandbox-emailvisionauthenticatemail.partner.net.daraz.com^
-||sandbox-xspacemail.partner.net.daraz.com^
 ||sandhiswiggish.top^
 ||sanme2.lanzoui.com^
 ||sanme2.lanzoux.com^
@@ -21913,7 +21820,6 @@
 ||score-api-supportfreya.net.daraz.com^
 ||score-api.cms.freya.net.daraz.com^
 ||score-api.lb-csr41.net.daraz.com^
-||score-api.marketinglications.net.daraz.com^
 ||score-api.sandbox-emailvision.net.daraz.com^
 ||score-apimail-portal.partner.net.daraz.com^
 ||score-partner.net.daraz.com^
@@ -22458,7 +22364,6 @@
 ||share.myfreecams.com^
 ||share.mzaalo.com^
 ||share.nearpod.us^
-||share.net.daraz.com^
 ||share.notizie.it^
 ||share.oneway.cab^
 ||share.oppvenuz.com^
@@ -22614,7 +22519,6 @@
 ||skinsgo.top^
 ||skinslike.pro^
 ||skintrade.pro^
-||skistage-spyder-api-r-dw-1.net.daraz.com^
 ||sklejam-powieki.click^
 ||sklepbliskociebie.click^
 ||sky-club269-in-npot.periwinkle.top^
@@ -22714,7 +22618,6 @@
 ||smtp.ero-advertising.com^
 ||smtp.leadville.bluehornet.com^
 ||smtp.meadville.bluehornet.com^
-||smtp.partner.net.jumia.com^
 ||smugbeautiful.pro^
 ||smuggather.pro^
 ||smutindia.pro^
@@ -22853,14 +22756,12 @@
 ||squarespace.top^
 ||squeakyheart.pro^
 ||squirtatt15.sugar1818.net^
-||sr71ycud462ph8bh.partner.net.daraz.com^
 ||srd.simba.taobao.com^
 ||srepdata.montgomeryadvertiser.com^
 ||srepdata.newarkadvocate.com^
 ||srepdata.theadvertiser.com^
 ||srnov.top^
 ||srtb.msn.com^
-||srv.btata.click^
 ||srv.juiceadv.com^
 ||ss.marcukesh.top^
 ||ssancib.top^
@@ -22884,6 +22785,7 @@
 ||ssl.trace.zhiziyun.com^
 ||ssl2.twitter.com.edgekey.net^
 ||sslbahb.top^
+||sslcbs.hb-api.tt.omtrdc.net^
 ||ssll.mmtsa.top^
 ||ssossosso.tomcat-partner-pay.net.daraz.com^
 ||ssp-ad.momento.dev^
@@ -22935,9 +22837,9 @@
 ||staff.w-frontpage-partner-a.net.daraz.com^
 ||stage-cs-utils-rtr.analytics.net.daraz.com^
 ||stage-oaas-www.partner-prod.net.daraz.com^
+||stage-spyder-api-patner.net.daraz.com^
 ||stage-spyder-api.00proplus3xn.net.daraz.com^
 ||stage-spyder-api.a.ns.emailvision.net.daraz.com^
-||stage-spyder-pdp-www.partner-payseller.net.daraz.com^
 ||stage-trucking.api-docsfreya.net.daraz.com^
 ||stage-uev.ad-stir.com^
 ||stagecisco-capwap-controllerpre-api-xspace.net.daraz.com^
@@ -23393,6 +23295,7 @@
 ||t.update.fbsbx.com^
 ||t0.extreme-dm.com^
 ||t0pan.top^
+||t0qubagx9b6h5huk.partner.net.daraz.com^
 ||t1.a.market.xiaomi.com^
 ||t1.extreme-dm.com^
 ||t1op.inprog.top^
@@ -23445,6 +23348,7 @@
 ||taiqqlive.pro^
 ||taisi666.top^
 ||taiv8.top^
+||tajz73do96fa24ej.partner.net.daraz.com^
 ||tak-jest.click^
 ||takcx.top^
 ||takebiggainsurvey.top^
@@ -23482,11 +23386,11 @@
 ||tbb0001.top^
 ||tbhpdyawnflxjnni.partner.net.daraz.com^
 ||tbm.snssdk.com^
-||tbn.metabusines.click^
 ||tbs.tradedoubler.com^
 ||tcbox.baidu.com^
 ||tce.alicdn.com^
 ||tcf3k673dc4ls20t.partner.net.daraz.com^
+||tcheflix.top^
 ||tcm.optica.ero-advertising.com^
 ||tcp.push.mob.com^
 ||tcs2.pro^
@@ -23646,7 +23550,6 @@
 ||testemailvision-www.partner-pay.net.daraz.com^
 ||testemailvision.partner-pay-getter.net.daraz.com^
 ||testemailvision.partner-pay.net.daraz.com^
-||testerns.emailvision.037info-api.net.daraz.com^
 ||testing-r-es-1.api.net.daraz.com^
 ||testing.hb-api.tt.omtrdc.net^
 ||testing1dishpurchasingcorporation.hb-api.tt.omtrdc.net^
@@ -24025,7 +23928,6 @@
 ||tpe-xspacemail.partner.net.daraz.com^
 ||tpe.www.partner.nautilus.net.daraz.com^
 ||tpecsr31-mta.net.daraz.com^
-||tpecsr31-swagger-www.partner-pay.net.daraz.com^
 ||tpecsr31.api-xspacewww.net.daraz.com^
 ||tpecsr31.mail-europewest.partner.net.daraz.com^
 ||tpecsr31.partner.net.daraz.com^
@@ -24072,6 +23974,7 @@
 ||trace.ledu.com^
 ||trace.m1905.cn^
 ||trace.motorcycles^
+||trace.order-uk.com^
 ||trace.popin.cc^
 ||trace.qq.com^
 ||trace.rememberapp.co.kr^
@@ -24118,6 +24021,7 @@
 ||track.push-ad.com^
 ||track.searchinginfo.pro^
 ||track.spyder-api-stage.net.daraz.com^
+||track.top-magazine-trending.online^
 ||track.top-rated-deals.pro^
 ||track.trackgacor.click^
 ||track.uc.cn^
@@ -24188,7 +24092,6 @@
 ||traffic-keele-documentation-ns2-leis-mc-leis.net.daraz.com^
 ||traffic-keele-kube-partner-leis-mc-leis.net.daraz.com^
 ||traffic-keele-nnkeele-leis-mc-leis.net.daraz.com^
-||traffic-keele-nnpartner-alpha-leis-mc-leis.net.daraz.com^
 ||traffic-keele-nnr-dw-1-leis-mc-leis.net.daraz.com^
 ||traffic-keele-nnv-emailvision-leis-mc-leis.net.daraz.com^
 ||traffic-keele-nnw-auth-mc-auth.net.daraz.com^
@@ -24247,7 +24150,6 @@
 ||traffic-stats.streamsolutions.co.uk^
 ||traffic-supremacy.com^
 ||traffic-utils.net.daraz.com^
-||traffic-v1-lib-ln-2.net.daraz.com^
 ||traffic-wwwtoolbar-nnw-leis-mc-leis.net.daraz.com^
 ||traffic.acwebconnecting.com^
 ||traffic.ad4game.com^
@@ -24346,7 +24248,6 @@
 ||trendyinformacyjne.click^
 ||trendyzycia.click^
 ||treseemon.click^
-||trial-lib-ht-score-api.net.daraz.com^
 ||trial-ns1.email-partner-paytwtelecom.net.daraz.com^
 ||trial-ns1.iadvision.net.daraz.com^
 ||trial.ctl.partner-pay.net.daraz.com^
@@ -24443,6 +24344,7 @@
 ||ttcu-union.actonservice.com^
 ||ttienli.top^
 ||ttnet.yandex.com.tr^
+||ttq0lyofi6mdb950.partner.net.daraz.com^
 ||ttt.agrantsem.com^
 ||ttt4.agrantsem.com^
 ||ttyhhv.neuru.top^
@@ -24538,13 +24440,11 @@
 ||u.qscwdv.top^
 ||u.ssp.admobile.top^
 ||u.talkingdata.net^
-||u.umax-pro.ru^
 ||u.vlion.cn^
 ||u.x.jd.com^
 ||u0.extreme-dm.com^
 ||u1.extreme-dm.com^
 ||u1.img.mobile.sina.cn^
-||u2f38ghjbjvkasy8.partner.net.daraz.com^
 ||u346zd.top^
 ||u5eu7uxb3dkkm7a0.partner.net.daraz.com^
 ||ua-sms.pro^
@@ -24698,11 +24598,9 @@
 ||update-expressvpn.com^
 ||update-flagged-device.com^
 ||update-info.centrumconsumer.live^
-||update-info.support-case82.click^
 ||update-information.zzux.com^
 ||update-it-now.com^
 ||update-java.kit.net^
-||update-logins.shahadotonline.net^
 ||update-mac.com^
 ||update-myetherwallet.com^
 ||update-net.com^
@@ -24794,12 +24692,12 @@
 ||upltoolbarw-htgb-ads-lib-toolbarw-htgb-a-1.net.daraz.com^
 ||upoll.umengcloud.com^
 ||uporn.pro^
-||ups-sa.top^
 ||ups.analytics.yahoo.com^
 ||upsight-api.com^
 ||upush.res.meizu.com^
 ||uq1g.top^
 ||uraimeandc.top^
+||urcuokhqc2tqfsnr.partner.net.daraz.com^
 ||uredy.top^
 ||ursorsee.pro^
 ||urzadzamy.click^
@@ -24869,7 +24767,6 @@
 ||usplvq.top^
 ||usplvr.top^
 ||uspnsn.top^
-||uspnssn.top^
 ||uspoav.top^
 ||uspocl.top^
 ||uspocs.top^
@@ -24888,7 +24785,8 @@
 ||usps-address-update.com^
 ||usps-goto.top^
 ||usps-nslook.top^
-||usps-route.top^
+||usps-rwrc.top^
+||usps-update.shop^
 ||usps.bipackage.top^
 ||usps.checkba.top^
 ||usps.checktd.top^
@@ -24897,14 +24795,12 @@
 ||usps.posntei.top^
 ||usps.postces.top^
 ||usps.searchgo.top^
-||usps.seeords.top^
 ||usps.usdeliveer6.top^
 ||usps.usdeliveer8.top^
 ||usps.usdeliveerty.top^
 ||uspsaejn.top^
 ||uspsaua.top^
 ||uspscambiode.top^
-||uspsfbsb.top^
 ||uspsfrjo.top^
 ||uspspivw.top^
 ||uspssyw.top^
@@ -24962,6 +24858,7 @@
 ||utienlt.top^
 ||utility.baidu.com^
 ||utilized-memory.pro^
+||utit7kryy3nr6t73.partner.net.daraz.com^
 ||utk.baidu.cn^
 ||utoken.umeng.com^
 ||utop.umengcloud.com^
@@ -25031,12 +24928,10 @@
 ||v1cdn.snmovie.com^
 ||v2-ad.ixigua.com^
 ||v2-interaction-apac-partner.net.daraz.com^
-||v2.api-xspacewwwns.emailvision.net.daraz.com^
 ||v2.api.adflex.vn^
 ||v2.cnzz.com^
 ||v2.ns.partner.net.daraz.com^
 ||v2.ns.traffic-keele-nnw-leis-mc-leisvision.net.daraz.com^
-||v2.partner-prod.freshegg.net.daraz.com^
 ||v2.yieldlove-ad-serving.net^
 ||v20-ad.ixigua.com^
 ||v21-ad.ixigua.com^
@@ -25075,6 +24970,7 @@
 ||v9.cnzz.com^
 ||v9pdorors3xysizg.partner.net.daraz.com^
 ||va-edge.sc.va-edge.sc.va-edge.sc.va-edge.sc.hulu-ios.hb-api.tt.omtrdc.net^
+||va-edge.sc.va-edge.sc.va-edge.sc.va-edge.sc.va-edge.sc.va-edge.sc.va-edge.sc.hulu-ios.hb-api.tt.omtrdc.net^
 ||va.programmtrad.top^
 ||vadilimer.pro^
 ||vads.net.vn^
@@ -25193,6 +25089,7 @@
 ||video-stats.video.google.com^
 ||video-view-api.varzesh3.com^
 ||video.adaptv.advertising.com^
+||video.krkpr.click^
 ||video.market.xiaomi.com^
 ||video.twitter.com^
 ||videoadblocker.pro^
@@ -25210,6 +25107,7 @@
 ||view.adjust.com^
 ||view.admaster.com.cn^
 ||view.mediav.com^
+||view.www.partner.net.daraz.com^
 ||viewpointhh.top^
 ||vigorous-hurt.pro^
 ||vihted-pl.dostawa-order72340.top^
@@ -25983,6 +25881,7 @@
 ||voyeurhouse.pro^
 ||voyeurphotos.pro^
 ||voyeurweb.pro^
+||vpk8vgs2e906807x.partner.net.daraz.com^
 ||vpn-admin.cc.api.sre.tt.omtrdc.net^
 ||vpn-nis19.sa-api.brasil.tt.omtrdc.net^
 ||vpn-w-api-docsns2-a.net.daraz.com^
@@ -26243,6 +26142,7 @@
 ||vva.liopah.top^
 ||vvd9k19w8wuoxgeq.partner.net.daraz.com^
 ||vveb3-exoduis-vvallete.top^
+||vveb3-exodus-vvallet.top^
 ||vvw.wxbgf.top^
 ||vw4hfhe27j7dlvub.partner.net.daraz.com^
 ||vw66i.top^
@@ -26276,6 +26176,7 @@
 ||w4jz.top^
 ||w94.1qlgi.top^
 ||w9f1r.top^
+||w9neser0bc44d292.partner.net.daraz.com^
 ||wa.gtimg.com^
 ||wadahlapak.top^
 ||wads.ozap.com^
@@ -26283,7 +26184,6 @@
 ||wager.dm^
 ||wakeheowinum4.pro^
 ||wal-scommundsen.hb-api.tt.omtrdc.net^
-||wal.whlink.top^
 ||walkets.click^
 ||wallet.advcash.com^
 ||wallinside.top^
@@ -26327,6 +26227,7 @@
 ||wbpctips.mobile.sina.cn^
 ||wcdn.sdjlbg.xyz^
 ||wcms-rs-api.cbp.tt.omtrdc.net^
+||wcuojknfx9b5mdbc.partner.net.daraz.com^
 ||wdasa.top^
 ||wdata.ero-advertising.com^
 ||wdesk1.mi.tt.omtrdc.net^
@@ -26397,14 +26298,12 @@
 ||webapp.www.control-summer.partner-pay.net.daraz.com^
 ||webapp.www.docsprint.partner-pay.net.daraz.com^
 ||webapp.www.mgmt-partner-pay.net.daraz.com^
-||webapp.www.partner-learningportal.net.daraz.com^
 ||webapp.www.partner-member.net.daraz.com^
 ||webapp.www.partner-pay-brand.net.daraz.com^
 ||webapp.www.partner-pay-promo.net.daraz.com^
 ||webapp.www.partner-pay.serverns1.net.daraz.com^
 ||webapp.www.partner-payengineapplication-spring.net.daraz.com^
 ||webapp.www.partner-payfilea.net.daraz.com^
-||webapp.www.partner-payfreshegg.net.daraz.com^
 ||webapp.www.partner-paykibana.net.daraz.com^
 ||webapp.www.partner-paykubernetes.net.daraz.com^
 ||webapp.www.partner-paylists.net.daraz.com^
@@ -26449,6 +26348,7 @@
 ||webxemsex.pro^
 ||wechat-smtp.tt.omtrdc.net^
 ||wechat.epickeys.com^
+||wee.whatk.top^
 ||weeklyimplement.pro^
 ||weevah2.top^
 ||weilibets-tz-ad.op-mobile.tt.omtrdc.net^
@@ -26492,7 +26392,7 @@
 ||whatif.fr.adobe.com^
 ||whatif.it.adobe.com^
 ||whatisnewappforyou.top^
-||whatsaxxq69.top^
+||whatsappsndown.top^
 ||whatsone.btspolsky.top^
 ||whedupache.pro^
 ||whestendurous.top^
@@ -26629,6 +26529,7 @@
 ||wps.relateddigital.com^
 ||wpsweb-dc.wps.cn^
 ||wr.da.netease.com^
+||wr9jglbus733n06e.partner.net.daraz.com^
 ||wracam.click^
 ||wrathfultower.pro^
 ||writecassh.mllight.top^
@@ -26658,6 +26559,7 @@
 ||wufgkofinvesting.pro^
 ||wv.inner-active.mobi^
 ||wvuwamazon.top^
+||ww-s-id-check.com^
 ||ww0.partner.net.daraz.com^
 ||ww1003.smartadserver.com^
 ||ww1097.smartadserver.com^
@@ -26729,6 +26631,7 @@
 ||www-mta.partner-pay.v1.net.daraz.com^
 ||www-redirector-keele-nnw-leis-mc-leis.production.partner-pay.net.daraz.com^
 ||www-rpcvision.dmetric-partner.net.daraz.com^
+||www-test.partner.net.daraz.com^
 ||www-trafficcsr11.partner.net.daraz.com^
 ||www-train-r-oa-1.partner.nautilus.net.daraz.com^
 ||www-train.partner-alpha.net.daraz.com^
@@ -27234,6 +27137,7 @@
 ||www.alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^
 ||www.aliadvert.ru^
 ||www.alicert-partner.net.daraz.com^
+||www.aliexam-partner.net.daraz.com^
 ||www.alisa.tentaklsistem.click^
 ||www.alisonangel-365-2.blogspot.com^
 ||www.alivaninvest.pro^
@@ -27416,6 +27320,7 @@
 ||www.blog-m.ofishlprog2.click^
 ||www.blog-pold.stat-pro.site^
 ||www.blog-pro.prosinv.site^
+||www.blog-tx.tx1tx.click^
 ||www.blog.activpl-pro.site^
 ||www.blog.intext.ero-advertising.com^
 ||www.blog.tx1tx.click^
@@ -27577,6 +27482,7 @@
 ||www.commbank-info-update.com^
 ||www.companynet.pro^
 ||www.confinement-ads-case-28939.firebaseapp.com^
+||www.confirmprotection.pro^
 ||www.coni-pro.hotpr0g.site^
 ||www.considerate-brief.pro^
 ||www.constel-analytics.com^
@@ -27642,6 +27548,7 @@
 ||www.czasnaodkrycia.click^
 ||www.czasnawiadomienia.click^
 ||www.czasyplrozne.click^
+||www.d-simple-api.com^
 ||www.d2378329a9-update.kaskak1.pl^
 ||www.d3d02-uppps.click^
 ||www.da-ads.com^
@@ -28036,8 +27943,8 @@
 ||www.google-docs.org^
 ||www.google-finance.pw^
 ||www.google-pl.com^
+||www.google.augeprint.com^
 ||www.google.bv-hilden-west.de^
-||www.google.drive.ngrok.app^
 ||www.google.mellrichstadt-stadtkapelle.de^
 ||www.google.olinails.de^
 ||www.google.schreinerei-wohlfart.de^
@@ -28805,12 +28712,14 @@
 ||www.partner-pay.v1.wwwmanagement.net.daraz.com^
 ||www.partner-pay.v1dev.net.daraz.com^
 ||www.partner-pay.v1latincar10.net.daraz.com^
+||www.partner-pay.v5.net.daraz.com.00d70000000motieas.net.daraz.com^
 ||www.partner-pay.vauthenticationkeele-nnw-leis-mc-leis.net.daraz.com^
 ||www.partner-user.com^
 ||www.partner.0001-port-to-qdox-2-active.net.daraz.com^
 ||www.partner.0002-this-is-a-comitactive.net.daraz.com^
 ||www.partner.037info-analytics.net.daraz.com^
 ||www.partner.037info-testingactive.net.daraz.com^
+||www.partner.09112013-active.net.daraz.com^
 ||www.partner.a.net.daraz.com^
 ||www.partner.acc.net.daraz.com^
 ||www.partner.active.000-220.net.daraz.com^
@@ -28837,6 +28746,7 @@
 ||www.partner.net.daraz.com^
 ||www.partner.ns.net.daraz.com^
 ||www.partner.redirector-keele-nnw-leis-mc-leis-nautilus.net.daraz.com^
+||www.partner.view.net.daraz.com^
 ||www.partnerdashboard.api-pluto2.net.daraz.com^
 ||www.passns-production.partner-pay.net.daraz.com^
 ||www.passns.email-partner-pay.net.daraz.com^
@@ -29531,6 +29441,7 @@
 ||www.trace-2000.com^
 ||www.trace-blt-symmetry.webnode.co.uk^
 ||www.trace.motorcycles^
+||www.trace.order-uk.com^
 ||www.tracker.ero-advertising.com^
 ||www.tracking-api-4lasu2nlcq-ew.a.run.app^
 ||www.tracking-dpd-polska.ddns.mobi^
@@ -29620,7 +29531,6 @@
 ||www.unrulymorning.pro^
 ||www.update-1.com^
 ||www.update-accounts-id.online^
-||www.update-dana-id.biz.id^
 ||www.update-expressvpn.com^
 ||www.update-information.zzux.com^
 ||www.update-java.kit.net^
@@ -29663,6 +29573,7 @@
 ||www.veryfikuj.akkauntie.click^
 ||www.vfl81ea28aztw7y3.pro^
 ||www.vibber.download^
+||www.video.krkpr.click^
 ||www.videosx.pro^
 ||www.videox.pro^
 ||www.view.partner.net.daraz.com^
@@ -29995,7 +29906,6 @@
 ||wwwiadeast-r-oa-2.partner-pay.net.daraz.com^
 ||wwwiadgateway-emailvision.partner-pay.net.daraz.com^
 ||wwwiadswagger.partner-pay.net.daraz.com^
-||wwwiaposfr-com.top^
 ||wwwiimg1.partner-pay.net.daraz.com^
 ||wwwimage.tomcat-partner-pay.net.daraz.com^
 ||wwwimagetest.partner-pay.net.daraz.com^
@@ -30083,6 +29993,7 @@
 ||xdssp.mediav.com^
 ||xdw9.top^
 ||xecner.top^
+||xel33spyv5w5ypx5.partner.net.daraz.com^
 ||xem-sex.pro^
 ||xem-xxx.pro^
 ||xemditnhau.pro^
@@ -30203,6 +30114,7 @@
 ||xn-xx.pro^
 ||xn2x.top^
 ||xn3x.pro^
+||xnozv8k54bib9rnh.partner.net.daraz.com^
 ||xnt.di2y21.top^
 ||xnx-x.pro^
 ||xnxx-phimsex.pro^
@@ -30404,6 +30316,7 @@
 ||yeusex.pro^
 ||yffa6dfh2gb5vr5j.partner.net.daraz.com^
 ||yfoxentertainment.hb-api.tt.omtrdc.net^
+||yh4s9dg1pqsg6u3t.partner.net.daraz.com^
 ||yhu5tw3mn64.jav-7mmtv.top^
 ||yieldadvert.com^
 ||yieldlove-ad-serving.net^
@@ -30465,6 +30378,7 @@
 ||yourxxxvideos.pro^
 ||youthfulcontest.pro^
 ||youtubex.top^
+||yrvcuiwpcoxjzyhf.partner.net.daraz.com^
 ||ys2000.cdn.bcebos.com^
 ||ys3e965d.top^
 ||ys3g.top^
@@ -30553,11 +30467,13 @@
 ||zcftg.top^
 ||zclick.pro^
 ||zconfig.alibabausercontent.com^
+||zdd97cwy2d6cppky.partner.net.daraz.com^
 ||zdfjas.top^
 ||zdrowienakazdydzien.click^
 ||zdrowoiswietnie.click^
 ||zdrowona100.click^
 ||zdroworadosnie.click^
+||ze-correos.top^
 ||zebeaa.click^
 ||zel9.byseniscon.top^
 ||zelenas-herllenss-pro.cloud^
@@ -30677,6 +30593,7 @@
 ||zzaakefu.top^
 ||zzbb1.top^
 ||zzbmanavblkaw.top^
+||zzfoxentertainment.hb-api.tt.omtrdc.net^
 ! 爱奇艺腾讯视频网页版广告，删除了客户端没广告，网页就打不开。
 ||t7z.cupid.iqiyi.com^
 ||mdevstat.qqlive.qq.com^
