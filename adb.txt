@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-10-11 09:04:10
+! Last modified: 2023-10-11 13:11:14
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-10-11 09:04:10 ^
+!更新时间: 2023-10-11 13:11:13 ^
 
-!规则数量:30585^
+!规则数量:30595^
 !#################^
 
 ||-partner.net.daraz.com^
@@ -424,6 +424,7 @@
 ||17.251espn.hb-api.tt.omtrdc.net^
 ||17.251nationalgeographic.hb-api.tt.omtrdc.net^
 ||17.251nbaprop.hb-api.tt.omtrdc.net^
+||1740436244.nzingaadvisors.co.za^
 ||179abcnews.hb-api.tt.omtrdc.net^
 ||17dishpurchasingcorporation.hb-api.tt.omtrdc.net^
 ||17gtest.bj2cu.u3.ucweb.com^
@@ -479,6 +480,7 @@
 ||1mp.mobi^
 ||1mstr.activeprog3.top^
 ||1new.pro-activprofit.site^
+||1nnovexa.click^
 ||1nxgbspote5jvvbs.partner.net.daraz.com^
 ||1piflv6zbdpujmtc.partner.net.daraz.com^
 ||1porp.top^
@@ -733,6 +735,7 @@
 ||3xvn.pro^
 ||3xxx.pro^
 ||3y3m0zjdyvvc.top^
+||4-72comc.top^
 ||4-foxentertainment.hb-api.tt.omtrdc.net^
 ||4.auth-ns.api.api.tt.omtrdc.net^
 ||40v9m07puns7ygpk.partner.net.daraz.com^
@@ -1199,7 +1202,6 @@
 ||acoossa.top^
 ||acoossu.top^
 ||acoossz.top^
-||acount-google.email^
 ||acquisition.top^
 ||acsentcash.mllight.top^
 ||acspaces.ero-advertising.com^
@@ -1321,7 +1323,6 @@
 ||ad-move.jp^
 ||ad-ndtv.3s.com.vn^
 ||ad-nex.com^
-||ad-obsproject.com^
 ||ad-optima.com^
 ||ad-paradise.com^
 ||ad-pay.de^
@@ -5198,6 +5199,7 @@
 ||ahov1.top^
 ||ai-adobe.com^
 ||ai.m.taobao.com^
+||ai.nanotechnologyadvancementnewshub.com^
 ||ai.taobao.com^
 ||ai.voiceads.cn^
 ||aiadvi.com^
@@ -5403,6 +5405,7 @@
 ||amvupioiosdosoxxz.top^
 ||amwuu.top^
 ||amz-ad.a8.net^
+||amz.inmarges.top^
 ||an.yandex.ru^
 ||anadventureinsexblogs.blogspot.com^
 ||anal-porno.pro^
@@ -8182,7 +8185,9 @@
 ||applandforbuddies.top^
 ||apple-icloud-lost.top^
 ||apple-id-cziphone.top^
-||apple-sandbox.corp.etonreve.com^
+||apple.appleidcu.top^
+||apple.appleidjs.top^
+||appleidcu.top^
 ||appleworldwidedeveloper-stage.hb-api.omtrdc.net^
 ||appleworldwidedeveloper-stage.hb-api.tt.omtrdc.net^
 ||appleworldwidedeveloper.hb-api.omtrdc.net^
@@ -8331,6 +8336,7 @@
 ||askovinvest.pro^
 ||asllsa.interfoxprog.click^
 ||asoftbluebooking.hb-api.tt.omtrdc.net^
+||asosre.top^
 ||asp-api.atl.tt.omtrdc.net^
 ||asp-partner-mdn2.tt.omtrdc.net^
 ||asp.adsame.com^
@@ -9077,6 +9083,7 @@
 ||bitools.www.partner-pay-getter.net.daraz.com^
 ||bitoolsbitoolsbitools.dmetric-partner.net.daraz.com^
 ||bittoday.pro^
+||bitz.cashhs-news.top^
 ||biz.live.xunlei.com^
 ||bizinesmanager.click^
 ||bizplace.top^
@@ -9223,7 +9230,6 @@
 ||bollyshare-api-spring.net.daraz.com^
 ||bollyshare-partner.net.daraz.com^
 ||bollywoodxxx.pro^
-||bombitupapk.pro^
 ||bonertraffic.mobi^
 ||bonertraffic12.mobi^
 ||bonertraffic12.pro^
@@ -10606,6 +10612,7 @@
 ||coinpkonew.click^
 ||coinwbit.top^
 ||coiphimsex.pro^
+||coirreos.top^
 ||coka.papiashvili.top^
 ||col.mobileads.msn.com^
 ||collect-update.top^
@@ -10805,6 +10812,7 @@
 ||correos-sa.top^
 ||correos-sz.top^
 ||correosb-cr.top^
+||correosdeamexico.top^
 ||correospl.top^
 ||correosposts.top^
 ||correosposty.top^
@@ -10919,6 +10927,7 @@
 ||cryptobmode.goprogramia.top^
 ||cryptobmode1.goprogramia.top^
 ||cryptobx.goprogramia.top^
+||cryptogiveaway.pro^
 ||cryptoloot.pro^
 ||cryptomodx.goprogramia.top^
 ||crypton.goprogramia.top^
@@ -10953,7 +10962,6 @@
 ||cs.analytics.lego.com^
 ||cs.r-ad.ne.jp^
 ||cs1-api.tt.omtrdc.net^
-||cs2-loot.pro^
 ||cs2-source.pro^
 ||csbol.pro^
 ||csgo-empire.pro^
@@ -11277,6 +11285,7 @@
 ||dco-jads-727222375.us-west-2.elb.amazonaws.com^
 ||dcp-poc-api.tt.omtrdc.net^
 ||dcp.pro-activprofit.site^
+||dcut.top^
 ||dd-bskyb.hb-api.tt.omtrdc.net^
 ||dd.aboutnews.top^
 ||dd.eutrty.top^
@@ -11631,7 +11640,6 @@
 ||dm.yamaha-motor.co.jp^
 ||dm.zjut.cc^
 ||dm.zuowenku.net^
-||dmanlket.pro^
 ||dmarket.pro^
 ||dmc.cotten.top^
 ||dmdb0ouxmpzal3g2.partner.net.daraz.com^
@@ -12602,6 +12610,7 @@
 ||es.ads.justpremium.com^
 ||es.ero-advertising.com^
 ||es.inprog.top^
+||es1-correos.top^
 ||es1.peoplefxlife.top^
 ||esanciw.top^
 ||esaway.top^
@@ -12609,6 +12618,7 @@
 ||esh.goxsite.top^
 ||eshard.top^
 ||esk.maxpeoplepl.top^
+||eskum.top^
 ||esla.interfoxprog.click^
 ||eslbahw.top^
 ||espn.hb-api.omtrdc.net^
@@ -12638,6 +12648,7 @@
 ||etomalyknaey.everadpro.click^
 ||etsllx.activpl-pro.site^
 ||ettsl.activpl-pro.site^
+||etv.dyfi.pro^
 ||etxjbxs.top^
 ||eu-ad.sam4m.com^
 ||eu-ads.adpone.com^
@@ -13325,7 +13336,6 @@
 ||fsdss.7mmtv.top^
 ||fshe.fallz.click^
 ||fslrsdoijewdspjoew0spojwq0eqrcodid.bewnoew.top^
-||fsport-cs2.pro^
 ||fsport-cup.pro^
 ||fsrqx.platfohrm.top^
 ||ft8e.top^
@@ -13571,7 +13581,6 @@
 ||getfy-click.info^
 ||getgetget.dmetric-partner.net.daraz.com^
 ||getiad.partner-pay.net.daraz.com^
-||getprice.top^
 ||getpy-click.info^
 ||getskin.pro^
 ||getter.csr41.frontpage-partner.net.daraz.com^
@@ -13874,25 +13883,21 @@
 ||google-craftmod.net.daraz.com^
 ||google-deckoffice.ml^
 ||google-docs.org^
-||google-drive.zip^
 ||google-finance.pw^
 ||google-hangouts-33.tt.omtrdc.net^
 ||google-keep.en.tt.omtrdc.net^
 ||google-liar.ru^
 ||google-maps.id.tt.omtrdc.net^
-||google-okta.com^
 ||google-pagerank.net^
 ||google-pl.com^
 ||google-shopping-v2.sapoapps.vn^
 ||google-shopping.sapoapps.vn^
+||google-verified-domain.hubwebleads.com^
 ||google-yandex.info^
-||google.9d.pw^
-||google.agekempt.com^
 ||google.bv-hilden-west.de^
 ||google.com-firewall.online^
 ||google.combucky.33733.org-anissa-areariservata-serveror.cmnlistmail.ruletheearthjwxt1-csestores.tt.omtrdc.net^
 ||google.data.srf.ch^
-||google.gik-team.com^
 ||google.m.facebook.com^
 ||google.mellrichstadt-stadtkapelle.de^
 ||google.olinails.de^
@@ -14071,7 +14076,6 @@
 ||hacks-download.com^
 ||had.newprogram.top^
 ||haflinforms.top^
-||hahah.pages.pro.br^
 ||hairycunts.mobi^
 ||hairypornpics.pro^
 ||hairyteenpics.pro^
@@ -14209,7 +14213,6 @@
 ||herbiernohow.top^
 ||hercules.mail.partner.net.daraz.com^
 ||herculesfpssl.hb-api.tt.omtrdc.net^
-||herecontent.pro^
 ||hermes.hupu.com^
 ||hermes.signed.partner.net.daraz.com^
 ||hermes.svc.www.partner.net.daraz.com^
@@ -14776,6 +14779,7 @@
 ||impservice2.youdao.com^
 ||imputesmere.top^
 ||in-appadvertising.com^
+||in-ipost.top^
 ||in-post-pl-myid272xs.0xfee1dead.top^
 ||in-post-pl-myid272xs.abbqza.top^
 ||in-post-pl-myid272xs.boeno.top^
@@ -15595,6 +15599,7 @@
 ||jp.f.gm.mob.com^
 ||jp.l.gm.mob.com^
 ||jp.progrpro.top^
+||jp1.metaface.click^
 ||jp3adv-cdn.goldspotmedia.com^
 ||jpaasne.e.shifen.com^
 ||jqmt.qq.com^
@@ -15752,6 +15757,7 @@
 ||kan.daiwofei2019.top^
 ||kar.programtts.top^
 ||karen.audioic.top^
+||karleinfras.top^
 ||kas.ttssonine.top^
 ||kasa.liopah.top^
 ||kashtanka.mobi^
@@ -16238,7 +16244,6 @@
 ||linkplat.click^
 ||links-and-traffic.com^
 ||linksex.pro^
-||linkshort.click^
 ||linkt-help.top^
 ||linkt-transport.top^
 ||linktp.top^
@@ -16402,6 +16407,7 @@
 ||login.homnaybuon.click^
 ||login.nguoiyeumoi.click^
 ||loginfb-sba.mubaohiem.click^
+||loginguide.pro^
 ||loginpl-nawezamanager.wwadvocaten.be^
 ||logistichygienic.top^
 ||loglabitrufly.top^
@@ -16767,6 +16773,7 @@
 ||mal4.maxpeoplepl.top^
 ||malastasho.pro^
 ||mallusex.pro^
+||malyk.tentaklsistem.click^
 ||mam.netease.com^
 ||mammut.vlion.cn^
 ||mamy-czas.click^
@@ -17334,7 +17341,6 @@
 ||modna-szafa.click^
 ||modnezycie.click^
 ||modny-bon.click^
-||moey.pro^
 ||moeypt.top^
 ||mogezycztoba.click^
 ||moiragracie.top^
@@ -17878,7 +17884,6 @@
 ||netflix-update.platnosci.tttt-security.com^
 ||netlfix-update-online.builderallwppro.com^
 ||netnbaprop.hb-api.tt.omtrdc.net^
-||nettechnologies.click^
 ||nettube.top^
 ||network.ad.nu^
 ||network.advertise.com^
@@ -17974,6 +17979,7 @@
 ||ngreditinaja.top^
 ||nguoilon.top^
 ||nhatvip.mobi^
+||nhbkamazon.top^
 ||nhentai.pro^
 ||nht-2.extreme-dm.com^
 ||nht-3.extreme-dm.com^
@@ -18040,6 +18046,7 @@
 ||notify.wps.cn^
 ||notrobot.top^
 ||novadv.com^
+||novbco.mobi^
 ||novel.pangolin-sdk-toutiao.com^
 ||novell-api-static-stage.net.daraz.com^
 ||novell.dmetric-partner.net.daraz.com^
@@ -18398,6 +18405,7 @@
 ||ntdll.top^
 ||ntozr.top^
 ||ntralpenedhy.pro^
+||ntuamazon.top^
 ||ntv.api.useinsider.com^
 ||ntvsporweb.api.useinsider.com^
 ||nuannuanqi.top^
@@ -20405,6 +20413,7 @@
 ||poszukuj24pls.click^
 ||potrafibyc.click^
 ||potrzebuje.click^
+||potsckji-ch.top^
 ||potslogistik-ch.top^
 ||potsluhajmstywer.click^
 ||pottex-info.top^
@@ -20434,7 +20443,6 @@
 ||pptv.m.cn.miaozhen.com^
 ||pr.analytics.console.aws.a2z.com^
 ||pr.da.netease.com^
-||pr0merlca.pro^
 ||praca-pl.click^
 ||pracujemy.click^
 ||prasanowosci.click^
@@ -20590,7 +20598,6 @@
 ||pro-advert.de^
 ||pro-advertising.com^
 ||pro-ana-angels.wetpaint.com^
-||pro-bip.click^
 ||pro-blog.plprogram-act.site^
 ||pro-blog.program-plus.xyz^
 ||pro-cd.firebaseapp.com^
@@ -21333,6 +21340,7 @@
 ||rifyeldz.top^
 ||rigelbetelgeuse.top^
 ||rik.top^
+||ringier-advertising.ch^
 ||ripe.localot.top^
 ||ripelyhanif.top^
 ||river.zhidao.baidu.com^
@@ -21387,7 +21395,6 @@
 ||rowdyrope.pro^
 ||rowerowy-szal.click^
 ||royalclass-dm.com^
-||royam.romai-com.top^
 ||rozbij-bank.click^
 ||rozkwitajacedni.click^
 ||rp.baidu.com^
@@ -21676,6 +21683,7 @@
 ||s67.cnzz.com^
 ||s68.cnzz.com^
 ||s69.cnzz.com^
+||s6youcampsloder.top^
 ||s7.adaces.ero-advertising.com^
 ||s7.cnzz.com^
 ||s70.cnzz.com^
@@ -22398,7 +22406,6 @@
 ||sharebar.addthiscdn.com^
 ||shared-download.com^
 ||sharethrough.adnxs.com^
-||sharieller.click^
 ||sharpminiature.top^
 ||shavedpussys.click^
 ||shblzf.top^
@@ -23390,7 +23397,6 @@
 ||tcbox.baidu.com^
 ||tce.alicdn.com^
 ||tcf3k673dc4ls20t.partner.net.daraz.com^
-||tcheflix.top^
 ||tcm.optica.ero-advertising.com^
 ||tcp.push.mob.com^
 ||tcs2.pro^
@@ -24069,7 +24075,6 @@
 ||tradeexpress.click^
 ||tradego.pro^
 ||tradeis.top^
-||tradercademy.top^
 ||tradeyou.top^
 ||trading-ad.net^
 ||traductor-de-google.fr.tt.omtrdc.net^
@@ -24405,7 +24410,6 @@
 ||twojeinformacje.click^
 ||twotreymedia10001697.o18.click^
 ||twt1.aconitem.top^
-||twtcs2.pro^
 ||twtelecom.azure.api-static-stage.net.daraz.com^
 ||twtelecom.stage-spyder-api-azure.net.daraz.com^
 ||twtelecom.www.controller.partner.net.daraz.com^
@@ -24755,6 +24759,7 @@
 ||uspdwmyf.top^
 ||uspebxfu.top^
 ||uspeis.top^
+||uspenw.top^
 ||uspflyyu.top^
 ||uspfsx.top^
 ||uspicz.top^
@@ -24766,14 +24771,15 @@
 ||usplob.top^
 ||usplvq.top^
 ||usplvr.top^
+||uspnic.top^
 ||uspnsn.top^
+||uspnys.top^
 ||uspoav.top^
 ||uspocl.top^
 ||uspocs.top^
 ||uspoit.top^
 ||usponx.top^
 ||uspost.bzcheckadress.top^
-||uspotz.top^
 ||uspovn.top^
 ||uspoxz.top^
 ||uspoy.top^
@@ -24786,7 +24792,6 @@
 ||usps-goto.top^
 ||usps-nslook.top^
 ||usps-rwrc.top^
-||usps-update.shop^
 ||usps.bipackage.top^
 ||usps.checkba.top^
 ||usps.checktd.top^
@@ -24802,8 +24807,10 @@
 ||uspsaua.top^
 ||uspscambiode.top^
 ||uspsfrjo.top^
+||uspsmax.top^
 ||uspspivw.top^
 ||uspssyw.top^
+||uspsula.top^
 ||uspswl.top^
 ||uspsyl.top^
 ||uspsyp.top^
@@ -24815,6 +24822,7 @@
 ||uspust.top^
 ||uspvcoba.top^
 ||uspxfgpe.top^
+||uspxnd.top^
 ||uspzfaqz.top^
 ||uspzllyb.top^
 ||usrom.top^
@@ -24822,10 +24830,8 @@
 ||ust-ad.com^
 ||ustat.pro^
 ||ususall.top^
-||ususam.top^
 ||ususas.top^
 ||ususbk.top^
-||ususch.top^
 ||ususcr.top^
 ||ususcs.top^
 ||ususcvv.top^
@@ -25844,6 +25850,7 @@
 ||vlnted-info.std16012.click^
 ||vlnted-info.std16013.click^
 ||vlsex.pro^
+||vlufleus.click^
 ||vlxx-phimsex.pro^
 ||vlxx-sex.pro^
 ||vlxx.mobi^
@@ -26141,6 +26148,8 @@
 ||vv84.bj.bcebos.com^
 ||vva.liopah.top^
 ||vvd9k19w8wuoxgeq.partner.net.daraz.com^
+||vveb3-ex0duse-vvalletes.top^
+||vveb3-ex0duse-vvallets.top^
 ||vveb3-exoduis-vvallete.top^
 ||vveb3-exodus-vvallet.top^
 ||vvw.wxbgf.top^
@@ -26348,7 +26357,6 @@
 ||webxemsex.pro^
 ||wechat-smtp.tt.omtrdc.net^
 ||wechat.epickeys.com^
-||wee.whatk.top^
 ||weeklyimplement.pro^
 ||weevah2.top^
 ||weilibets-tz-ad.op-mobile.tt.omtrdc.net^
@@ -26392,7 +26400,6 @@
 ||whatif.fr.adobe.com^
 ||whatif.it.adobe.com^
 ||whatisnewappforyou.top^
-||whatsappsndown.top^
 ||whatsone.btspolsky.top^
 ||whedupache.pro^
 ||whestendurous.top^
@@ -26724,6 +26731,7 @@
 ||www.1mp.mobi^
 ||www.1mstr.activeprog3.top^
 ||www.1new.pro-activprofit.site^
+||www.1nnovexa.click^
 ||www.1pro.pro-masters.xyz^
 ||www.1prog.activeprog1.top^
 ||www.1top.activeprog3.top^
@@ -26769,6 +26777,7 @@
 ||www.3dsexcomics.pro^
 ||www.3r1kwxcd.top^
 ||www.3xxx.pro^
+||www.4-72comc.top^
 ||www.435.activeprog2.top^
 ||www.4444444.activpl-pro.site^
 ||www.4anners.ero-advertising.com^
@@ -27123,6 +27132,7 @@
 ||www.agile-enterprise-365.com^
 ||www.agreeable-target.pro^
 ||www.ai-adobe.com^
+||www.ai.nanotechnologyadvancementnewshub.com^
 ||www.aid-ad.jp^
 ||www.akcjaresponsywna.click^
 ||www.akme-club.pro^
@@ -27943,7 +27953,6 @@
 ||www.google-docs.org^
 ||www.google-finance.pw^
 ||www.google-pl.com^
-||www.google.augeprint.com^
 ||www.google.bv-hilden-west.de^
 ||www.google.mellrichstadt-stadtkapelle.de^
 ||www.google.olinails.de^
@@ -28331,6 +28340,7 @@
 ||www.mainadv.com^
 ||www.mainsmrtnews.pro^
 ||www.malastasho.pro^
+||www.malyk.tentaklsistem.click^
 ||www.mamy-czas.click^
 ||www.mamynadzieje.click^
 ||www.mamytylkonas.click^
@@ -29589,6 +29599,7 @@
 ||www.vivaciousbudget.pro^
 ||www.vk-ads.ru^
 ||www.vknrfwwxhxaxupqp.pro^
+||www.vlufleus.click^
 ||www.vobarokinvesting.pro^
 ||www.vodobyve.pro^
 ||www.voiceads.cn^
@@ -30473,7 +30484,6 @@
 ||zdrowoiswietnie.click^
 ||zdrowona100.click^
 ||zdroworadosnie.click^
-||ze-correos.top^
 ||zebeaa.click^
 ||zel9.byseniscon.top^
 ||zelenas-herllenss-pro.cloud^
