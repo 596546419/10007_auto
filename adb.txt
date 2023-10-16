@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-10-16 13:49:47
+! Last modified: 2023-10-16 22:15:03
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-10-16 13:49:47 ^
+!更新时间: 2023-10-16 22:15:03 ^
 
-!规则数量:30644^
+!规则数量:30642^
 !#################^
 
 ||-partner.net.daraz.com^
@@ -13795,6 +13795,7 @@
 ||gmailhack.top^
 ||gmaster-pro.com^
 ||gmgbtg1b9srow19f.partner.net.daraz.com^
+||gmx13.top^
 ||gmx15.top^
 ||gmx16.top^
 ||gmx17.top^
@@ -28067,7 +28068,6 @@
 ||www.honestcapital.pro^
 ||www.hopetopinvest.pro^
 ||www.hordasinvest.pro^
-||www.hospitabletradition.pro^
 ||www.hosting2019336.online.pro^
 ||www.hosting2021623.online.pro^
 ||www.hosting2024700.online.pro^
@@ -28870,7 +28870,6 @@
 ||www.podukaoienm8.pro^
 ||www.podzatkaer.click^
 ||www.pohoronuvlada.lixprog.click^
-||www.pointed-deal.pro^
 ||www.polacypomagaja.click^
 ||www.poland-info.pro^
 ||www.polands.mob-olx.pw^
@@ -29184,7 +29183,6 @@
 ||www.sentimentalconflict.pro^
 ||www.senwatora.click^
 ||www.separatepattern.pro^
-||www.serpentineillegal.pro^
 ||www.service-vinted-pro.eu^
 ||www.sessotube.pro^
 ||www.seure-update.fartit.com^
@@ -29214,7 +29212,6 @@
 ||www.silnepoczatki.click^
 ||www.silver-pen.pro^
 ||www.simplisticpitch.pro^
-||www.simplisticwhole.pro^
 ||www.sin.ero-advertising.com^
 ||www.singapore-advantage.com^
 ||www.siodemka24h7.click^
@@ -30481,6 +30478,7 @@
 ||z11.cnzz.com^
 ||z12.cnzz.com^
 ||z13.cnzz.com^
+||z1wfe.top^
 ||z2.cnzz.com^
 ||z2.finprotect.click^
 ||z2klr9byqq1582ta.partner.net.daraz.com^
