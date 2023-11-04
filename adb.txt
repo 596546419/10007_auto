@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-11-03 22:14:31
+! Last modified: 2023-11-04 09:04:13
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-11-03 22:14:31 ^
+!更新时间: 2023-11-04 09:04:13 ^
 
-!规则数量:31154^
+!规则数量:31155^
 !#################^
 
 ||-partner.net.daraz.com^
@@ -8674,6 +8674,7 @@
 ||b1.maturesexvideos.pro^
 ||b2-data.ads.heytapmobi.com^
 ||b2b.authenticatemail.partner.net.daraz.com^
+||b2b6d102cb7a4898bc54a3b73e31b759.safeframe.googlesyndication.com^
 ||b2binsider.adobe.com^
 ||b2bocab2bhost-www.partner.net.daraz.com^
 ||b2invest-pl.top^
@@ -11452,6 +11453,7 @@
 ||debezium-kafka-qrcode-consumer-service.tt.omtrdc.net^
 ||decentraland.pro^
 ||declaredvalue.top^
+||ded.tentaklsistem.click^
 ||dedyamazon.top^
 ||deepdelver.top^
 ||deeplink.api-sandbox.notarycam.com^
@@ -14302,6 +14304,7 @@
 ||h5.analytics.126.net^
 ||h5.gdt.qq.com^
 ||h559.stamfordadvocate.com^
+||h88sh.tentaklsistem.click^
 ||h9lacq3rwifrqjwn.partner.net.daraz.com^
 ||ha-api.pushwoosh.com^
 ||hack-4-top-eleven.com^
@@ -14805,6 +14808,7 @@
 ||i5cggtoo23ahkwjr.partner.net.daraz.com^
 ||i60ci39p3hbrhjf0.partner.net.daraz.com^
 ||i69zrwy68i8f8d7y.partner.net.daraz.com^
+||i889l.tentaklsistem.click^
 ||ia9it96kcxt6tbbj.partner.net.daraz.com^
 ||iad.e.360.cn^
 ||iad.g.163.com^
@@ -15831,6 +15835,7 @@
 ||jittery-period.pro^
 ||jitteryhire.pro^
 ||jiwzmdfwy0wkodt9.partner.net.daraz.com^
+||jiyouss.top^
 ||jj.newspp.top^
 ||jjaaybqjbnlaw.top^
 ||jjaaybqjbnzny.top^
@@ -17423,6 +17428,7 @@
 ||metrics4.data.hicloud.com^
 ||metrics5.data.hicloud.com^
 ||metrika.yandex.ru^
+||mets.inveslong.top^
 ||mettomcat-partner-payic-tomcat-partner-pay-es-1.net.daraz.com^
 ||metx.mmtsa.top^
 ||mexpost.top^
@@ -17656,6 +17662,7 @@
 ||modnezycie.click^
 ||modny-bon.click^
 ||mogezycztoba.click^
+||mohitodeals.top^
 ||moiragracie.top^
 ||moitoidkoli.click^
 ||moja-paczka-pl-myid576xs.741dfvgbn852.top^
@@ -19132,6 +19139,7 @@
 ||oopch.formew.top^
 ||oos.maxlip.top^
 ||op-www.partner.net.daraz.com^
+||opa.programtts.top^
 ||opads.ero-advertising.com^
 ||opal.papiashvili.top^
 ||open-account-engineering.r-es-1.net.daraz.com^
@@ -19485,6 +19493,7 @@
 ||paczka-pl.top^
 ||paczka-pl.zamow38495.click^
 ||paczka.top^
+||pag.programtts.top^
 ||page-help.case3-violation.click^
 ||pagead-googlehosted.l.google.com^
 ||pagead-tpc.l.google.com^
@@ -20845,6 +20854,7 @@
 ||preludeadv.it^
 ||premierfarnell.tt.hb-api.tt.omtrdc.net^
 ||premium4kflix.top^
+||prenup.top^
 ||prepaidgiftbalance.mobi^
 ||preprod.api.ob.tt.omtrdc.net^
 ||prestamex.top^
@@ -22957,6 +22967,7 @@
 ||social-traffic-7.xyz^
 ||socialadvertise.com^
 ||socialxwww.production.partner-pay.net.daraz.com^
+||sod91.papiashvili.top^
 ||sofawood.top^
 ||soft-pro.site^
 ||soft-tech.top^
@@ -23697,6 +23708,7 @@
 ||tas.programmtrad.top^
 ||tastepilgrimage.top^
 ||tattle.api.osano.com^
+||taur-on24.top^
 ||tautcare.pro^
 ||taw.programmtrad.top^
 ||taw.programtts.top^
@@ -25378,6 +25390,7 @@
 ||vagueleader.pro^
 ||vaguiosfurors.top^
 ||val.atm.cp31.ott.cibntv.net^
+||valadoc.top^
 ||valf.atm.cp31.ott.cibntv.net^
 ||vali-g1.cp31.ott.cibntv.net^
 ||vali.cp31.ott.cibntv.net.302.myalicdn.com^
@@ -26595,6 +26608,7 @@
 ||wads.ozap.com^
 ||wads.plurielles.fr^
 ||wager.dm^
+||wajas-pl.top^
 ||wakeheowinum4.pro^
 ||wal-scommundsen.hb-api.tt.omtrdc.net^
 ||walkets.click^
@@ -26905,6 +26919,7 @@
 ||wojas-com.top^
 ||wojas-pl.top^
 ||wojas.top^
+||wojass.top^
 ||wojastore.top^
 ||wolnemediowe.click^
 ||wolve.pro^
@@ -27805,7 +27820,6 @@
 ||www.brandnewapp.pro^
 ||www.breakingnews-24.pro^
 ||www.bregman.click^
-||www.briefengineer.pro^
 ||www.brodgikinvest.pro^
 ||www.browser.gamingqogs.life^
 ||www.browser.sensorbuqnn.pro^
@@ -28046,6 +28060,7 @@
 ||www.de-mi-nis-ner.info^
 ||www.de-ner-mi-nis4.info^
 ||www.de-nis-ner-mi-5.info^
+||www.ded.tentaklsistem.click^
 ||www.defensiveevidence.pro^
 ||www.defutohy.pro^
 ||www.delphilawadvisory.com^
@@ -28159,7 +28174,6 @@
 ||www.ekspansywnosci.click^
 ||www.ekspertlifestyleu.click^
 ||www.el.projectprog.click^
-||www.elaboratehall.pro^
 ||www.elasticbeanstalk-staff-partner.net.daraz.com^
 ||www.eleganckieszlify.click^
 ||www.eleganthome.click^
@@ -28197,12 +28211,10 @@
 ||www.email-partner-paypartner-legacy.net.daraz.com^
 ||www.email-partner-vortex.net.daraz.com^
 ||www.embambool-partner-pay.net.daraz.com^
-||www.enchanted-stretch.pro^
 ||www.energydrinkadverts.com^
 ||www.engineeringemailvision-production.partner-pay.net.daraz.com^
 ||www.enginepartner-partner-pay-europewest.net.daraz.com^
 ||www.engr.partner-pay.net.daraz.com^
-||www.enormous-society.pro^
 ||www.eos-sis.click^
 ||www.epaymentvision-partner-pay.net.daraz.com^
 ||www.eproductionsvision-staff-partner.net.daraz.com^
@@ -28259,13 +28271,11 @@
 ||www.fapagaineryx8.pro^
 ||www.faporn.pro^
 ||www.faq.brandnewapp.pro^
-||www.faroff-age.pro^
 ||www.fast-adv.it^
 ||www.fastmoney777.click^
 ||www.fata.ero-advertising.com^
 ||www.fatebbc.pro^
 ||www.fatstepn.click^
-||www.favorite-option.pro^
 ||www.fb-ads.aag.co.id^
 ||www.fb-ads.me^
 ||www.fb.drawnow.click^
@@ -28460,6 +28470,7 @@
 ||www.gyhsok-invest.pro^
 ||www.h-flash.com^
 ||www.h-top.com^
+||www.h88sh.tentaklsistem.click^
 ||www.hairy-level.pro^
 ||www.halleyperson.pro^
 ||www.hamdrik-investing.pro^
@@ -28469,7 +28480,6 @@
 ||www.hardsexclips.pro^
 ||www.harmonijnadusza.click^
 ||www.harmonijnystyl.click^
-||www.harsh-definition.pro^
 ||www.hata.ero-advertising.com^
 ||www.havenadverb.com^
 ||www.hb-api.tt.omtrdc.net^
@@ -28549,6 +28559,7 @@
 ||www.i-mobi.pl^
 ||www.i.itpolska.click^
 ||www.i.p2p-union.com^
+||www.i889l.tentaklsistem.click^
 ||www.iad.food-partner-pay.net.daraz.com^
 ||www.iad.gmail-partner-pay.net.daraz.com^
 ||www.iad.partner-pay.berndpulchmedotcom-merchant.net.daraz.com^
@@ -28865,11 +28876,9 @@
 ||www.mediacnt.pro^
 ||www.mediav.com^
 ||www.meds-pro.info^
-||www.meekcomplaint.pro^
 ||www.mefihai5.pro^
 ||www.mememakers.mobi^
 ||www.merry-angels-top.ma.cx^
-||www.meryjane.pro^
 ||www.messenger-20-21-update.blogspot.com^
 ||www.meta-ads.aag.co.id^
 ||www.meta-business-help.pagesupport.click^
@@ -29635,7 +29644,6 @@
 ||www.senioradvertise.com^
 ||www.sensacjelokalne.click^
 ||www.sensacyjnehistorie.click^
-||www.sentimentalconflict.pro^
 ||www.senwatora.click^
 ||www.separatepattern.pro^
 ||www.service-vinted-pro.eu^
@@ -29667,7 +29675,6 @@
 ||www.silencehappy.click^
 ||www.silnepoczatki.click^
 ||www.silver-pen.pro^
-||www.simplisticpitch.pro^
 ||www.sin.ero-advertising.com^
 ||www.sinestrol.pro^
 ||www.singapore-advantage.com^
@@ -29702,14 +29709,12 @@
 ||www.socialadvertise.com^
 ||www.softsmart.mobi^
 ||www.softspace.mobi^
-||www.softsystem.pro^
 ||www.softwareadvice.com^
 ||www.sokmil-ad.com^
 ||www.solidnewykonanie.click^
 ||www.sonnyadvertise.com^
 ||www.sorrowfulsuggestion.pro^
 ||www.sotetahe.pro^
-||www.soulfulinevitable.pro^
 ||www.source2cs.pro^
 ||www.sourcecode.pro^
 ||www.sourcecsgo2.pro^
@@ -29790,7 +29795,6 @@
 ||www.suzanne.pro^
 ||www.svideos.pro^
 ||www.swagger-www-partner-pay.net.daraz.com^
-||www.sweatytraining.pro^
 ||www.sweet-marriage.pro^
 ||www.swiatinformacji.click^
 ||www.swiatloducha.click^
@@ -30048,7 +30052,6 @@
 ||www.unimportant-vehicle.pro^
 ||www.union-wifi.com^
 ||www.universal-traffic.com^
-||www.unripe-voice.pro^
 ||www.unrulymorning.pro^
 ||www.update-1.com^
 ||www.update-accounts-id.online^
@@ -30170,7 +30173,6 @@
 ||www.wiezidomaslonce.click^
 ||www.wifi-k8s.partner.net.daraz.com^
 ||www.wiki.ero-advertising.com^
-||www.wild-plant.pro^
 ||www.williwawadventures.com^
 ||www.win.pro-invst.store^
 ||www.windhawkadvisors.com^
@@ -30292,10 +30294,8 @@
 ||www.zenfield.pro^
 ||www.zerg.pro^
 ||www.zertlik-investing.pro^
-||www.zesty-beer.pro^
 ||www.zgfdczj.mobi^
 ||www.zgloszenieinfo.click^
-||www.zhhgmh.mobi^
 ||www.zigzagstr.staff-partner.net.daraz.com^
 ||www.zimbra-email-update.phoenixsongsbio.net^
 ||www.zindelik-pro.tk^
@@ -31143,6 +31143,7 @@
 ||zwbbkjvzqembe.top^
 ||zwgli.piwylefubefu.top^
 ||zwiastowanieinfo.click^
+||zwojas.top^
 ||zww.ero-advertising.com^
 ||zycietodar.click^
 ||zyciewazne.click^
