@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-11-13 22:14:24 
+#更新时间: 2023-11-14 09:05:35 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:31098
+#规则数量:31120
 ##################
 
 123.6.13.6 bigota.d.miui.com
@@ -1106,6 +1106,7 @@
 127.0.0.1 a.tn.token-ad.com
 127.0.0.1 a.vlion.cn
 127.0.0.1 a.vserv.mobi
+127.0.0.1 a.wlen1bty92.pro
 127.0.0.1 a.youdao.com
 127.0.0.1 a025-8.idmapper.api.api.tt.omtrdc.net
 127.0.0.1 a0food.top
@@ -5168,6 +5169,7 @@
 127.0.0.1 advweb.ru
 127.0.0.1 advwomennews.ru
 127.0.0.1 advx.esprimo.com
+127.0.0.1 advymjwwsuhs.com
 127.0.0.1 advzilla.com
 127.0.0.1 advzone.ioe.vn
 127.0.0.1 adw.ero-advertising.com
@@ -7447,6 +7449,7 @@
 127.0.0.1 api.axiatraders.com
 127.0.0.1 api.b2c.com
 127.0.0.1 api.bailingjiankang.com
+127.0.0.1 api.baimless.com
 127.0.0.1 api.bayimob.com
 127.0.0.1 api.bbconnect-dev-02.apps.tt.omtrdc.net
 127.0.0.1 api.beaconsinspace.com
@@ -10841,6 +10844,7 @@
 127.0.0.1 cqwnqk.top
 127.0.0.1 crab.baidu.com
 127.0.0.1 cradver.livejasmin.com
+127.0.0.1 crankcasees.pro
 127.0.0.1 crash.163.com
 127.0.0.1 crash2.zhihu.com
 127.0.0.1 crashes.mo.wps.cn
@@ -12760,6 +12764,7 @@
 127.0.0.1 extremiu.top
 127.0.0.1 exz1t.top
 127.0.0.1 exzodouse.diwise.top
+127.0.0.1 eyeglassadvisor.com
 127.0.0.1 ez932rrreb772u5c.partner.net.daraz.com
 127.0.0.1 ezgo.advancedtech.com
 127.0.0.1 ezinemark.top
@@ -13722,6 +13727,7 @@
 127.0.0.1 glimpses.top
 127.0.0.1 glisteningproject.pro
 127.0.0.1 glitteringbrush.pro
+127.0.0.1 glixu.click
 127.0.0.1 glob-markets.pro
 127.0.0.1 global-authenticatemail.partner.net.daraz.com
 127.0.0.1 global-b-partner-payseller.ns.emailvision.net.daraz.com
@@ -16867,6 +16873,7 @@
 127.0.0.1 major-video.click
 127.0.0.1 major.dvanadva.ru
 127.0.0.1 make.scitec.click
+127.0.0.1 makeamends.pro
 127.0.0.1 makeattain.top
 127.0.0.1 makeattainhh.top
 127.0.0.1 makemehappy.pro
@@ -17762,6 +17769,7 @@
 127.0.0.1 multicoloredsteak.pro
 127.0.0.1 multimediainfo.click
 127.0.0.1 munion.mediav.com
+127.0.0.1 muriroi7.pro
 127.0.0.1 mus1npoststope.passioshop.top
 127.0.0.1 music.twitter.com
 127.0.0.1 musimyutut.click
@@ -17998,6 +18006,7 @@
 127.0.0.1 negligible-pension.pro
 127.0.0.1 nehodyshy.pro
 127.0.0.1 neofield.click
+127.0.0.1 neopositivist.pro
 127.0.0.1 nep.advangelists.com
 127.0.0.1 nepoteslx.top
 127.0.0.1 neptune.appads.com
@@ -20710,6 +20719,7 @@
 127.0.0.1 pro.oneprofit1.xyz
 127.0.0.1 pro.online-like1.site
 127.0.0.1 pro.origprog.top
+127.0.0.1 pro.panska-energia.com
 127.0.0.1 pro.peqwik.site
 127.0.0.1 pro.plprogram-act.site
 127.0.0.1 pro.pltrade-projekt.xyz
@@ -22712,6 +22722,7 @@
 127.0.0.1 sp3.baidu.com
 127.0.0.1 space2019.top
 127.0.0.1 spacebets.pro
+127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 spaces.ero-advertising.com
 127.0.0.1 sparc.pro
 127.0.0.1 sparkasse.update-hilfe.info
@@ -24314,6 +24325,7 @@
 127.0.0.1 trk.pro-activ.com
 127.0.0.1 trk.share.healthc2u.com
 127.0.0.1 trokloninvest.pro
+127.0.0.1 tropimysprawce.click
 127.0.0.1 trotion-investing.pro
 127.0.0.1 trourted.pro
 127.0.0.1 trp69.top
@@ -26717,6 +26729,7 @@
 127.0.0.1 wojas-pl.top
 127.0.0.1 wojas-shop.top
 127.0.0.1 wojas.top
+127.0.0.1 wojasmall.top
 127.0.0.1 wojass.top
 127.0.0.1 wojasstore.top
 127.0.0.1 wojastore.top
@@ -27378,6 +27391,7 @@
 127.0.0.1 www.advtrineai-pl.xyz
 127.0.0.1 www.advtrkone.com
 127.0.0.1 www.advwomennews.ru
+127.0.0.1 www.advymjwwsuhs.com
 127.0.0.1 www.adw.ero-advertising.com
 127.0.0.1 www.adwo.com
 127.0.0.1 www.adwoplok-investing.pro
@@ -27807,6 +27821,7 @@
 127.0.0.1 www.cpro.baidu.com
 127.0.0.1 www.cpro.chatpros.site
 127.0.0.1 www.cpvadvertise.com
+127.0.0.1 www.crankcasees.pro
 127.0.0.1 www.cre-ads.com
 127.0.0.1 www.crispadvertising.com
 127.0.0.1 www.crpro.tes1aprodj.click
@@ -28079,6 +28094,7 @@
 127.0.0.1 www.expensivesurvey.click
 127.0.0.1 www.extra-advice4u.com
 127.0.0.1 www.extreme-dm.com
+127.0.0.1 www.eyeglassadvisor.com
 127.0.0.1 www.f-ads.pl
 127.0.0.1 www.fa-pro.com
 127.0.0.1 www.facebook-ads.pl
@@ -28241,6 +28257,7 @@
 127.0.0.1 www.girlsfuckvideo.pro
 127.0.0.1 www.giving-weird.pro
 127.0.0.1 www.gkpge.click
+127.0.0.1 www.glixu.click
 127.0.0.1 www.glob-markets.pro
 127.0.0.1 www.globaladv.net
 127.0.0.1 www.globalinformacje.click
@@ -28682,6 +28699,7 @@
 127.0.0.1 www.mailstage-partner-paygh.net.daraz.com
 127.0.0.1 www.mainadv.com
 127.0.0.1 www.mainsmrtnews.pro
+127.0.0.1 www.makeamends.pro
 127.0.0.1 www.malastasho.pro
 127.0.0.1 www.malyk.tentaklsistem.click
 127.0.0.1 www.mamy-czas.click
@@ -28835,6 +28853,7 @@
 127.0.0.1 www.muikdok-invest.pro
 127.0.0.1 www.multicoloredsteak.pro
 127.0.0.1 www.multimediainfo.click
+127.0.0.1 www.muriroi7.pro
 127.0.0.1 www.musimyutut.click
 127.0.0.1 www.mustang-browser.com
 127.0.0.1 www.muzicschool.pro
@@ -28874,6 +28893,7 @@
 127.0.0.1 www.needadvertising.com
 127.0.0.1 www.neeew.pro-activprofit.site
 127.0.0.1 www.nehodyshy.pro
+127.0.0.1 www.neopositivist.pro
 127.0.0.1 www.nest-online.click
 127.0.0.1 www.netflix-login-update.com
 127.0.0.1 www.netflix-update-infos.com
@@ -29322,6 +29342,7 @@
 127.0.0.1 www.pro.ofishlprog1.click
 127.0.0.1 www.pro.oneprofit1.xyz
 127.0.0.1 www.pro.online-like1.site
+127.0.0.1 www.pro.panska-energia.com
 127.0.0.1 www.pro.peqwik.site
 127.0.0.1 www.pro.plprogram-act.site
 127.0.0.1 www.pro.program-plus.site
@@ -29885,6 +29906,7 @@
 127.0.0.1 www.tripadvisor-review21462.g671357.com
 127.0.0.1 www.tripadvisor-review24121.87631-45641.com
 127.0.0.1 www.trokloninvest.pro
+127.0.0.1 www.tropimysprawce.click
 127.0.0.1 www.trotion-investing.pro
 127.0.0.1 www.trourted.pro
 127.0.0.1 www.trudnosciludzi.click

@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-11-13 22:14:29
+! Last modified: 2023-11-14 09:05:40
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-11-13 22:14:29 ^
+!更新时间: 2023-11-14 09:05:40 ^
 
-!规则数量:31065^
+!规则数量:31087^
 !#################^
 
 ||-partner.net.daraz.com^
@@ -1107,6 +1107,7 @@
 ||a.tn.token-ad.com^
 ||a.vlion.cn^
 ||a.vserv.mobi^
+||a.wlen1bty92.pro^
 ||a.youdao.com^
 ||a025-8.idmapper.api.api.tt.omtrdc.net^
 ||a0food.top^
@@ -5169,6 +5170,7 @@
 ||advweb.ru^
 ||advwomennews.ru^
 ||advx.esprimo.com^
+||advymjwwsuhs.com^
 ||advzilla.com^
 ||advzone.ioe.vn^
 ||adw.ero-advertising.com^
@@ -7448,6 +7450,7 @@
 ||api.axiatraders.com^
 ||api.b2c.com^
 ||api.bailingjiankang.com^
+||api.baimless.com^
 ||api.bayimob.com^
 ||api.bbconnect-dev-02.apps.tt.omtrdc.net^
 ||api.beaconsinspace.com^
@@ -10842,6 +10845,7 @@
 ||cqwnqk.top^
 ||crab.baidu.com^
 ||cradver.livejasmin.com^
+||crankcasees.pro^
 ||crash.163.com^
 ||crash2.zhihu.com^
 ||crashes.mo.wps.cn^
@@ -12761,6 +12765,7 @@
 ||extremiu.top^
 ||exz1t.top^
 ||exzodouse.diwise.top^
+||eyeglassadvisor.com^
 ||ez932rrreb772u5c.partner.net.daraz.com^
 ||ezgo.advancedtech.com^
 ||ezinemark.top^
@@ -13723,6 +13728,7 @@
 ||glimpses.top^
 ||glisteningproject.pro^
 ||glitteringbrush.pro^
+||glixu.click^
 ||glob-markets.pro^
 ||global-authenticatemail.partner.net.daraz.com^
 ||global-b-partner-payseller.ns.emailvision.net.daraz.com^
@@ -16868,6 +16874,7 @@
 ||major-video.click^
 ||major.dvanadva.ru^
 ||make.scitec.click^
+||makeamends.pro^
 ||makeattain.top^
 ||makeattainhh.top^
 ||makemehappy.pro^
@@ -17763,6 +17770,7 @@
 ||multicoloredsteak.pro^
 ||multimediainfo.click^
 ||munion.mediav.com^
+||muriroi7.pro^
 ||mus1npoststope.passioshop.top^
 ||music.twitter.com^
 ||musimyutut.click^
@@ -17999,6 +18007,7 @@
 ||negligible-pension.pro^
 ||nehodyshy.pro^
 ||neofield.click^
+||neopositivist.pro^
 ||nep.advangelists.com^
 ||nepoteslx.top^
 ||neptune.appads.com^
@@ -20711,6 +20720,7 @@
 ||pro.oneprofit1.xyz^
 ||pro.online-like1.site^
 ||pro.origprog.top^
+||pro.panska-energia.com^
 ||pro.peqwik.site^
 ||pro.plprogram-act.site^
 ||pro.pltrade-projekt.xyz^
@@ -22713,6 +22723,7 @@
 ||sp3.baidu.com^
 ||space2019.top^
 ||spacebets.pro^
+||spaceframe.mobi.space-frame.co.za^
 ||spaces.ero-advertising.com^
 ||sparc.pro^
 ||sparkasse.update-hilfe.info^
@@ -24315,6 +24326,7 @@
 ||trk.pro-activ.com^
 ||trk.share.healthc2u.com^
 ||trokloninvest.pro^
+||tropimysprawce.click^
 ||trotion-investing.pro^
 ||trourted.pro^
 ||trp69.top^
@@ -26718,6 +26730,7 @@
 ||wojas-pl.top^
 ||wojas-shop.top^
 ||wojas.top^
+||wojasmall.top^
 ||wojass.top^
 ||wojasstore.top^
 ||wojastore.top^
@@ -27379,6 +27392,7 @@
 ||www.advtrineai-pl.xyz^
 ||www.advtrkone.com^
 ||www.advwomennews.ru^
+||www.advymjwwsuhs.com^
 ||www.adw.ero-advertising.com^
 ||www.adwo.com^
 ||www.adwoplok-investing.pro^
@@ -27808,6 +27822,7 @@
 ||www.cpro.baidu.com^
 ||www.cpro.chatpros.site^
 ||www.cpvadvertise.com^
+||www.crankcasees.pro^
 ||www.cre-ads.com^
 ||www.crispadvertising.com^
 ||www.crpro.tes1aprodj.click^
@@ -28080,6 +28095,7 @@
 ||www.expensivesurvey.click^
 ||www.extra-advice4u.com^
 ||www.extreme-dm.com^
+||www.eyeglassadvisor.com^
 ||www.f-ads.pl^
 ||www.fa-pro.com^
 ||www.facebook-ads.pl^
@@ -28242,6 +28258,7 @@
 ||www.girlsfuckvideo.pro^
 ||www.giving-weird.pro^
 ||www.gkpge.click^
+||www.glixu.click^
 ||www.glob-markets.pro^
 ||www.globaladv.net^
 ||www.globalinformacje.click^
@@ -28683,6 +28700,7 @@
 ||www.mailstage-partner-paygh.net.daraz.com^
 ||www.mainadv.com^
 ||www.mainsmrtnews.pro^
+||www.makeamends.pro^
 ||www.malastasho.pro^
 ||www.malyk.tentaklsistem.click^
 ||www.mamy-czas.click^
@@ -28836,6 +28854,7 @@
 ||www.muikdok-invest.pro^
 ||www.multicoloredsteak.pro^
 ||www.multimediainfo.click^
+||www.muriroi7.pro^
 ||www.musimyutut.click^
 ||www.mustang-browser.com^
 ||www.muzicschool.pro^
@@ -28875,6 +28894,7 @@
 ||www.needadvertising.com^
 ||www.neeew.pro-activprofit.site^
 ||www.nehodyshy.pro^
+||www.neopositivist.pro^
 ||www.nest-online.click^
 ||www.netflix-login-update.com^
 ||www.netflix-update-infos.com^
@@ -29323,6 +29343,7 @@
 ||www.pro.ofishlprog1.click^
 ||www.pro.oneprofit1.xyz^
 ||www.pro.online-like1.site^
+||www.pro.panska-energia.com^
 ||www.pro.peqwik.site^
 ||www.pro.plprogram-act.site^
 ||www.pro.program-plus.site^
@@ -29886,6 +29907,7 @@
 ||www.tripadvisor-review21462.g671357.com^
 ||www.tripadvisor-review24121.87631-45641.com^
 ||www.trokloninvest.pro^
+||www.tropimysprawce.click^
 ||www.trotion-investing.pro^
 ||www.trourted.pro^
 ||www.trudnosciludzi.click^
