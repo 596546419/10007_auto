@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-11-17 22:14:11
+! Last modified: 2023-11-18 09:06:58
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-11-17 22:14:10 ^
+!更新时间: 2023-11-18 09:06:57 ^
 
-!规则数量:28592^
+!规则数量:28588^
 !#################^
 
 ||0-5-wechat-0.net.daraz.com^
@@ -2883,7 +2883,6 @@
 ||ads.coopson.com^
 ||ads.corusradionetwork.com^
 ||ads.courierpostonline.com^
-||ads.cpxadroit.com^
 ||ads.cpxcenter.com^
 ||ads.cpxinteractive.com^
 ||ads.cracked.com^
@@ -20654,7 +20653,6 @@
 ||slippery-bed.pro^
 ||slipperyheight.pro^
 ||slipperyinside.pro^
-||sllo.top^
 ||slodka-nagroda.click^
 ||slodki-traf.click^
 ||slog.sina.cn^
@@ -24841,7 +24839,6 @@
 ||www.active.pro-activprofit.site^
 ||www.active.pro-masters.xyz^
 ||www.active1.pro-masters.xyz^
-||www.ad-arata.com^
 ||www.ad-back.net^
 ||www.ad-balancer.at^
 ||www.ad-bay.com^
@@ -27592,7 +27589,6 @@
 ||www.vanderebony.pro^
 ||www.vanderlisten.pro^
 ||www.vasdpok-invest.pro^
-||www.vashebiwa.pro^
 ||www.vazypteke.pro^
 ||www.vbs-game-2.pro^
 ||www.vbs-game.pro^
