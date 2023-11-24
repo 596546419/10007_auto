@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-11-23 22:14:26
+! Last modified: 2023-11-24 09:05:47
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-11-23 22:14:26 ^
+!更新时间: 2023-11-24 09:05:47 ^
 
-!规则数量:28964^
+!规则数量:28960^
 !#################^
 
 ||0-5-wechat-0.net.daraz.com^
@@ -2241,7 +2241,6 @@
 ||adblock-pro-download.com^
 ||adblock-pro.org^
 ||adblock-zen-download.com^
-||adblock.sina.cn^
 ||adblockers.b-cdn.net^
 ||adbma.adk2.co^
 ||adbooth.adk2.co^
@@ -4443,7 +4442,6 @@
 ||adv-views.com^
 ||adv.0tub.com^
 ||adv.440network.com^
-||adv.abv.bg^
 ||adv.ad-splash.jp^
 ||adv.addeluxe.jp^
 ||adv.adflex.vn^
@@ -5568,6 +5566,7 @@
 ||analytics.faceitanalytics.com^
 ||analytics.fatmedia.io^
 ||analytics.favcy.com^
+||analytics.fcgtalent.fi^
 ||analytics.femalefirst.co.uk^
 ||analytics.ferguson.com^
 ||analytics.ff.avast.com^
@@ -7206,7 +7205,6 @@
 ||api.locately.com^
 ||api.locuslabs.com^
 ||api.logentries.com^
-||api.luckyorange.com^
 ||api.luscious.net^
 ||api.lwxs99.com^
 ||api.lytics.io^
@@ -7243,7 +7241,6 @@
 ||api.monedata.io^
 ||api.monetate.net^
 ||api.moogos.com^
-||api.mouseflow.com^
 ||api.mp.uc.cn^
 ||api.mu9.club^
 ||api.mu9.com^
@@ -12651,6 +12648,7 @@
 ||gklma.piwylefubefu.top^
 ||gklqrdk.top^
 ||gkpge.click^
+||gl-product-analytics.com^
 ||gleetchisurvey.top^
 ||glimpses.top^
 ||glisteningproject.pro^
@@ -19733,7 +19731,6 @@
 ||rollpepair.click^
 ||rollskins.top^
 ||romal.byseniscon.top^
-||ronm.top^
 ||roselly.top^
 ||rosemand.pro^
 ||rosenberg.appmetrica.yandex.net^
@@ -25401,7 +25398,6 @@
 ||www.advertyz.com^
 ||www.advfeeds.com^
 ||www.advgalaxy.com^
-||www.advice-ads.s3.amazonaws.com^
 ||www.advicetipmediastory.com^
 ||www.adview.cn^
 ||www.advinci.co^
@@ -26279,6 +26275,7 @@
 ||www.girlsfuckvideo.pro^
 ||www.giving-weird.pro^
 ||www.gkpge.click^
+||www.gl-product-analytics.com^
 ||www.glixu.click^
 ||www.glob-markets.pro^
 ||www.globaladv.net^
@@ -28667,7 +28664,6 @@
 ||yisi.byseniscon.top^
 ||yj-a.p.adnxs.com^
 ||yj.p.adnxs.com^
-||yjbdyjnctgj.top^
 ||yjx020.top^
 ||yk-ssp.ad.youku.com^
 ||ykmxeretfl.top^
