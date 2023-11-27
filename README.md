@@ -1,21 +1,21 @@
 ## 去广告订阅自动更新
 ## [English](./README_en.md)
 
-## 统计 (2023-11-27 09:08:02)
+## 统计 (2023-11-27 15:39:37)
 ```
-完整版累积拦截域名: 29096
-保留广告奖励累积拦截域名: 29063
+完整版累积拦截域名: 29091
+保留广告奖励累积拦截域名: 29058
 ```
 ### 访问量 : ![visitors](http://006.freecounters.co.uk/count-133.pl?count=qe1milbo7p68gg219fmj&type=links&prog=unique)
 
 ## 订阅
 ### 国内请用 **镜像链接**  
 
-| **名称** | **链接** | **镜像链接** | **Github订阅加速链接** |
+| **名称** | **链接** | **镜像链接** | **Github订阅加速链接** | **GITlab镜像链接** |
 | :-- | :-- | :-- | :-- |
-| **完整版** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/master/all) | [加速链接](https://raw.gitmirror.com/lingeringsound/10007_auto/master/all) |
-| **保留广告奖励** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/master/reward) | [加速链接](https://raw.gitmirror.com/lingeringsound/10007_auto/master/reward) |
-| **Adblock规则** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/master/adb.txt) | [加速链接](https://raw.gitmirror.com/lingeringsound/10007_auto/master/adb.txt) |
+| **完整版** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/master/all) | [加速链接](https://raw.gitmirror.com/lingeringsound/10007_auto/master/all) | [GITlab镜像](https://jihulab.com/foreseeable_boy/10007_auto/-/raw/master/all) |
+| **保留广告奖励** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/master/reward) | [加速链接](https://raw.gitmirror.com/lingeringsound/10007_auto/master/reward) | [GITlab镜像](https://jihulab.com/foreseeable_boy/10007_auto/-/raw/master/reward) |
+| **Adblock规则** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/master/adb.txt) | [加速链接](https://raw.gitmirror.com/lingeringsound/10007_auto/master/adb.txt) | [GITlab镜像](https://jihulab.com/foreseeable_boy/10007_auto/-/raw/master/adb.txt) |
 
 
 ## **[捐赠地址](https://github.com/lingeringsound/10007)**
