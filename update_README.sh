@@ -24,10 +24,10 @@ cat << key > `pwd`/README.md
 
 ## 订阅
 
-| **名称** | **链接** | **镜像链接** |
+| **名称** | **链接** | **gitcode镜像链接** | **GITlab镜像链接** |
 | :-- | :-- | :-- |
-| **完整版** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature/all) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/Feature/all) |
-| **保留广告奖励** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature/reward) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/Feature/reward) |
+| **完整版** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature/all) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/Feature/all) | [GITlab镜像](https://jihulab.com/foreseeable_boy/10007_auto/-/raw/Feature/all) |
+| **保留广告奖励** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature/reward) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/Feature/reward) | [GITlab镜像](https://jihulab.com/foreseeable_boy/10007_auto/-/raw/Feature/reward) |
 
 ## **[捐赠地址](https://github.com/lingeringsound/10007)**
 key
@@ -72,11 +72,11 @@ cat << key > `pwd`/README.md
 ## 订阅
 ### 国内请用 **镜像链接**  
 
-| **名称** | **链接** | **镜像链接** | **Github订阅加速链接** |
+| **名称** | **链接** | **镜像链接** | **Github订阅加速链接** | **GITlab镜像链接** |
 | :-- | :-- | :-- | :-- |
-| **完整版** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/master/all) | [加速链接](https://raw.gitmirror.com/lingeringsound/10007_auto/master/all) |
-| **保留广告奖励** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/master/reward) | [加速链接](https://raw.gitmirror.com/lingeringsound/10007_auto/master/reward) |
-| **Adblock规则** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/master/adb.txt) | [加速链接](https://raw.gitmirror.com/lingeringsound/10007_auto/master/adb.txt) |
+| **完整版** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/master/all) | [加速链接](https://raw.gitmirror.com/lingeringsound/10007_auto/master/all) | [GITlab镜像](https://jihulab.com/foreseeable_boy/10007_auto/-/raw/master/all) |
+| **保留广告奖励** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/master/reward) | [加速链接](https://raw.gitmirror.com/lingeringsound/10007_auto/master/reward) | [GITlab镜像](https://jihulab.com/foreseeable_boy/10007_auto/-/raw/master/reward) |
+| **Adblock规则** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/master/adb.txt) | [加速链接](https://raw.gitmirror.com/lingeringsound/10007_auto/master/adb.txt) | [GITlab镜像](https://jihulab.com/foreseeable_boy/10007_auto/-/raw/master/adb.txt) |
 
 
 ## **[捐赠地址](https://github.com/lingeringsound/10007)**
@@ -124,7 +124,7 @@ cat << key > `pwd`/README.md
 
 | **名称** | **链接** | **镜像链接** |
 | :-- | :-- | :-- |
-| **完整版** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/developer/all) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/developer/all) |
+| **完整版** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/developer/all) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/developer/all) | 
 | **保留广告奖励** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/developer/reward) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/developer/all) |
 | **Adblock规则** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/developer/adb.txt) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/developer/adb.txt) |
 
