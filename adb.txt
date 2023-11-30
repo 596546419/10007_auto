@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-11-30 09:07:40
+! Last modified: 2023-11-30 14:33:29
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-11-30 09:07:40 ^
+!更新时间: 2023-11-30 14:33:29 ^
 
-!规则数量:29148^
+!规则数量:29178^
 !#################^
 
 ||0-5-wechat-0.net.daraz.com^
@@ -566,6 +566,7 @@
 ||320165fymz5mxl9d.partner.net.daraz.com^
 ||33.17.182abcnews.hb-api.tt.omtrdc.net^
 ||341k4gu76ywe.top^
+||345.activeprog3.top^
 ||345345.pro-activprofit.site^
 ||34yt2j7kpmrp.top^
 ||35.17.182abcnews.hb-api.tt.omtrdc.net^
@@ -998,6 +999,7 @@
 ||about.twitter.com^
 ||aboveredirect.top^
 ||abq.bostref.top^
+||abracadabraa.pro^
 ||abroad-ad.kingsoft-office-service.com^
 ||abroadv.sbs^
 ||abrts.pro^
@@ -1045,6 +1047,7 @@
 ||accounting-lib-ln-1ebs-partner.net.daraz.com^
 ||accounts-api-psbulle6.hb-fa-dev.tt.omtrdc.net^
 ||accounts-facebook.com-verificate.top^
+||accounts-google-com.google.research.skyfencenet.com^
 ||accounts-group.com-pastas.top^
 ||accounts.doubleclick.net^
 ||accounts.int2-pmgt.api.tt.omtrdc.net^
@@ -3905,6 +3908,7 @@
 ||ads.vimg.net^
 ||ads.vipbaihe.com^
 ||ads.vipcams.com^
+||ads.viralize.tv^
 ||ads.virgin.net^
 ||ads.virginislandsdailynews.com^
 ||ads.virtual-nights.com^
@@ -4578,7 +4582,6 @@
 ||advancepeak.info^
 ||advanceprocarpet.com14diasparaativar.com^
 ||advanceprocarpet.comwww.14diasparaativar.com^
-||advancesrl.eu^
 ||advancets.org^
 ||advancing.acams.org^
 ||advancinginfinitely.com^
@@ -5219,6 +5222,7 @@
 ||amaz.emailon.top^
 ||amazinelistrun.pro^
 ||amazon.myaccount-us.click^
+||amazoncojp.top^
 ||amazoshoppp.top^
 ||amb.siteregitsl.top^
 ||ambitious-upstairs.pro^
@@ -7833,6 +7837,8 @@
 ||audid-api.taobao.com^
 ||auntlyseniors.top^
 ||aupos-zip.top^
+||aupost.uspsdsw.top^
+||aupost.uspszde.top^
 ||aurumx.mllight.top^
 ||auspostmy.top^
 ||auswl5advdb.aus.amer.tt.omtrdc.net^
@@ -8321,6 +8327,7 @@
 ||besguses.pro^
 ||best-deal-hdd.pro^
 ||best-investment24.pro^
+||best-seat.pro^
 ||best-top.de^
 ||best-top.ro^
 ||best-vpn.click^
@@ -8659,6 +8666,7 @@
 ||briankatrine.top^
 ||brickmaster.pro^
 ||bricks.e.qq.com^
+||brief-tank.pro^
 ||briefengineer.pro^
 ||brilliant-raise.pro^
 ||brm.goxsite.top^
@@ -8713,6 +8721,7 @@
 ||bsnnes.pro^
 ||bss.pandora.xiaomi.com^
 ||bst.nextgen1c.click^
+||bt.bloxg.top^
 ||bt.progrr.top^
 ||bt.tess1.top^
 ||bt.tradx.top^
@@ -9357,6 +9366,7 @@
 ||check-out-this.site^
 ||check-update-today.com^
 ||check-update-today.me^
+||check-verifed-account.com^
 ||check.c3scores.com^
 ||check.deldhl.info^
 ||check.diia-gov.in.net^
@@ -9889,7 +9899,6 @@
 ||cmytuok.top^
 ||cn.app.chat.xiaomi.net^
 ||cn.lakdc.top^
-||cn223fh.tokenapp.download^
 ||cnf.adbana.com^
 ||cnnanxing.mobi^
 ||cnnturk.api.useinsider.com^
@@ -10024,7 +10033,6 @@
 ||consumer.krxd.net^
 ||contact-update.centrum24consumer.me^
 ||contact-usps.top^
-||contact-uspss.top^
 ||contact.dependableautos.click^
 ||contactsin.mobi^
 ||containforfeit.top^
@@ -10088,6 +10096,7 @@
 ||cosmossolitude.top^
 ||cosmotechlab.click^
 ||costaegomesadv.com.br^
+||coti.activeprog3.top^
 ||counciladvertising.net^
 ||count.advanseads.com^
 ||count.channeladvisor.com^
@@ -10149,7 +10158,6 @@
 ||crcdn01.adnxs.com^
 ||crcdn09.adnxs.com^
 ||cre-ads.com^
-||cre-store.top^
 ||cre.mix.sina.com.cn^
 ||creative-accelerate.ad.mobiuspace.net^
 ||creative-analytics.crossinstall.io^
@@ -11071,7 +11079,6 @@
 ||download.mediaget.com^
 ||download.mediaplay.ru^
 ||download.parkunload.com^
-||download.pdf00.cn^
 ||download.planify.io^
 ||download.poolking.in^
 ||download.qianka.com^
@@ -11768,7 +11775,6 @@
 ||event.inner-active.mobi^
 ||event.ksosoft.com^
 ||eventcsgo.pro^
-||eventfromblast23.pro^
 ||events-analytics.hotstar.com^
 ||events-api.otherlevels.com^
 ||events-api.soundcloud.com^
@@ -12594,7 +12600,6 @@
 ||getbiz.top^
 ||getenterprises.click^
 ||getfy-click.info^
-||getnewevent.pro^
 ||getpy-click.info^
 ||getskin.pro^
 ||getter.csr41.frontpage-partner.net.daraz.com^
@@ -12941,7 +12946,6 @@
 ||grasz-wygrywasz.top^
 ||gratkadlabystrzaka.click^
 ||gratuit.top^
-||grcgzje.tokenapp.download^
 ||greatblog.top^
 ||greatlove.pro^
 ||greatscroffr.top^
@@ -13254,7 +13258,6 @@
 ||hk.napi.ucweb.com^
 ||hkghkghkg.partner.net.daraz.com^
 ||hl3dc40cv767fi4z.partner.net.daraz.com^
-||hladyod.tokenapp.download^
 ||hlbgw.top^
 ||hlebo.mobi^
 ||hlorka.lixprog.click^
@@ -13363,6 +13366,7 @@
 ||hotxxxfiles.top^
 ||hotxxxmovies.pro^
 ||hotyoungteen.pro^
+||hou.neuru.top^
 ||house.pro-activprofit.site^
 ||housewivesadventures.com^
 ||houtai.2345.com^
@@ -13741,6 +13745,7 @@
 ||in-mpost.top^
 ||in-npost.top^
 ||in-opost.top^
+||in-post-pc.top^
 ||in-post-pi.top^
 ||in-post-pl-myid272xs.0xfee1dead.top^
 ||in-post-pl-myid272xs.abbqza.top^
@@ -14146,6 +14151,7 @@
 ||inpostapl.top^
 ||inpostcloud.top^
 ||inposte.top^
+||inpostepl.top^
 ||inpostipl.top^
 ||inpostl.top^
 ||inpostoffice.top^
@@ -14215,6 +14221,8 @@
 ||inpostpols.top^
 ||inposts-kad.top^
 ||inposts.top^
+||inpostspl.top^
+||inpostst-pl.top^
 ||inpots.top^
 ||inquog.infinitypro.top^
 ||insider-pro.online^
@@ -14257,6 +14265,7 @@
 ||interpower.mllight.top^
 ||intext.ero-advertising.com^
 ||intf.cnzz.com^
+||intglcio.click^
 ||intns1-partner-legacy.twtelecom.net.daraz.com^
 ||intns1-www.partner-pay.v1.net.daraz.com^
 ||intns1.037info-api.twtelecom.net.daraz.com^
@@ -14350,6 +14359,7 @@
 ||isite.baidu.com^
 ||islbaho.top^
 ||isna9.papiashvili.top^
+||isnd.top^
 ||istcs.top^
 ||istotnainformacja.click^
 ||istotyludzkie.click^
@@ -14738,6 +14748,8 @@
 ||kastom.meetttaa-prog.top^
 ||katelin.top^
 ||katerigordas.pro^
+||kavabot.pro^
+||kavashield.pro^
 ||kazigua.top^
 ||kazmun.top^
 ||kb-render.alicdn.com^
@@ -15005,6 +15017,7 @@
 ||lanzouz.com^
 ||lap-click.tr.line.me^
 ||lap.programmtrad.top^
+||lapto.neuru.top^
 ||laqwnrazvywaz.top^
 ||lararforbundet.analytics.ozzi.io^
 ||larasub.conxxx.pro^
@@ -15589,6 +15602,7 @@
 ||m2m-api.inmarket.com^
 ||m2m1.inner-active.mobi^
 ||ma.baidu.cn^
+||ma.programtts.top^
 ||ma1169-r.analytics.edgekey.net^
 ||ma1226-r.analytics.edgekey.net^
 ||ma1275-r.analytics.edgekey.net^
@@ -16001,6 +16015,7 @@
 ||metrics5.data.hicloud.com^
 ||metrika.yandex.ru^
 ||mets.inveslong.top^
+||mett.mlnone.top^
 ||metx.mmtsa.top^
 ||mexpost.top^
 ||meyd.7mmtv.top^
@@ -16780,7 +16795,6 @@
 ||netflix-update.platnosci.tttt-security.com^
 ||netflix.update-payment1.com^
 ||netlfix-update-online.builderallwppro.com^
-||netmx.top^
 ||netnbaprop.hb-api.tt.omtrdc.net^
 ||nettube.top^
 ||network.ad.nu^
@@ -17115,6 +17129,7 @@
 ||obl2.plsttrade.top^
 ||obladv.ru^
 ||oblong-pool.pro^
+||obnk.rangesyts.pro^
 ||obsidiancutter.top^
 ||obstanceder.pro^
 ||obvious-lesson.pro^
@@ -18626,6 +18641,7 @@
 ||pl-progr-pro.programs-pl.xyz^
 ||pl-proj.pro^
 ||pl.ads.justpremium.com^
+||pl.bloxg.top^
 ||pl.caiop.corrz.top^
 ||pl.cattat.top^
 ||pl.cp31.ott.cibntv.net^
@@ -18954,13 +18970,13 @@
 ||post-gyu.top^
 ||post-query.top^
 ||post-tel-me.top^
-||post.autransport.top^
 ||post.tex-prog.top^
 ||post.update.fbsbx.com^
 ||post1.voiceads.cn^
 ||posta-is.top^
 ||posta-zip.top^
 ||postacgme-com.top^
+||postaepis.top^
 ||postal-official.top^
 ||postal.user-login.top^
 ||postallps.top^
@@ -19505,6 +19521,7 @@
 ||quartermedia-ad-service.net^
 ||queenzipper.top^
 ||querotv.click^
+||quicktools-usps.top^
 ||quinatedating.top^
 ||quinfo.top^
 ||quizzicalgrand.pro^
@@ -19816,6 +19833,7 @@
 ||rigelbetelgeuse.top^
 ||rik.top^
 ||ringier-advertising.ch^
+||riot-game.pro^
 ||ripe.localot.top^
 ||ripelyhanif.top^
 ||river.zhidao.baidu.com^
@@ -19855,7 +19873,6 @@
 ||roimedia.advertserve.com^
 ||roio.top^
 ||roligom-investing.pro^
-||roll-bit.pro^
 ||rollpepair.click^
 ||rollskins.top^
 ||romal.byseniscon.top^
@@ -19940,6 +19957,7 @@
 ||runnyestablishment.pro^
 ||runnypage.pro^
 ||runoj.click^
+||rural-report.pro^
 ||rusiuplj.top^
 ||russianschoolgirls.top^
 ||russianvirginssex.top^
@@ -20305,6 +20323,7 @@
 ||scrprimeoffers.top^
 ||scsdcsdcs.top^
 ||scsr11c.www.partner.net.daraz.com^
+||scym8b0.tokenapp.download^
 ||scz1.metregplt.top^
 ||sd.360.cn^
 ||sd.worldpeoplefx.top^
@@ -20719,7 +20738,6 @@
 ||sexvn17.top^
 ||sexvtv1.pro^
 ||sexxxxx.top^
-||sexygood.pro^
 ||sexyteenerotic.pro^
 ||sexyteenmovs.pro^
 ||sexz.top^
@@ -21084,6 +21102,7 @@
 ||snprv.hnhgmh.mobi^
 ||sns.smle.mobi^
 ||so.sina.cn^
+||so4f.top^
 ||soa-vip-ssl.xunlei.com^
 ||soagw.pw.xunlei.com^
 ||sobar.baidu.com^
@@ -21410,7 +21429,6 @@
 ||status.twitter.com^
 ||steal-corp.com^
 ||steamcommunityio.top^
-||steancomnunity.pro^
 ||steel-bedroom.pro^
 ||steeltour.pro^
 ||steenbergen.web.ero-advertising.com^
@@ -21521,6 +21539,7 @@
 ||support-agency123421.click^
 ||support-fb.pages.pro.br^
 ||support-fbz.pages.pro.br^
+||support-secure-update.com^
 ||support.browser.heytapmobi.com^
 ||support.hb-api.tt.omtrdc.net^
 ||support.streamjav.top^
@@ -21767,6 +21786,7 @@
 ||takeaseat.pro^
 ||takebiggainsurvey.top^
 ||takeoffcoral.top^
+||taknsionercou.pro^
 ||takzycietrwa.click^
 ||talabondreary.top^
 ||talazywho.pro^
@@ -21960,13 +21980,13 @@
 ||testbed.api-localhost-ht-1.net.daraz.com^
 ||testbed.lib-ht-1-api-xspacewww.net.daraz.com^
 ||testemailvision.partner-pay.net.daraz.com^
-||tester14761294.pro.vn^
 ||testing1dishpurchasingcorporation.hb-api.tt.omtrdc.net^
 ||testisurbian.top^
 ||testserverlp.pro^
 ||testweb.hb-api.tt.omtrdc.net^
 ||tesx.cotiedzn-prog.top^
 ||tesx.inprog.top^
+||tetmpro.mllight.top^
 ||teuse.top^
 ||tex.ero-advertising.com^
 ||tex5.tesx3.top^
@@ -21980,7 +22000,6 @@
 ||tfsnp.hnhgmh.mobi^
 ||tg.for4you.top^
 ||tg.meitu.com^
-||tg.telegarm-ha.top^
 ||tg0qu.top^
 ||tgadv.it^
 ||tgadvcdn.it^
@@ -22154,6 +22173,7 @@
 ||tools.3g.qq.com^
 ||tools.ad-net.co.uk^
 ||tools.comfig-usps.top^
+||tools.informed-usps.top^
 ||tools.mynumber-usps.top^
 ||tools.tracking-usps.top^
 ||tools.trackpackages-usps.top^
@@ -22594,6 +22614,7 @@
 ||tripadvisor-pre-approved-7h32613h3-a523.olosio.cfd^
 ||tripadvisor-pre-approved5135.8642314.homes^
 ||tripadvisor-pre-approved748476547-47y372t732-nr36472.lline.cfd^
+||tripadvisor-pre-approved937192-nr37129-ee8e357ba585.reltoc.cfd^
 ||tripadvisor-preview.g97713-a78293.com^
 ||tripadvisor-review-longterm6125.idorental.com^
 ||tripadvisor-review-longterm6314.sfpropertyrent.com^
@@ -23097,7 +23118,6 @@
 ||uspbgq.top^
 ||uspbh.top^
 ||uspbq.top^
-||uspcb.top^
 ||uspcmh.top^
 ||uspcms.top^
 ||uspcqs.top^
@@ -23105,7 +23125,6 @@
 ||uspctq.top^
 ||uspdess.top^
 ||uspdgj.top^
-||uspdr.top^
 ||uspdsus.top^
 ||uspdwmyf.top^
 ||uspebxfu.top^
@@ -23181,6 +23200,7 @@
 ||usps.globalposts.top^
 ||usps.mstion.top^
 ||usps.msvcoaz.top^
+||usps.pcpostsale.top^
 ||usps.petion.top^
 ||usps.posntei.top^
 ||usps.postces.top^
@@ -23204,7 +23224,6 @@
 ||uspsfrjo.top^
 ||uspsghsa.top^
 ||uspsgsjtsz.top^
-||uspsha.top^
 ||uspsilia.top^
 ||uspsk.top^
 ||uspslow.top^
@@ -23264,7 +23283,6 @@
 ||uspxfgpe.top^
 ||uspxid.top^
 ||uspxim.top^
-||uspxpd.top^
 ||uspxpe.top^
 ||uspxse.top^
 ||uspydn.top^
@@ -23512,6 +23530,7 @@
 ||veneziamallvip.top^
 ||veneziaoutlst.top^
 ||veneziashop.top^
+||veneziastash.top^
 ||veneziastore.top^
 ||vented.newdostawa174295.click^
 ||vented.otrzymujac03298.top^
@@ -25190,6 +25209,7 @@
 ||www.3.d1g1marka.click^
 ||www.31vcgicj50zg.top^
 ||www.341k4gu76ywe.top^
+||www.345.activeprog3.top^
 ||www.345345.pro-activprofit.site^
 ||www.360-onways.com^
 ||www.360.cn^
@@ -25759,6 +25779,7 @@
 ||www.bent2bent.pro^
 ||www.berzde.lixprog.click^
 ||www.beserte.pro^
+||www.best-seat.pro^
 ||www.best-top.ro^
 ||www.best-vpn.click^
 ||www.bestmarketstoday.click^
@@ -25840,6 +25861,7 @@
 ||www.brandnewapp.pro^
 ||www.breakingnews-24.pro^
 ||www.bregman.click^
+||www.brief-tank.pro^
 ||www.brodgikinvest.pro^
 ||www.browser.gamingqogs.life^
 ||www.browser.sensorbuqnn.pro^
@@ -25919,6 +25941,7 @@
 ||www.check-olx.pl^
 ||www.check-out-this.site^
 ||www.check-update-today.com^
+||www.check-verifed-account.com^
 ||www.check.diia-gov.in.net^
 ||www.check.lawashpol.site^
 ||www.check.whozyourdoula.com^
@@ -26191,6 +26214,7 @@
 ||www.edland.pro^
 ||www.eedclicks.ero-advertising.com^
 ||www.efektywnosciowe.click^
+||www.eislembsv-ailegencc.pro^
 ||www.ekivahut.pro^
 ||www.ekspansywnosci.click^
 ||www.ekspertlifestyleu.click^
@@ -27619,6 +27643,7 @@
 ||www.ru-traffic.com^
 ||www.rundownhang.pro^
 ||www.runoj.click^
+||www.rural-report.pro^
 ||www.rutus.pro^
 ||www.rzetelnainformacja.click^
 ||www.s.ero-advertising.com^
@@ -27866,6 +27891,7 @@
 ||www.tahatch.click^
 ||www.tak-jest.click^
 ||www.takeaseat.pro^
+||www.taknsionercou.pro^
 ||www.takzycietrwa.click^
 ||www.talazywho.pro^
 ||www.talkingdata.com^
@@ -28018,6 +28044,7 @@
 ||www.tripadvisor-longterm-rental6831.mlgproperty.com^
 ||www.tripadvisor-longterm2rooms.com-safety-65ts20ju07vi95-book-apid512608.host^
 ||www.tripadvisor-pre-approved5135.8642314.homes^
+||www.tripadvisor-pre-approved937192-nr37129-ee8e357ba585.reltoc.cfd^
 ||www.tripadvisor-review-longterm6125.idorental.com^
 ||www.tripadvisor-review-longterm6314.sfpropertyrent.com^
 ||www.tripadvisor-review21417.j876261.com^
@@ -28252,6 +28279,7 @@
 ||www.wydarzeniaaktualne.click^
 ||www.wydarzeniadzisiaj.click^
 ||www.wydarzeniamiejscowe.click^
+||www.wydarzeniapowiat.click^
 ||www.wydarzeniawokolicy.click^
 ||www.wydawcymieszkania.click^
 ||www.wysyshypti.pro^
@@ -28478,6 +28506,7 @@
 ||wydarzeniaaktualne.click^
 ||wydarzeniadzisiaj.click^
 ||wydarzeniamiejscowe.click^
+||wydarzeniapowiat.click^
 ||wydarzeniawokolicy.click^
 ||wydawcymieszkania.click^
 ||wyjatkowa-szansa.top^
@@ -28973,6 +29002,7 @@
 ||zagubionefakty.click^
 ||zagubioneosoby.click^
 ||zakb15w76mo5zpj0.partner.net.daraz.com^
+||zakbyajklqare.top^
 ||zakbyajklqzyz.top^
 ||zaktualizuj-adres.top^
 ||zakupowe-bystrzaki.click^
