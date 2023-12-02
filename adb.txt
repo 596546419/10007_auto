@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-12-01 22:14:38
+! Last modified: 2023-12-02 09:05:13
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-12-01 22:14:37 ^
+!更新时间: 2023-12-02 09:05:13 ^
 
-!规则数量:29197^
+!规则数量:29235^
 !#################^
 
 ||0-5-wechat-0.net.daraz.com^
@@ -10312,6 +10312,11 @@
 ||cyhners.ero-advertising.com^
 ||cylindrical-pollution.pro^
 ||cynuguuautr2.pro^
+||cypruspost-nri.top^
+||cyprusposts.top^
+||cypruspostsa.top^
+||cypruspostsu.top^
+||cypruspostt.top^
 ||cytyz.vertysbos.top^
 ||czasdlasiebie.click^
 ||czasnaodkrycia.click^
@@ -11264,6 +11269,7 @@
 ||dynamic-advertising.de^
 ||dynamic-dns.net^
 ||dynsrv.wps.cn^
+||dyrektoralarmuje.click^
 ||dywjcc.top^
 ||dz.mmstat.com^
 ||dzibaninvesting.pro^
@@ -12835,6 +12841,7 @@
 ||go.twi.sm^
 ||go.zacksadvantage.com^
 ||go2cup.pro^
+||go88l.top^
 ||go88r.pro^
 ||goads.pro^
 ||goal68.top^
@@ -13353,6 +13360,7 @@
 ||hot-mob.com^
 ||hot-porn.pro^
 ||hot-teens-movies.mobi^
+||hot4fstore.top^
 ||hotaibera.top^
 ||hotanimaltube.top^
 ||hotasiansex.mobi^
@@ -13751,6 +13759,7 @@
 ||in-mpost.top^
 ||in-npost.top^
 ||in-opost.top^
+||in-post-opl.top^
 ||in-post-pc.top^
 ||in-post-pi.top^
 ||in-post-pl-myid272xs.0xfee1dead.top^
@@ -13785,6 +13794,7 @@
 ||in-post.id-dostawa32984.click^
 ||in-post.top^
 ||in-post.umowa927455.top^
+||in-postir.top^
 ||in-ppost.top^
 ||in-pro.xyz^
 ||in-spost.top^
@@ -13854,6 +13864,7 @@
 ||infocenter.meizu.com^
 ||infochatprogram.top^
 ||infoforum.top^
+||infokolizje.click^
 ||infolixdom.tourshop.top^
 ||infomaibiz.top^
 ||infometa.top^
@@ -13882,6 +13893,7 @@
 ||ini.sm-nat.com^
 ||ini.update.360safe.com^
 ||ininmacerad.pro^
+||inipost-pl.top^
 ||init.sms.mob.com^
 ||injuredworkersadvocates.com^
 ||inner-active.mobi^
@@ -13896,6 +13908,7 @@
 ||inpast-pl.plid8347561.click^
 ||inpasta.top^
 ||inplatform.click^
+||inplosts.top^
 ||inpoost-pl.top^
 ||inpoost.top^
 ||inposst.top^
@@ -14115,6 +14128,7 @@
 ||inpost-pl.zenco.top^
 ||inpost-plpse.top^
 ||inpost-plptse.top^
+||inpost-pol.top^
 ||inpost-polska-ad.30594920.me^
 ||inpost-polska-ad.order8880.info^
 ||inpost-polska-dm.order0912401.info^
@@ -14161,6 +14175,7 @@
 ||inpostcloud.top^
 ||inposte.top^
 ||inpostepl.top^
+||inpostill.top^
 ||inpostipl.top^
 ||inpostl.top^
 ||inpostoffice.top^
@@ -14800,6 +14815,7 @@
 ||khongche.click^
 ||khophimhay.pro^
 ||kibana.partner.net.daraz.com^
+||kierowcaalkohol.click^
 ||kifyeldd.top^
 ||kihudevo.pro^
 ||kijol.lixprog.click^
@@ -14867,6 +14883,7 @@
 ||komarek-stsm.top^
 ||komarek-system.click^
 ||komareksczn.click^
+||komendantalarmuje.click^
 ||komentarzeinfo.click^
 ||kominarinvest.pro^
 ||kommunal-rapport.ads.ramsalt.com^
@@ -15246,6 +15263,7 @@
 ||lk.forrum.top^
 ||lk.servicecom.top^
 ||lkbnneknzkjw.top^
+||lkbnneknzrne.top^
 ||lkj.newstry.top^
 ||lkjkbjnalnqnb.top^
 ||lkkrmarvynlqz.top^
@@ -15845,6 +15863,7 @@
 ||max.gooplays.top^
 ||max.mediav.com^
 ||max.platfohrm.top^
+||max10.pro^
 ||max211.top^
 ||maxi-ad.de^
 ||maxi-pro.maxipl-system.xyz^
@@ -16930,6 +16949,7 @@
 ||nitrous-analytics.s3.amazonaws.com^
 ||niv.meetttaa-prog.top^
 ||njj2.lixprog.click^
+||njmvgf.top^
 ||njnj92.byseniscon.top^
 ||njnjnjn.papiashvili.top^
 ||nkeo.top^
@@ -18242,6 +18262,7 @@
 ||partnerstream2.twitter.com^
 ||partravelavisor.hb-api.tt.omtrdc.net^
 ||pastslvcs.top^
+||pasysmierci.click^
 ||pat.chatprogram.top^
 ||pat.jerat.top^
 ||pata.ero-advertising.com^
@@ -18681,6 +18702,7 @@
 ||platformald.goprogramia.top^
 ||platnosci-konto-update.aktuakont.live^
 ||play-google.pl^
+||play.go88l.top^
 ||play.vaob52.click^
 ||play.x8vn.top^
 ||playgo88.top^
@@ -18807,6 +18829,7 @@
 ||pocztto-pl.top^
 ||poczttow.top^
 ||podatkipl.click^
+||podatneinformacje.click^
 ||podekscytowani.click^
 ||podemnik.pro^
 ||podtkoeiec.click^
@@ -21704,6 +21727,7 @@
 ||szczesliwydzien.click^
 ||szene-traffic.com^
 ||szklarnia.top^
+||szkolaalarmuje.click^
 ||sztukaelegancji.click^
 ||sztukarelaksu.click^
 ||sztukazrownowagi.click^
@@ -22352,6 +22376,7 @@
 ||toroadvertising.com^
 ||toroadvertisingmedia.com^
 ||tosafakty523.click^
+||tossion.top^
 ||totalrecaptcha.top^
 ||tothemoon.incest-porno.pro^
 ||toutiao-frontier.snssdk.com^
@@ -22577,6 +22602,9 @@
 ||traffictoadv.com^
 ||traffictrade.pro^
 ||traficon.pro^
+||tragediadrogowa.click^
+||tragediadziecko.click^
+||tragicznadroga.click^
 ||train-wwwapac-partner.net.daraz.com^
 ||training-ns3.cl.api-docsprint-mo.net.daraz.com^
 ||training-ns3.cl.partner.net.daraz.com^
@@ -25768,7 +25796,6 @@
 ||www.banne2s.ero-advertising.com^
 ||www.banne3s.ero-advertising.com^
 ||www.banne4s.ero-advertising.com^
-||www.banner-exchange-24.de^
 ||www.banner-rotation.com^
 ||www.banner.cz^
 ||www.banner.czech-sex.cz^
@@ -25853,7 +25880,6 @@
 ||www.blogers.tx1tx.click^
 ||www.blogi-pro.prof-stat.site^
 ||www.blogxc.tx1tx.click^
-||www.blueadvertise.com^
 ||www.blueoyster.click^
 ||www.blueway.click^
 ||www.bluflinginvest.pro^
@@ -26212,6 +26238,7 @@
 ||www.dvak.inventnamb.click^
 ||www.dworzec2.webd.pro^
 ||www.dygypoiyigt5.pro^
+||www.dyrektoralarmuje.click^
 ||www.dzibaninvesting.pro^
 ||www.dzisiajszasprawa.click^
 ||www.dzisiejszepytania.click^
@@ -26650,6 +26677,7 @@
 ||www.info-elandia.click^
 ||www.info-google.waw.pl^
 ||www.info-miasto.click^
+||www.infokolizje.click^
 ||www.infomiasteczkowe.click^
 ||www.informacjadzis.click^
 ||www.informacjaswiatowa.click^
@@ -26760,13 +26788,13 @@
 ||www.kajnicte.click^
 ||www.kaka.lixprog.click^
 ||www.kameryurywki.click^
-||www.katerigordas.pro^
 ||www.kdlls.inventnamb.click^
 ||www.kds.ero-advertising.com^
 ||www.kecgnsul.click^
 ||www.kennedys.click^
 ||www.kermo.click^
 ||www.kfkf.inventnamb.click^
+||www.kierowcaalkohol.click^
 ||www.kihudevo.pro^
 ||www.kijol.lixprog.click^
 ||www.kindly-face.pro^
@@ -26786,9 +26814,11 @@
 ||www.kofirusy.pro^
 ||www.kolasi.inventnamb.click^
 ||www.kolezenskieinfo.click^
+||www.kolizyjnefakty.click^
 ||www.kolorowarzeczywistosc.click^
 ||www.komarek-system.click^
 ||www.komareksczn.click^
+||www.komendantalarmuje.click^
 ||www.komentarzeinfo.click^
 ||www.kominarinvest.pro^
 ||www.konkretywazne.click^
@@ -27315,6 +27345,7 @@
 ||www.partner.net.daraz.com^
 ||www.passns-production.partner-pay.net.daraz.com^
 ||www.passns.email-partner-pay.net.daraz.com^
+||www.pasysmierci.click^
 ||www.pata.ero-advertising.com^
 ||www.pathformance-download.com^
 ||www.patroposalun.pro^
@@ -27379,6 +27410,7 @@
 ||www.pocztapolska-pl.order-ad.com^
 ||www.pocztowy.pro^
 ||www.podatkipl.click^
+||www.podatneinformacje.click^
 ||www.podekscytowani.click^
 ||www.podtkoeiec.click^
 ||www.podukaoienm8.pro^
@@ -27897,6 +27929,7 @@
 ||www.szczesliwechwile.click^
 ||www.szczesliwespelnienia.click^
 ||www.szczesliwydzien.click^
+||www.szkolaalarmuje.click^
 ||www.sztukaelegancji.click^
 ||www.sztukarelaksu.click^
 ||www.szukamysladu.click^
@@ -28051,6 +28084,9 @@
 ||www.trafficjunky.com^
 ||www.trafficjunky.net^
 ||www.traffictrade.pro^
+||www.tragediadrogowa.click^
+||www.tragediadziecko.click^
+||www.tragicznadroga.click^
 ||www.tranquilechoes.click^
 ||www.travel-adventures.site^
 ||www.traveladvertising.com^
@@ -28365,6 +28401,7 @@
 ||www.zadbana-ty.click^
 ||www.zaginieni24.click^
 ||www.zaginienidzisiaj.click^
+||www.zaginionykierowca.click^
 ||www.zaginionyslad.click^
 ||www.zagubionefakty.click^
 ||www.zagubioneosoby.click^
@@ -29017,6 +29054,7 @@
 ||zads.zedo.com^
 ||zaginieni24.click^
 ||zaginienidzisiaj.click^
+||zaginionykierowca.click^
 ||zaginionyslad.click^
 ||zagubionefakty.click^
 ||zagubioneosoby.click^
