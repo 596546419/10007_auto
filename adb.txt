@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-12-08 22:14:16
+! Last modified: 2023-12-09 09:06:34
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-12-08 22:14:15 ^
+!更新时间: 2023-12-09 09:06:33 ^
 
-!规则数量:29520^
+!规则数量:29526^
 !#################^
 
 ||0-5-wechat-0.net.daraz.com^
@@ -3829,6 +3829,7 @@
 ||ads.thetrainingofo.com^
 ||ads.thitruongtaichinhtiente.vn^
 ||ads.thrillsaffiliates.com^
+||ads.thvli.vn^
 ||ads.tiki.vn^
 ||ads.tikpage.com^
 ||ads.tiktok.com^
@@ -4488,7 +4489,6 @@
 ||adv-views.com^
 ||adv.0tub.com^
 ||adv.440network.com^
-||adv.abv.bg^
 ||adv.ad-splash.jp^
 ||adv.addeluxe.jp^
 ||adv.adflex.vn^
@@ -5401,6 +5401,7 @@
 ||analytics.amakings.com^
 ||analytics.amazing-media.com^
 ||analytics.ambient-platform.com^
+||analytics.amedigital.vn^
 ||analytics.americanfunds.com^
 ||analytics.amica.com^
 ||analytics.amig.com^
@@ -5565,6 +5566,7 @@
 ||analytics.dev.springboardvideo.com^
 ||analytics.developer.riotgames.com^
 ||analytics.diamondstarfinancial.com.vn^
+||analytics.digi8.vn^
 ||analytics.digital-metric.com^
 ||analytics.digitalpfizer.com^
 ||analytics.directenergy.ca^
@@ -5668,6 +5670,7 @@
 ||analytics.googleapis.com^
 ||analytics.gooogol.com^
 ||analytics.gorillanation.com^
+||analytics.gotama.link^
 ||analytics.govinfo.gov^
 ||analytics.grape.media^
 ||analytics.greenmountain.com^
@@ -5679,6 +5682,7 @@
 ||analytics.gvim.mobi^
 ||analytics.halkbank.com.tr^
 ||analytics.hambleden-capital.com^
+||analytics.hapo.vn^
 ||analytics.harpercollins.com^
 ||analytics.hashnode.com^
 ||analytics.haworth.com^
@@ -25549,6 +25553,7 @@
 ||www.2u.adventur3.xyz^
 ||www.2ydsyb43pd.top^
 ||www.3.d1g1marka.click^
+||www.31vcgicj50zg.top^
 ||www.341k4gu76ywe.top^
 ||www.345.activeprog3.top^
 ||www.345345.pro-activprofit.site^
@@ -25803,6 +25808,7 @@
 ||www.advancednslogin.asesoriasaez.com^
 ||www.advancedsoftwaresupport.com^
 ||www.advancedtrades.online^
+||www.advancementaccrue.com^
 ||www.advancemycommission.com^
 ||www.advancenopregnancy.com^
 ||www.advanceofferstk.com^
@@ -25960,6 +25966,7 @@
 ||www.alarmoweinfo.click^
 ||www.alcazar.pro^
 ||www.alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^
+||www.aliadvert.ru^
 ||www.aliexam-partner.net.daraz.com^
 ||www.alisa.tentaklsistem.click^
 ||www.alisonangel-365-2.blogspot.com^
@@ -26042,6 +26049,7 @@
 ||www.atluhatwer.click^
 ||www.atmnjcinews.pro^
 ||www.atresmedia.hb-api.tt.omtrdc.net^
+||www.attractiveother.pro^
 ||www.aurora-pro.com^
 ||www.auspost-trace.site^
 ||www.autosmierc.click^
@@ -26082,6 +26090,7 @@
 ||www.banne2s.ero-advertising.com^
 ||www.banne3s.ero-advertising.com^
 ||www.banne4s.ero-advertising.com^
+||www.banner-exchange-24.de^
 ||www.banner-rotation.com^
 ||www.banner.cz^
 ||www.banner.czech-sex.cz^
@@ -26313,6 +26322,7 @@
 ||www.commbank-info-update.com^
 ||www.companynet.pro^
 ||www.confinement-ads-case-28939.firebaseapp.com^
+||www.confused-classic.pro^
 ||www.coni-pro.hotpr0g.site^
 ||www.constel-analytics.com^
 ||www.controller.partner.dmetrictestapi.net.daraz.com^
@@ -26332,6 +26342,7 @@
 ||www.cpro.chatpros.site^
 ||www.cpvadvertise.com^
 ||www.crankcasees.pro^
+||www.cre-ads.com^
 ||www.crispadvertising.com^
 ||www.crpro.tes1aprodj.click^
 ||www.crpt-pro.beauty^
@@ -26353,6 +26364,7 @@
 ||www.ctlsigned.partner-pay.net.daraz.com^
 ||www.ctpull-pk-drzlive.partner-pay.net.daraz.com^
 ||www.cuisineenvoyadvertise.com^
+||www.currentaccountadv.com^
 ||www.customerlib-ht-2-partner-legacy.net.daraz.com^
 ||www.customersupport.policiess.click^
 ||www.cvs-partner-payseller.net.daraz.com^
@@ -26520,7 +26532,6 @@
 ||www.e-traffic.com^
 ||www.e-wiadomosci.click^
 ||www.eads.to^
-||www.easyaccess.mobi^
 ||www.easydestiny.click^
 ||www.easyway2.click^
 ||www.ebalovo.mobi^
@@ -26589,7 +26600,7 @@
 ||www.ewew.tentaklsistem.click^
 ||www.exactadvertising.com^
 ||www.exchange-traffic.com^
-||www.exhaustedaccess.pro^
+||www.excitableclub.pro^
 ||www.exit-ad.de^
 ||www.exowa.pro^
 ||www.expensivesurvey.click^
@@ -26912,9 +26923,9 @@
 ||www.hubporn.click^
 ||www.hugregregy.pro^
 ||www.hulu-ios.hb-api.tt.omtrdc.net^
-||www.humiliating-tradition.pro^
 ||www.hurricaneadvantagecomplication.com^
 ||www.huskydesigner.pro^
+||www.hype-ads.com^
 ||www.hyrewusha.pro^
 ||www.i-mobi.pl^
 ||www.i.itpolska.click^
@@ -27037,7 +27048,6 @@
 ||www.jfhd.inventnamb.click^
 ||www.jikicotho.pro^
 ||www.jimi.tentaklsistem.click^
-||www.jitteryhire.pro^
 ||www.jjiiim.tentaklsistem.click^
 ||www.jkla.tes1aprodj.click^
 ||www.jksoid.tentaklsistem.click^
@@ -27088,7 +27098,6 @@
 ||www.klikalneteksty.click^
 ||www.klodben-invest.pro^
 ||www.knottyactive.pro^
-||www.knutenegros.pro^
 ||www.kodim0729.tni-ad.mil.id^
 ||www.kofirusy.pro^
 ||www.kolasi.inventnamb.click^
@@ -27179,6 +27188,7 @@
 ||www.loopholepl.click^
 ||www.lottery.ie^
 ||www.lottery.olg.ca^
+||www.loversarrivaladventurer.com^
 ||www.lowrihouston.pro^
 ||www.lplos.tentaklsistem.click^
 ||www.lpps.inventnamb.click^
@@ -27232,7 +27242,6 @@
 ||www.maski.maskproj.click^
 ||www.maskone.maskproj.click^
 ||www.massage-corp.space^
-||www.massive-dark.pro^
 ||www.mastersdegree.pro^
 ||www.mastik.everadpro.click^
 ||www.mata.ero-advertising.com^
@@ -27626,7 +27635,6 @@
 ||www.pelenuroku.click^
 ||www.pelnaradosc.click^
 ||www.pepperthusadventure.com^
-||www.perfectmovie.pro^
 ||www.perfecttube.pro^
 ||www.perieratklx.click^
 ||www.persgroepadvertising.nl^
@@ -27908,7 +27916,6 @@
 ||www.rayssafe.pro^
 ||www.razemtatamoc.click^
 ||www.razmokl-invest.pro^
-||www.real-difficulty.pro^
 ||www.realadvices9a0.xyz^
 ||www.realnewslongdays.pro^
 ||www.rec-corp.xyz^
@@ -27920,7 +27927,6 @@
 ||www.redirectsstm.click^
 ||www.redmusk.jerat.click^
 ||www.redtubez.click^
-||www.refuzzlizing.pro^
 ||www.regionaladversarylight.com^
 ||www.reklamko.pro^
 ||www.relativeinfo.pro^
@@ -27961,6 +27967,7 @@
 ||www.rs2.ero-advertising.com^
 ||www.rtnews.pro^
 ||www.ru-traffic.com^
+||www.rundownhang.pro^
 ||www.runoj.click^
 ||www.rural-report.pro^
 ||www.rutus.pro^
@@ -28003,6 +28010,7 @@
 ||www.security-update.qhigh.com^
 ||www.seeporn.mobi^
 ||www.selar.pro^
+||www.selfreliantboot.pro^
 ||www.sellerpackaging.partner.net.daraz.com^
 ||www.senioradvertise.com^
 ||www.sensacjelokalne.click^
@@ -28057,6 +28065,8 @@
 ||www.slaxpro.projectprog.click^
 ||www.sledztwo24h.click^
 ||www.sleevemisuseadvice.com^
+||www.slimy-sport.pro^
+||www.slipperyheight.pro^
 ||www.slodka-nagroda.click^
 ||www.slodki-traf.click^
 ||www.slowowolnosci.click^
@@ -28066,7 +28076,6 @@
 ||www.smart-business-365.com^
 ||www.smart-company-365.com^
 ||www.smart-enterprise-365.com^
-||www.smart-name.pro^
 ||www.smartadserver.com^
 ||www.smartlifeadvicezone.live^
 ||www.smartmnews.pro^
@@ -28089,13 +28098,13 @@
 ||www.softwareadvice.com^
 ||www.sokmil-ad.com^
 ||www.solidnewykonanie.click^
+||www.sonnyadvertise.com^
 ||www.sorrowfulsuggestion.pro^
 ||www.sotetahe.pro^
 ||www.source2cs.pro^
 ||www.sourcecode.pro^
 ||www.sourcecsgo2.pro^
 ||www.spaces.ero-advertising.com^
-||www.sparkling-decision.pro^
 ||www.spcialadvices.club^
 ||www.special-offer.pro^
 ||www.speed4cksa.ero-advertising.com^
@@ -28165,7 +28174,6 @@
 ||www.support-agency123421.click^
 ||www.support-fb.pages.pro.br^
 ||www.support-fbz.pages.pro.br^
-||www.supportiveworking.pro^
 ||www.suppprt-dat.pages.pro.br^
 ||www.supprt-tg.pages.pro.br^
 ||www.suspectedadvisor.com^
@@ -28250,6 +28258,7 @@
 ||www.text-link-ads.com^
 ||www.text98w.click^
 ||www.tf2mandem.pro^
+||www.thankful-conference.pro^
 ||www.the-bitcoin-rush-pro.financialmarketsworld.com^
 ||www.the-dubailifestyle-pro.financialmarketsworld.com^
 ||www.the-immediate-advantage.financialmarketsworld.com^
@@ -28303,7 +28312,6 @@
 ||www.top-porn-sites.info^
 ||www.top-pornsites.org^
 ||www.top-premium.weebly.com^
-||www.top-site-list.com^
 ||www.top-szok.club^
 ||www.top-tenz.com^
 ||www.top-way.cyou^
@@ -28425,10 +28433,9 @@
 ||www.unidorlin-invest.pro^
 ||www.union-wifi.com^
 ||www.universal-traffic.com^
+||www.unnatural-situation.pro^
 ||www.unripe-hello.pro^
-||www.unruly-addition.pro^
 ||www.unrulymorning.pro^
-||www.untidy-struggle.pro^
 ||www.unusual-major.pro^
 ||www.update-1.com^
 ||www.update-accounts-id.online^
@@ -28463,6 +28470,7 @@
 ||www.vanderebony.pro^
 ||www.vanderlisten.pro^
 ||www.vasdpok-invest.pro^
+||www.vashebiwa.pro^
 ||www.vazypteke.pro^
 ||www.vbs-game-2.pro^
 ||www.vbs-game.pro^
@@ -28485,6 +28493,7 @@
 ||www.vinted-pl-api.oferta-nfu.me^
 ||www.vinted-pl-id002c.naprzod345894.click^
 ||www.vinted-pl-lzlxo.szybko3848106.click^
+||www.violentanimal.pro^
 ||www.viop32.inventnamb.click^
 ||www.vip.streamwatch.pro^
 ||www.virtuous-father.pro^
@@ -28518,7 +28527,6 @@
 ||www.waznerzeczy.click^
 ||www.wdata.ero-advertising.com^
 ||www.web.cellfun.mobi^
-||www.webmine.pro^
 ||www.webservices-partner.net.daraz.com^
 ||www.weekup.pro^
 ||www.weliko.mi-scooter.co^
@@ -28529,7 +28537,6 @@
 ||www.wesole-maluszki.click^
 ||www.westreclameadvies.nl^
 ||www.wet-maybe.pro^
-||www.whamiwiwu.pro^
 ||www.whamukoji.pro^
 ||www.what.pro-invst.store^
 ||www.whedupache.pro^
@@ -28554,7 +28561,6 @@
 ||www.win.pro-invst.store^
 ||www.windhawkadvisors.com^
 ||www.windproof.pro^
-||www.windy-bench.pro^
 ||www.winsecretary.click^
 ||www.wirtaspin-investing.pro^
 ||www.wirtualnyswiat.click^
